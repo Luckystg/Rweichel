@@ -1,0 +1,23 @@
+# ACTIVITY DIAGRAM — 5
+# Edit Laporan Setelah Submit (via Helpdesk REVISION)
+
+```mermaid
+flowchart TD
+    Start([Mulai]) --> A[User Lihat Laporan\nStatus WAITING / ACC]
+    A --> B[User Ajukan Helpdesk\nJenis REVISION]
+    B --> C[Sistem Kirim Notifikasi WA\nke Admin Global]
+    C --> D[Admin Terima Notifikasi]
+    D --> E{Admin\nSetuju Revisi?}
+    E -- Tidak --> F[Admin Tolak Request\nInfokan ke User]
+    F --> End1([Selesai])
+    E -- Ya --> G[Admin Set Status Laporan\nmenjadi REVISI]
+    G --> H[Notifikasi Realtime ke User]
+    H --> I[User Edit Laporan]
+    I --> J[User Validasi Internal Ulang]
+    J --> K{Status\nREADY_TO_SUBMIT?}
+    K -- Tidak --> I
+    K -- Ya --> L[User Submit Ulang]
+    L --> M[Status kembali ke WAITING]
+    M --> N[Admin Review Ulang]
+    N --> End2([Selesai])
+```
