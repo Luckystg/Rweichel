@@ -1,0 +1,203 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="0OXjmWhSKIGtkoi0n9m-" name="Halaman-1">
+    <mxGraphModel dx="2924" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pool" parent="1" style="swimlane;startSize=30;fontStyle=1;fontSize=13;fillColor=#ffffff;strokeColor=#000000;html=1;" value="Activity Diagram 6: Sistem Helpdesk (TOKEN / ISSUE / REVISION)" vertex="1">
+          <mxGeometry height="1330" width="910" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lUser" parent="pool" style="swimlane;startSize=30;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=1;" value="User" vertex="1">
+          <mxGeometry height="1300" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_start" parent="lUser" style="ellipse;html=1;aspect=fixed;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="100" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_ajukan" parent="lUser" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Ajukan Helpdesk&#xa;(Isi Jenis &amp; Deskripsi)" vertex="1">
+          <mxGeometry height="60" width="170" x="30" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_tKonfirmasi" parent="lUser" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Terima Konfirmasi&#xa;Helpdesk Terkirim" vertex="1">
+          <mxGeometry height="60" width="170" x="25" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_tTokenWA" parent="lUser" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Terima Token&#xa;via WhatsApp" vertex="1">
+          <mxGeometry height="50" width="170" x="25" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_resetPW" parent="lUser" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Buka Halaman Reset&#xa;Password &amp; Input Token" vertex="1">
+          <mxGeometry height="60" width="170" x="25" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_end1" parent="lUser" style="ellipse;html=1;aspect=fixed;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" value="" vertex="1">
+          <mxGeometry height="38" width="38" x="91" y="716" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_end1_dot" parent="lUser" style="ellipse;html=1;aspect=fixed;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="26" width="26" x="97" y="722" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_tIssueResolved" parent="lUser" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Terima Notifikasi&#xa;Issue Telah Ditangani" vertex="1">
+          <mxGeometry height="60" width="170" x="25" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_end2" parent="lUser" style="ellipse;html=1;aspect=fixed;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" value="" vertex="1">
+          <mxGeometry height="38" width="38" x="91" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_end2_dot" parent="lUser" style="ellipse;html=1;aspect=fixed;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="26" width="26" x="97" y="1046" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_end3" parent="lUser" style="ellipse;html=1;aspect=fixed;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" value="" vertex="1">
+          <mxGeometry height="38" width="38" x="91" y="1252" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_end3_dot" parent="lUser" style="ellipse;html=1;aspect=fixed;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="26" width="26" x="97" y="1258" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e1" edge="1" parent="lUser" source="a6_start" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_ajukan">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e10" edge="1" parent="lUser" source="a6_tTokenWA" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_resetPW">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e19" edge="1" parent="lUser" source="a6_tIssueResolved" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_end2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_tRevisiStatus" parent="lUser" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Terima Notifikasi&#xa;Status Laporan REVISI" vertex="1">
+          <mxGeometry height="60" width="170" x="25" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e24" edge="1" parent="lUser" source="a6_tRevisiStatus" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_end3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lSis" parent="pool" style="swimlane;startSize=30;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=1;" value="Sistem" vertex="1">
+          <mxGeometry height="1300" width="230" x="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_insertReq" parent="lSis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="INSERT SupportRequest&#xa;ke Database" vertex="1">
+          <mxGeometry height="60" width="170" x="30" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_decJenis" parent="lSis" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Jenis&#xa;Helpdesk?" vertex="1">
+          <mxGeometry height="90" width="140" x="45" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_emitUnlock" parent="lSis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="EMIT Realtime:&#xa;Akun Ter-UNLOCK" vertex="1">
+          <mxGeometry height="60" width="170" x="30" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_notifIT_issue" parent="lSis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Kirim Notifikasi WA&#xa;ke IT Support (ISSUE)" vertex="1">
+          <mxGeometry height="60" width="170" x="30" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_emitIssue" parent="lSis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="EMIT Realtime:&#xa;Issue Resolved ke User" vertex="1">
+          <mxGeometry height="60" width="170" x="30" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_adminSetRevisi" parent="lSis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Set Status Laporan&#xa;ke REVISI di Dashboard" vertex="1">
+          <mxGeometry height="50" width="170" x="490" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_notifAdmin" parent="lSis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Kirim Notifikasi WA&#xa;ke Admin Global (REVISION)" vertex="1">
+          <mxGeometry height="60" width="170" x="30" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="lIT" parent="pool" style="swimlane;startSize=30;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=1;" value="IT Support" vertex="1">
+          <mxGeometry height="1300" width="230" x="460" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_itVerifUser" parent="lIT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Verifikasi Identitas&#xa;User" vertex="1">
+          <mxGeometry height="50" width="170" x="30" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_itGenToken" parent="lIT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Generate Token Reset&#xa;Password (expiry: 1 jam)&#xa;via Sistem" vertex="1">
+          <mxGeometry height="70" width="170" x="30" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_itTerimaIssue" parent="lIT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Terima Notifikasi WA&#xa;(Jenis: ISSUE)" vertex="1">
+          <mxGeometry height="60" width="170" x="30" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_itHandleIssue" parent="lIT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Investigasi &amp;&#xa;Tangani Issue Teknis" vertex="1">
+          <mxGeometry height="60" width="170" x="30" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_itResolveDB" parent="lIT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="UPDATE SupportRequest&#xa;= RESOLVED" vertex="1">
+          <mxGeometry height="50" width="170" x="30" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e7" edge="1" parent="lIT" source="a6_itTerimaToken" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_itVerifUser">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e8" edge="1" parent="lIT" source="a6_itVerifUser" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_itGenToken">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e15" edge="1" parent="lIT" source="a6_itTerimaIssue" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_itHandleIssue">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e16" edge="1" parent="lIT" source="a6_itHandleIssue" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_itResolveDB">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_notifIT_token" parent="lIT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Kirim Notifikasi WA&#xa;ke IT Support (TOKEN)" vertex="1">
+          <mxGeometry height="60" width="170" x="-200" y="364" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e6" edge="1" parent="lIT" source="a6_notifIT_token" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_itTerimaToken">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_itTerimaToken" parent="lIT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Terima Notifikasi WA&#xa;(Jenis: TOKEN)" vertex="1">
+          <mxGeometry height="60" width="170" x="30" y="364" as="geometry" />
+        </mxCell>
+        <mxCell id="lAdmin" parent="pool" style="swimlane;startSize=30;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=1;" value="Admin Global" vertex="1">
+          <mxGeometry height="1300" width="220" x="690" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_adminTerima" parent="lAdmin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Terima Notifikasi WA&#xa;(Jenis: REVISION)" vertex="1">
+          <mxGeometry height="60" width="170" x="30" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e2" edge="1" parent="pool" source="a6_ajukan" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_insertReq">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e3" edge="1" parent="pool" source="a6_insertReq" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_tKonfirmasi">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="230" />
+              <mxPoint x="110" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a6_e4" edge="1" parent="pool" source="a6_tKonfirmasi" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_decJenis">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e9" edge="1" parent="pool" source="a6_itGenToken" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_tTokenWA">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e11" edge="1" parent="pool" source="a6_resetPW" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_emitUnlock">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e12" edge="1" parent="pool" source="a6_emitUnlock" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_end1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a6_e13" edge="1" parent="pool" source="a6_decJenis" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="a6_notifIT_issue" value="ISSUE">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="310" />
+              <mxPoint x="450" y="780" />
+              <mxPoint x="345" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a6_e14" edge="1" parent="pool" source="a6_notifIT_issue" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_itTerimaIssue">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e17" edge="1" parent="pool" source="a6_itResolveDB" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_emitIssue">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e18" edge="1" parent="pool" source="a6_emitIssue" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_tIssueResolved">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e20" edge="1" parent="pool" source="a6_decJenis" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="a6_notifAdmin" value="REVISION">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="250" />
+              <mxPoint x="810" y="250" />
+              <mxPoint x="810" y="1090" />
+              <mxPoint x="345" y="1090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a6_e5" edge="1" parent="pool" source="a6_decJenis" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="a6_notifIT_token" value="TOKEN">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e21" edge="1" parent="pool" source="a6_notifAdmin" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_adminTerima">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e22" edge="1" parent="pool" source="a6_adminTerima" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_adminSetRevisi">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6_e23" edge="1" parent="pool" source="a6_adminSetRevisi" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a6_tRevisiStatus">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

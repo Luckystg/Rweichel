@@ -1,0 +1,182 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="o-xKKUY59R_9K21p01LK" name="Halaman-1">
+    <mxGraphModel dx="2089" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pool" parent="1" style="swimlane;startSize=30;fontStyle=1;fontSize=13;fillColor=#ffffff;strokeColor=#000000;html=1;" value="Activity Diagram 3: Input Laporan &amp; Validasi Internal" vertex="1">
+          <mxGeometry height="1140" width="700" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lUser" parent="pool" style="swimlane;startSize=30;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=1;" value="User Unit" vertex="1">
+          <mxGeometry height="1110" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_start" parent="lUser" style="ellipse;html=1;aspect=fixed;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="100" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_bukaForm" parent="lUser" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Buka Form&#xa;Input Laporan" vertex="1">
+          <mxGeometry height="50" width="170" x="30" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_tSudahAda" parent="lUser" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Tampil Pesan:&#xa;Laporan Hari Ini&#xa;Sudah Ada" vertex="1">
+          <mxGeometry height="70" width="170" x="30" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_end1" parent="lUser" style="ellipse;html=1;aspect=fixed;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" value="" vertex="1">
+          <mxGeometry height="38" width="38" x="96" y="366" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_end1_dot" parent="lUser" style="ellipse;html=1;aspect=fixed;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="26" width="26" x="102" y="372" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_isiData" parent="lUser" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Isi Data Wajib:&#xa;Harian + Kumulatif&#xa;+ Target vs Realisasi" vertex="1">
+          <mxGeometry height="70" width="170" x="30" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_isiDetail" parent="lUser" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeDasharray=5 5;" value="Isi Box Detail&#xa;(Opsional)" vertex="1">
+          <mxGeometry height="50" width="170" x="30" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_decLengkap" parent="lUser" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Data Sudah&#xa;Lengkap &amp; Benar?" vertex="1">
+          <mxGeometry height="80" width="140" x="45" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_perbaiki" parent="lUser" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Perbaiki Data" vertex="1">
+          <mxGeometry height="50" width="170" x="30" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_decSubmit" parent="lUser" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Mau Submit&#xa;Sekarang?" vertex="1">
+          <mxGeometry height="80" width="140" x="45" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_end2" parent="lUser" style="ellipse;html=1;aspect=fixed;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" value="" vertex="1">
+          <mxGeometry height="38" width="38" x="96" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_end2_dot" parent="lUser" style="ellipse;html=1;aspect=fixed;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="26" width="26" x="102" y="1066" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_e1" edge="1" parent="lUser" source="a3_start" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a3_bukaForm">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_e5" edge="1" parent="lUser" source="a3_tSudahAda" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a3_end1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_e7" edge="1" parent="lUser" source="a3_isiData" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a3_isiDetail">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_e16" edge="1" parent="lUser" source="a3_decSubmit" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="a3_end2" value="Tidak">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lSis" parent="pool" style="swimlane;startSize=30;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=1;" value="Sistem" vertex="1">
+          <mxGeometry height="1110" width="250" x="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_decHariIni" parent="lSis" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Sudah Ada Laporan&#xa;Hari Ini?" vertex="1">
+          <mxGeometry height="80" width="140" x="55" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_setDraft" parent="lSis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Simpan sebagai DRAFT" vertex="1">
+          <mxGeometry height="50" width="170" x="50" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_setNeedRev" parent="lSis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="SET Status:&#xa;NEED_REVISION_INTERNAL" vertex="1">
+          <mxGeometry height="60" width="170" x="40" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_setReady" parent="lSis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="SET Status:&#xa;READY_TO_SUBMIT" vertex="1">
+          <mxGeometry height="50" width="170" x="40" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_submit" parent="lSis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Submit Laporan" vertex="1">
+          <mxGeometry height="50" width="170" x="40" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="lDB" parent="pool" style="swimlane;startSize=30;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=1;" value="Database" vertex="1">
+          <mxGeometry height="1110" width="220" x="480" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_selectReport" parent="lDB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="SELECT Report&#xa;WHERE unitId &amp; tanggal = today" vertex="1">
+          <mxGeometry height="60" width="170" x="25" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_insertDraft" parent="lDB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="INSERT Report (DRAFT)&#xa;INSERT Detail Unit" vertex="1">
+          <mxGeometry height="60" width="170" x="25" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_updateWaiting" parent="lDB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="UPDATE status = WAITING&#xa;EMIT notif ke Admin" vertex="1">
+          <mxGeometry height="60" width="170" x="25" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_e2" edge="1" parent="pool" source="a3_bukaForm" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a3_selectReport">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a3_e3" edge="1" parent="pool" source="a3_selectReport" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a3_decHariIni">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a3_e4" edge="1" parent="pool" source="a3_decHariIni" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="a3_tSudahAda" value="Ya">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="115" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a3_e6" edge="1" parent="pool" source="a3_decHariIni" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a3_isiData" value="Tidak">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a3_e8" edge="1" parent="pool" source="a3_isiDetail" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a3_setDraft">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_e9" edge="1" parent="pool" source="a3_setDraft" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a3_insertDraft">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a3_e10" edge="1" parent="pool" source="a3_insertDraft" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a3_decLengkap">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="115" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a3_e11" edge="1" parent="pool" source="a3_decLengkap" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="a3_setNeedRev" value="Tidak">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="115" y="800" />
+              <mxPoint x="355" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a3_e12" edge="1" parent="pool" source="a3_setNeedRev" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a3_perbaiki">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_e13" edge="1" parent="pool" source="a3_perbaiki" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="a3_decLengkap">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8" y="845" />
+              <mxPoint x="8" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a3_e14" edge="1" parent="pool" source="a3_decLengkap" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a3_setReady" value="Ya">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="750" />
+              <mxPoint x="460" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a3_e15" edge="1" parent="pool" source="a3_setReady" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a3_decSubmit">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="115" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a3_e17" edge="1" parent="pool" source="a3_decSubmit" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="a3_submit" value="Ya">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3_e18" edge="1" parent="pool" source="a3_submit" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a3_updateWaiting">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

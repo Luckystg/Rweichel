@@ -1,0 +1,41 @@
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#ffffff', 'primaryTextColor': '#000000', 'primaryBorderColor': '#000000', 'lineColor': '#000000', 'secondaryColor': '#ffffff', 'tertiaryColor': '#ffffff', 'clusterBkg': '#ffffff', 'clusterBorder': '#000000', 'titleColor': '#000000', 'edgeLabelBackground': '#ffffff', 'background': '#ffffff'}}}%%
+flowchart LR
+    subgraph SISTEM["SISTEM KAI"]
+        direction LR
+        subgraph Lap["Manajemen Laporan"]
+            UC9(["Export Laporan PDF / Excel"])
+        end
+        subgraph Rev["Review & Monitoring"]
+            UC10(["Review Laporan"])
+            UC11(["ACC Laporan"])
+            UC12(["Set Status REVISI"])
+            UC13(["Monitor Semua Unit"])
+            UC14(["Kelola Akun User"])
+            UC15(["Kelola Unit"])
+            UC16(["Lihat Dashboard & Grafik"])
+        end
+        subgraph Help["Helpdesk"]
+            UC22(["Handle Helpdesk REVISION"])
+        end
+        subgraph Auth["Autentikasi"]
+            direction TB
+            UC1(["Login"])
+        end
+    end
+
+    AG["Admin Global"]
+
+    UC1 & UC9 & UC10 & UC11 & UC12 & UC13 & UC14 & UC15 & UC16 & UC22 --- AG
+
+    UC11 -. "«extend»" .-> UC10
+    UC12 -. "«extend»" .-> UC10
+    UC22 -. "«extend»" .-> UC12
+    UC9 -. "«include»" .-> UC1
+    UC10 -. "«include»" .-> UC1
+    UC11 -. "«include»" .-> UC1
+    UC12 -. "«include»" .-> UC1
+    UC13 -. "«include»" .-> UC1
+    UC14 -. "«include»" .-> UC1
+    UC15 -. "«include»" .-> UC1
+    UC16 -. "«include»" .-> UC1
+    UC22 -. "«include»" .-> UC1

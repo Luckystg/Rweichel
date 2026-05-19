@@ -1,0 +1,71 @@
+\newpage
+\chapter{PENDAHULUAN} \label{Bab I}
+
+\section{Latar Belakang} \label{I.Latar Belakang}
+PT Kereta Api Indonesia (Persero) atau KAI merupakan Badan Usaha Milik Negara (BUMN) yang berperan sebagai operator utama transportasi kereta api di Indonesia, beroperasi di Pulau Jawa, Sumatera, dan Sulawesi dengan total panjang jalur mencapai 6.945 kilometer \cite{kai2024wiki}. Pada tahun 2024, KAI mencatat 505 juta penumpang dan volume angkutan barang sebesar 73,5 juta ton dengan total pendapatan sebesar Rp36,1 triliun \cite{kai2024wiki}. Dalam menjalankan operasionalnya, KAI terbagi ke dalam beberapa Divisi Regional (Divre), salah satunya Divre I Sumatera Utara yang berpusat di Medan dan bertanggung jawab atas layanan angkutan penumpang, angkutan barang, pengelolaan aset non-angkutan, serta keuangan \cite{kai2024wiki}. Besarnya skala operasional tersebut menjadikan kebutuhan akan sistem pelaporan kinerja yang andal dan terintegrasi menjadi sangat tinggi. \par
+
+Berdasarkan hasil wawancara dengan Manajer IT PT KAI Divre I Sumatera Utara, Bapak Lexi Alexander Samulo, proses pelaporan kinerja yang berjalan saat ini masih dilakukan melalui grup WhatsApp menggunakan format \textit{template} yang telah ditentukan, dengan frekuensi pengiriman satu kali setiap hari oleh masing-masing unit. Admin membaca laporan satu per satu secara manual tanpa dukungan sistem terpusat, sehingga laporan kerap terlewat karena tertimbun percakapan lain di dalam grup. Kondisi ini menimbulkan sejumlah masalah, seperti format laporan yang tidak seragam, data yang sulit direkap, serta keterlambatan pelaporan yang menyebabkan data tidak tercatat dalam laporan harian divisi. Akibatnya, proses pengelolaan laporan menjadi tidak efisien dan rentan terhadap kesalahan yang sulit ditelusuri karena tidak adanya jejak aktivitas yang terdokumentasi. \par
+
+Permasalahan tersebut berdampak langsung pada kinerja operasional empat unit yang memiliki kewajiban pelaporan harian, yaitu unit Non-Angkutan (KNA), Angkutan Penumpang, Angkutan Barang, dan Keuangan. Keempat unit ini berkaitan langsung dengan pendapatan harian divisi, sehingga keterlambatan atau ketidakakuratan laporan berpotensi menyebabkan data pendapatan tidak tercantum ke kantor pusat. Kondisi ini diperparah oleh tidak adanya mekanisme validasi terstruktur, sehingga ketika terjadi kesalahan data, seluruh pihak harus melakukan penginputan ulang laporan yang menimbulkan beban kerja ganda. Situasi ini secara langsung menghambat pengambilan keputusan strategis dan berpotensi menimbulkan kerugian operasional yang bersifat akumulatif. \par
+
+Meskipun data pelaporan di PT KAI Divre I Sumatera Utara secara keseluruhan berasal dari 16 unit kerja, penelitian ini difokuskan pada keempat unit tersebut karena memiliki frekuensi dan urgensi pelaporan tertinggi serta berkaitan langsung dengan arus pendapatan harian. Pemilihan ini bukan berarti unit lain tidak penting, melainkan agar pengembangan sistem dapat lebih terarah dan mendalam sesuai kebutuhan nyata di lapangan. Sistem yang dirancang dibangun dengan pendekatan modular sehingga dapat dikembangkan dan diperluas untuk mengakomodasi unit-unit lain di masa mendatang. \par
+
+Dalam upaya mengatasi keterbatasan sistem manual, sejumlah organisasi umumnya beralih ke solusi sederhana seperti Microsoft Excel atau Google Form sebagai media pencatatan data \cite{ningsih2023perbandingan}. Namun, berdasarkan hasil wawancara, kedua alternatif tersebut dinilai tidak memadai karena tidak memiliki mekanisme pembatasan akses per unit, tidak mendukung alur validasi terstruktur, serta tidak menyediakan notifikasi otomatis maupun pemantauan secara \textit{real-time}. Penggunaan Excel secara bersamaan juga berpotensi menimbulkan konflik data, sementara Google Form tidak memiliki jejak aktivitas yang dapat digunakan untuk menelusuri perubahan. Kondisi ini menegaskan bahwa permasalahan yang dihadapi menyangkut ketiadaan sistem yang mampu mengelola pelaporan secara menyeluruh, mencakup validasi, pemantauan status, dan notifikasi otomatis dalam satu platform terpadu. \par
+
+Berbagai penelitian terdahulu telah mengembangkan sistem monitoring dan pelaporan berbasis web, namun sebagian besar masih memiliki keterbatasan seperti belum adanya notifikasi melalui saluran komunikasi yang dekat dengan pengguna, belum tersedianya validasi berlapis, maupun belum terakomodasinya pengelolaan laporan dari banyak unit dalam satu platform \cite{nugroho2025monitoring}\cite{mallisza2022waterfall}. Pendekatan berbasis web dipilih karena sistem dapat diakses langsung melalui \textit{browser} tanpa memerlukan instalasi perangkat lunak tambahan pada setiap perangkat, sehingga seluruh pengguna yang telah memiliki perangkat di tempat kerjanya masing-masing dapat langsung menggunakan sistem tanpa hambatan teknis apapun \cite{tarigan2024manajemen}. Celah inilah yang menjadi dasar pengembangan sistem pada penelitian ini. \par
+
+Dalam merancang sistem, metode yang dipilih adalah \textit{Software Development Life Cycle} (SDLC) model \textit{Modified Waterfall}, yakni pendekatan Waterfall yang memungkinkan penyesuaian pada tahap tertentu tanpa harus mengulang keseluruhan proses \cite{prasnowo2024waterfall}. Metode ini dinilai sesuai karena kebutuhan sistem sudah terdefinisi dengan jelas sejak awal, namun tetap membutuhkan fleksibilitas saat pengujian berlangsung \cite{prasnowo2024waterfall}. Dibandingkan dengan metode Agile yang sangat bergantung pada keterlibatan pengguna secara berkelanjutan, \textit{Modified Waterfall} mampu memberikan keseimbangan antara struktur yang jelas dan fleksibilitas terbatas \cite{ningsih2023perbandingan}. \par
+
+Untuk memastikan sistem berfungsi sesuai kebutuhan dan mudah digunakan, pengujian dilakukan menggunakan \textit{blackbox testing} dan \textit{User Acceptance Testing} (UAT) \cite{abdillah2023blackbox}. \textit{Blackbox testing} digunakan untuk memverifikasi bahwa setiap fitur menghasilkan keluaran yang sesuai tanpa memeriksa struktur kode internalnya \cite{abdillah2023blackbox}, sementara UAT dilakukan dengan melibatkan pengguna langsung dari pengguna terkait untuk menilai apakah sistem telah memenuhi kebutuhan nyata dalam konteks kerja sesungguhnya, mengacu pada karakteristik kualitas ISO/IEC 25010 yang mencakup keamanan, kinerja, kemudahan penggunaan, keandalan, kompatibilitas, dan ketersediaan \cite{lamada2024iso}. \par
+
+Berdasarkan seluruh permasalahan yang telah diuraikan, penelitian ini mengusulkan perancangan sistem monitoring dan pelaporan kinerja unit berbasis web yang terintegrasi dengan WhatsApp Gateway menggunakan metode \textit{Modified Waterfall} \cite{prasnowo2024waterfall}\cite{mallisza2022waterfall}. Sistem yang dirancang mencakup penginputan laporan harian per unit, validasi dua tingkat, pemantauan status secara \textit{real-time} melalui dasbor, serta notifikasi otomatis melalui WhatsApp sebagai saluran komunikasi yang selama ini sudah akrab digunakan oleh seluruh pengguna dalam proses pelaporan sehari-hari. Sistem ini juga dilengkapi dengan mekanisme \textit{helpdesk}, fitur ekspor laporan dalam format PDF dan Excel, serta pencatatan aktivitas pengguna (\textit{audit log}) dalam satu platform terpadu \cite{nugroho2025monitoring}\cite{mallisza2022waterfall}. Dengan pendekatan modular, setiap komponen dapat dikembangkan dan diperluas secara mandiri sesuai pertumbuhan kebutuhan PT KAI Divre I Sumatera Utara di masa mendatang \cite{prasnowo2024waterfall}. \par
+
+\section{Rumusan Masalah} \label{I.Rumusan Masalah}
+Berdasarkan latar belakang yang telah diuraikan, rumusan masalah dalam penelitian ini adalah sebagai berikut:
+\begin{enumerate}[noitemsep]
+    \item Bagaimana penerapan metode \textit{Modified Waterfall} dalam pembangunan sistem monitoring dan pelaporan kinerja unit berbasis web di PT KAI Divre I Sumatera Utara yang mampu mengatasi keterbatasan proses pelaporan manual melalui integrasi penginputan laporan, validasi berlapis, pemantauan status secara \textit{real-time}, dan notifikasi otomatis melalui WhatsApp?
+    \item Bagaimana hasil pengujian \textit{blackbox testing} dan \textit{User Acceptance Testing} (UAT) menunjukkan bahwa sistem yang dikembangkan telah memenuhi aspek fungsionalitas dan non-fungsionalitas berdasarkan standar ISO/IEC 25010?
+\end{enumerate}
+
+\section{Tujuan Penelitian} \label{I.Tujuan}
+Sesuai dengan rumusan masalah yang telah ditetapkan, tujuan penelitian ini adalah sebagai berikut:
+\begin{enumerate}[noitemsep]
+    \item Menerapkan metode \textit{Modified Waterfall} dalam pembangunan sistem monitoring dan pelaporan kinerja unit berbasis web di PT KAI Divre I Sumatera Utara yang mampu mengatasi keterbatasan proses pelaporan manual melalui integrasi penginputan laporan, validasi berlapis, pemantauan status secara \textit{real-time}, dan notifikasi otomatis melalui WhatsApp.
+    \item Mengevaluasi kelayakan sistem melalui \textit{blackbox testing} untuk memverifikasi aspek fungsionalitas dan \textit{User Acceptance Testing} (UAT) untuk mengukur pemenuhan aspek non-fungsionalitas sistem berdasarkan standar ISO/IEC 25010 di lingkungan PT KAI Divre I Sumatera Utara.
+\end{enumerate}
+
+\section{Batasan Masalah} \label{I.Batasan}
+Agar penelitian ini lebih terarah dan dapat diselesaikan dalam jangka waktu yang telah ditentukan, maka penelitian ini memiliki batasan masalah sebagai berikut:
+\begin{enumerate}[noitemsep]
+    \item Sistem yang dikembangkan hanya mencakup proses pelaporan operasional harian pada empat unit kerja, yaitu unit KNA, Angkutan Penumpang, Angkutan Barang, dan Keuangan di lingkungan PT KAI Divre I Sumatera Utara, dan tidak mencakup seluruh proses bisnis perusahaan secara menyeluruh.
+    \item Ruang lingkup sistem dibatasi pada aktivitas penginputan laporan, validasi data, dan pemantauan kinerja unit, sehingga fitur-fitur di luar ketiga aktivitas tersebut seperti penggajian, pengadaan, maupun manajemen aset tidak termasuk dalam cakupan penelitian ini.
+    \item Integrasi WhatsApp pada sistem dibatasi hanya pada fungsi notifikasi otomatis terkait status laporan dan pengiriman informasi tertentu, dan tidak mencakup integrasi dengan platform komunikasi lain.
+    \item Data yang digunakan dalam sistem merupakan data operasional harian unit dan tidak mencakup indikator berbasis KPI secara menyeluruh.
+    \item Sistem hanya dapat diakses oleh pengguna yang telah ditentukan, yaitu User Unit sebagai penginput, validator internal, dan pemantau laporan unit masing-masing; Admin Global sebagai validator eksternal, pengulas laporan, dan pemantau kinerja seluruh unit; serta IT Support sebagai pengelola kendala teknis dan keamanan akun.
+\end{enumerate}
+
+\section{Manfaat Penelitian} \label{I.Manfaat}
+Penelitian ini diharapkan dapat memberikan manfaat baik secara praktis maupun akademis.
+
+\textbf{Secara Praktis:}
+\begin{enumerate}[noitemsep]
+    \item Membantu PT KAI Divre I Sumatera Utara dalam meningkatkan efisiensi proses pelaporan kinerja unit melalui platform yang terpusat dan terintegrasi, sehingga mengurangi ketergantungan pada proses manual yang rentan terhadap kesalahan.
+    \item Memberikan kemudahan bagi pengguna dalam pengelolaan laporan harian sekaligus menyediakan jejak aktivitas yang terdokumentasi secara sistematis.
+\end{enumerate}
+
+\textbf{Secara Akademis:}
+\par
+Menjadi referensi bagi pengembangan sistem monitoring dan pelaporan serupa, khususnya pada organisasi dengan struktur pelaporan multi-unit yang kompleks.
+
+\section{Sistematika Penulisan} \label{I.Sistematika}
+Bab I merupakan pendahuluan yang memaparkan latar belakang permasalahan, rumusan masalah, tujuan, manfaat, batasan, serta sistematika penulisan penelitian ini. Bab ini menjadi landasan awal yang mengarahkan keseluruhan pembahasan pada bab-bab selanjutnya. \par
+
+Bab II memuat tinjauan pustaka yang menguraikan penelitian terdahulu yang relevan serta dasar teori yang digunakan sebagai landasan dalam perancangan sistem. Kajian pada bab ini digunakan untuk mengidentifikasi celah penelitian sekaligus memperkuat pendekatan yang dipilih. \par
+
+Bab III menjelaskan metodologi penelitian yang digunakan, mencakup tahapan pengembangan sistem dengan metode \textit{Modified Waterfall}, teknik pengumpulan data, perancangan sistem, serta rancangan pengujian yang akan diterapkan. Bab ini memberikan gambaran menyeluruh mengenai bagaimana penelitian dilaksanakan secara sistematis. \par
+
+Bab IV menyajikan hasil perancangan dan implementasi sistem beserta pembahasan terhadap hasil pengujian menggunakan \textit{blackbox testing} dan UAT. Temuan pada bab ini dianalisis untuk mengukur sejauh mana sistem yang dikembangkan berhasil menjawab rumusan masalah penelitian. \par
+
+Bab V merupakan penutup yang berisi kesimpulan dari keseluruhan hasil penelitian serta saran untuk pengembangan sistem di masa mendatang. Bab ini merangkum pencapaian penelitian secara menyeluruh berdasarkan tujuan yang telah ditetapkan. \par
+
+Dengan disusunnya sistematika penulisan ini, diharapkan pembaca dapat memahami alur logis dan urutan isi dari laporan penelitian secara komprehensif. \par

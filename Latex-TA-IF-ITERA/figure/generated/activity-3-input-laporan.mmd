@@ -1,0 +1,21 @@
+﻿flowchart TD
+    Start([Mulai]) --> A[User Buka Form Input Laporan]
+    A --> B{Sudah Ada Laporan\nHari Ini?}
+    B -- Ya --> C[Tampil Pesan: Laporan Hari Ini Sudah Ada]
+    C --> End1([Selesai])
+    B -- Tidak --> D[Isi Data Wajib:\nHarian + Kumulatif + Target vs Realisasi]
+    D --> E[Isi Box Detail\nOpsional - Boleh Kosong]
+    E --> F[Simpan sebagai DRAFT]
+    F --> G[User Cek Kelengkapan Data]
+    G --> H{Data\nSudah Lengkap\n& Benar?}
+    H -- Tidak --> I[Set Status: NEED_REVISION_INTERNAL]
+    I --> J[User Perbaiki Data]
+    J --> G
+    H -- Ya --> K[Set Status: READY_TO_SUBMIT]
+    K --> L{User Mau\nSubmit?}
+    L -- Tidak --> M[Simpan sebagai READY_TO_SUBMIT\nBisa Submit Nanti]
+    M --> End2([Selesai])
+    L -- Ya --> N[Submit Laporan]
+    N --> O[Set Status: WAITING]
+    O --> P[Notifikasi Realtime ke Admin]
+    P --> End3([Selesai])

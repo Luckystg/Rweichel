@@ -1,0 +1,77 @@
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#ffffff', 'primaryTextColor': '#000000', 'primaryBorderColor': '#000000', 'lineColor': '#000000', 'secondaryColor': '#ffffff', 'tertiaryColor': '#ffffff', 'clusterBkg': '#ffffff', 'clusterBorder': '#000000', 'titleColor': '#000000', 'edgeLabelBackground': '#ffffff', 'background': '#ffffff'}}}%%
+flowchart LR
+    UU["User Unit"]
+
+    subgraph SISTEM["SISTEM KAI"]
+        direction LR
+        subgraph Lap["Manajemen Laporan"]
+            UC3(["Input Laporan Harian"])
+            UC4(["Tambah Komoditi Barang"])
+            UC5(["Input Target / RKAP"])
+            UC6(["Validasi Internal Laporan"])
+            UC7(["Submit Laporan"])
+            UC8(["Lihat Status Laporan"])
+            UC9(["Export Laporan PDF / Excel"])
+        end
+        subgraph Rev["Review & Monitoring"]
+            UC10(["Review Laporan"])
+            UC11(["ACC Laporan"])
+            UC12(["Set Status REVISI"])
+            UC13(["Monitor Semua Unit"])
+            UC14(["Kelola Akun User"])
+            UC15(["Kelola Unit"])
+            UC16(["Lihat Dashboard & Grafik"])
+        end
+        subgraph Help["Helpdesk"]
+            UC17(["Ajukan Helpdesk TOKEN"])
+            UC18(["Ajukan Helpdesk ISSUE"])
+            UC19(["Ajukan Helpdesk REVISION"])
+            UC20(["Handle Helpdesk TOKEN"])
+            UC21(["Handle Helpdesk ISSUE"])
+            UC22(["Handle Helpdesk REVISION"])
+            UC23(["Generate Token Reset Password"])
+        end
+        subgraph Auth["Autentikasi"]
+            direction TB
+            UC2(["Reset Password via Token"])
+            UC1(["Login"])
+        end
+    end
+
+    AG["Admin Global"]
+    IT["IT Support"]
+
+    UU --- UC1 & UC2
+    UU --- UC3 & UC5 & UC6 & UC7 & UC9
+    UU --- UC17 & UC18 & UC19
+    UC1 & UC9 & UC10 & UC11 & UC12 & UC13 & UC14 & UC15 & UC16 & UC22 --- AG
+    UC1 & UC13 & UC20 & UC21 & UC23 --- IT
+
+    UC7 -. "«include»" .-> UC6
+    UC4 -. "«extend»" .-> UC3
+    UC2 -. "«include»" .-> UC17
+    UC8 -. "«extend»" .-> UC7
+    UC11 -. "«extend»" .-> UC10
+    UC12 -. "«extend»" .-> UC10
+    UC22 -. "«extend»" .-> UC12
+    UC20 -. "«include»" .-> UC23
+    UC3 -. "«include»" .-> UC1
+    UC4 -. "«include»" .-> UC1
+    UC5 -. "«include»" .-> UC1
+    UC6 -. "«include»" .-> UC1
+    UC7 -. "«include»" .-> UC1
+    UC8 -. "«include»" .-> UC1
+    UC9 -. "«include»" .-> UC1
+    UC10 -. "«include»" .-> UC1
+    UC11 -. "«include»" .-> UC1
+    UC12 -. "«include»" .-> UC1
+    UC13 -. "«include»" .-> UC1
+    UC14 -. "«include»" .-> UC1
+    UC15 -. "«include»" .-> UC1
+    UC16 -. "«include»" .-> UC1
+    UC18 -. "«include»" .-> UC1
+    UC19 -. "«include»" .-> UC1
+    UC20 -. "«include»" .-> UC1
+    UC21 -. "«include»" .-> UC1
+    UC22 -. "«include»" .-> UC1
+    UC23 -. "«include»" .-> UC1

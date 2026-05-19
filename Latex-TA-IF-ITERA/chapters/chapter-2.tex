@@ -1,0 +1,543 @@
+\newpage
+\chapter{TINJAUAN PUSTAKA} \label{Bab II}
+
+\section{Tinjauan Pustaka} \label{II.Tinjauan}
+Bagian ini memaparkan hasil kajian terhadap penelitian-penelitian terdahulu yang memiliki keterkaitan langsung dengan topik yang diangkat dalam penelitian ini. Setiap penelitian diulas secara sistematis mencakup permasalahan yang diangkat, metode yang digunakan, kontribusi yang dihasilkan, serta kelebihan dan keterbatasannya. Kajian ini juga berfungsi sebagai dasar untuk mengidentifikasi celah penelitian yang menjadi justifikasi dikembangkannya sistem pada penelitian ini.
+
+\begin{enumerate}[noitemsep]
+    \item Penelitian pertama dilakukan oleh Rio dan Prasetyo yang diterbitkan pada tahun 2024 dengan judul "Pengembangan Sistem Informasi Geografis Titik Lokasi Pencurian Sepeda Motor di Kepolisian Resor Lampung Utara dengan Metode Modified Waterfall" \cite{rio2024gis}. Penelitian ini mengangkat permasalahan belum tersedianya sistem informasi yang efektif untuk memetakan lokasi pencurian sepeda motor di Kabupaten Lampung Utara. Pengembangan sistem dilakukan menggunakan metode \textit{Modified Waterfall} dengan evaluasi \textit{black-box testing} dan \textit{System Usability Scale} (SUS). Hasil penelitian menunjukkan bahwa sistem berhasil dikembangkan dan mampu memetakan titik lokasi pencurian sepeda motor secara efektif, dengan pengujian fungsional menunjukkan tidak ditemukan kesalahan dan evaluasi SUS memperoleh peringkat A. Keterbatasan penelitian ini terletak pada fokus sistem yang hanya pada pemetaan lokasi dan belum mencakup sistem monitoring dan pelaporan operasional harian yang melibatkan banyak unit kerja.
+
+    \item Penelitian kedua dilakukan oleh Fajri dan Ariessanti pada tahun 2024 dengan judul "Sistem Monitoring Pelaporan Kerja Bulanan PJLP Menggunakan Metode Waterfall pada Sekretariat Direktorat Jenderal Aplikasi Informatika" \cite{fajri2024monitoring}. Penelitian ini dilatarbelakangi oleh belum tersedianya sistem yang memadai untuk membantu atasan dalam memantau pekerjaan Pegawai Jasa Lainnya Perorangan (PJLP) serta menyusun laporan bulanan sebagai dasar pengambilan keputusan. Metode Waterfall digunakan dengan hasil peningkatan efisiensi operasional, transparansi pelaporan, serta kemudahan bagi atasan dalam memantau kinerja PJLP. Keterbatasan penelitian ini adalah sistem hanya berfokus pada pelaporan bulanan, belum mendukung pelaporan harian multi-unit, tidak dilengkapi mekanisme validasi bertingkat, serta belum mengintegrasikan notifikasi otomatis.
+
+    \item Penelitian ketiga dilakukan oleh Jubaedi, Dwiyatno, Krisnaningsih, Solihin, Shafitri, dan Sutiawan pada tahun 2023 dengan judul "Sistem Informasi Monitoring Kegiatan Absensi Siswa dengan Notifikasi WhatsApp" \cite{jubaedi2023absensi}. Penelitian ini berangkat dari permasalahan masih terjadinya kecurangan dan kesalahan pencatatan kehadiran siswa akibat penggunaan sistem absensi konvensional. Sistem dikembangkan menggunakan metode Waterfall dengan fitur notifikasi WhatsApp untuk memberikan informasi kehadiran secara \textit{real-time}. Hasil penelitian menunjukkan bahwa sistem berhasil meningkatkan komunikasi dan akurasi pengambilan keputusan. Keterbatasan penelitian ini terletak pada ruang lingkup sistem yang hanya menangani satu jenis data absensi, tanpa dukungan pelaporan multi-unit dan validasi berlapis.
+
+    \item Penelitian keempat dilakukan oleh Lutfiyah, Hamdani, dan Prabowo pada tahun 2025 dengan judul "Perancangan Dashboard Digital untuk Monitoring Kinerja Organisasi serta Informasi untuk Pelanggan pada PT PLN (Persero) UP3 Banyuwangi" \cite{lutfiyah2025dashboard}. Penelitian ini didasari oleh belum tersedianya \textit{dashboard} digital yang mampu memantau kinerja internal organisasi serta menyampaikan informasi kepada pelanggan secara terintegrasi. Metode Waterfall digunakan dengan evaluasi sistem melalui pemodelan UML dan perancangan antarmuka menggunakan Figma. Hasil penelitian menunjukkan bahwa \textit{dashboard} yang dirancang mampu meningkatkan efisiensi pemantauan kinerja dan mendukung pengambilan keputusan manajerial. Keterbatasan penelitian ini adalah sistem masih berada pada tahap perancangan visual dan belum mencakup implementasi \textit{backend} yang lengkap.
+
+    \item Penelitian kelima dilakukan oleh Elan Pratama dan Nur'aini pada tahun 2023 dengan judul "Implementasi Agile Development dengan Scrum dalam Perancangan Sistem Informasi Berbasis Website" \cite{pratama2023scrum}. Penelitian ini mengangkat permasalahan CV Sumber Teknik yang belum memiliki media informasi dan promosi berbasis web yang terstruktur. Pengembangan sistem dilakukan menggunakan pendekatan \textit{Agile Development} dengan kerangka kerja Scrum serta diimplementasikan menggunakan Laravel dan MySQL. Evaluasi sistem dilakukan melalui \textit{black-box testing}. Hasil penelitian menunjukkan bahwa sistem informasi berbasis web berhasil dikembangkan dan penerapan metode Scrum terbukti mempercepat proses pengembangan. Keterbatasan penelitian ini adalah fokus sistem yang lebih menitikberatkan pada media informasi dan promosi, bukan pada sistem monitoring dan pelaporan operasional harian yang membutuhkan validasi data, kontrol akses berlapis, dan jejak audit.
+
+    \item Penelitian keenam dilakukan oleh Prasetio dan Cuhenda pada tahun 2025 dengan judul "Perancangan Sistem Monitoring dan Evaluasi Proyek Berbasis Laravel untuk Optimalisasi Manajemen Proyek PT. Inkaba (Perseroda)" \cite{nugroho2025monitoring}. Penelitian ini dilatarbelakangi oleh meningkatnya kompleksitas dan volume proyek di PT Inkaba yang menimbulkan kendala dalam pemantauan kemajuan proyek, alokasi sumber daya, dan pelaporan yang tepat waktu. Metode Waterfall dengan pendekatan \textit{Research and Development} (R\&D) digunakan dengan evaluasi melalui UAT. Hasil pengujian menunjukkan tingkat kepatuhan fungsional sebesar 98,5\%, kepuasan pengguna sebesar 92\%, penurunan waktu pelaporan hingga 65\%, serta peningkatan kepatuhan jadwal proyek sebesar 43\%. Keterbatasan penelitian ini adalah belum tersedianya integrasi notifikasi melalui WhatsApp Gateway, serta belum mendukung pengelolaan laporan dari berbagai unit kerja dalam satu platform terpadu.
+\end{enumerate}
+
+Perbandingan keenam penelitian tersebut secara ringkas disajikan pada Tabel \ref{table:2.literasi} berikut.
+
+\begin{landscape}
+\begin{longtable}{|p{0.03\linewidth}|p{0.22\linewidth}|p{0.15\linewidth}|p{0.13\linewidth}|p{0.14\linewidth}|p{0.20\linewidth}|}
+    \caption{Perbandingan Penelitian Terdahulu}
+    \label{table:2.literasi}\\
+    \hline
+    \textbf{No.} & \textbf{Penulis [Tahun] [Judul]} & \textbf{Masalah} & \textbf{Metode dan Evaluasi} & \textbf{Hasil} & \textbf{Keterbatasan} \\
+    \hline
+    \endfirsthead
+    \multicolumn{6}{l}{\textit{Lanjutan dari halaman sebelumnya}} \\
+    \caption[]{Perbandingan Penelitian Terdahulu} \\
+    \hline
+    \textbf{No.} & \textbf{Penulis [Tahun] [Judul]} & \textbf{Masalah} & \textbf{Metode dan Evaluasi} & \textbf{Hasil} & \textbf{Keterbatasan} \\
+    \hline
+    \endhead
+    \hline
+    \multicolumn{6}{r}{\textit{Bersambung ke halaman berikutnya}} \\
+    \endfoot
+    \endlastfoot
+    1 & Rio \& Prasetyo [2024] Sistem Informasi Geografis Titik Lokasi Pencurian Sepeda Motor \cite{rio2024gis} & Belum ada sistem GIS yang efektif & \textit{Modified Waterfall}; \textit{Black-box}, SUS & Kualitatif: sistem berhasil memetakan lokasi pencurian, pengujian fungsional lulus. Kuantitatif: SUS peringkat A & Fokus hanya pada pemetaan lokasi, belum mencakup monitoring dan pelaporan operasional harian yang melibatkan banyak unit kerja \\
+    \hline
+    2 & Fajri \& Ariessanti [2024] Sistem Monitoring Pelaporan Kerja Bulanan PJLP \cite{fajri2024monitoring} & Belum ada sistem monitoring pelaporan bulanan & \textit{Waterfall}; Fungsional & Kualitatif: efisiensi operasional meningkat, transparansi pelaporan meningkat, atasan lebih mudah memantau kinerja PJLP & Hanya berfokus pada pelaporan bulanan, belum mendukung pelaporan harian multi-unit, tidak dilengkapi validasi bertingkat dan notifikasi otomatis \\
+    \hline
+    3 & Jubaedi dkk. [2023] Monitoring Absensi Siswa dengan Notifikasi WhatsApp \cite{jubaedi2023absensi} & Kecurangan absensi konvensional & \textit{Waterfall}; Fungsional & Kualitatif: komunikasi dan akurasi pengambilan keputusan meningkat, integrasi notifikasi WhatsApp berjalan & Ruang lingkup hanya satu jenis data absensi, tanpa dukungan pelaporan multi-unit dan validasi berlapis \\
+    \hline
+    4 & Lutfiyah dkk. [2025] \textit{Dashboard} Digital Monitoring Kinerja PLN \cite{lutfiyah2025dashboard} & Belum ada \textit{dashboard} digital terintegrasi & \textit{Waterfall}; UML & Kualitatif: \textit{dashboard} meningkatkan efisiensi pemantauan kinerja dan mendukung pengambilan keputusan manajerial & Masih tahap perancangan visual, belum mencakup implementasi \textit{backend} yang lengkap \\
+    \hline
+    5 & Pratama \& Nur'aini [2023] Implementasi \textit{Agile-Scrum} Sistem Informasi Web \cite{pratama2023scrum} & Belum ada media informasi web & \textit{Agile Scrum}; \textit{Black-box} & Kualitatif: sistem informasi berbasis web berhasil dikembangkan, penerapan Scrum mempercepat proses pengembangan & Fokus pada media informasi dan promosi, bukan monitoring operasional harian yang membutuhkan validasi data, kontrol akses berlapis, dan jejak audit \\
+    \hline
+    6 & Prasetio \& Cuhenda [2025] Sistem Monitoring Proyek PT Inkaba \cite{nugroho2025monitoring} & Kesulitan monitoring proyek & \textit{Waterfall} R\&D; UAT & Kuantitatif: kepatuhan fungsional 98,5\%, kepuasan pengguna 92\%, waktu pelaporan turun 65\%, kepatuhan jadwal naik 43\% & Belum ada integrasi notifikasi WhatsApp Gateway, belum mendukung pengelolaan laporan dari berbagai unit dalam satu platform terpadu \\
+    \hline
+\end{longtable}
+\end{landscape}
+
+Berdasarkan kajian terhadap enam penelitian terdahulu di atas, dapat disimpulkan bahwa pengembangan sistem monitoring dan pelaporan berbasis web, baik dengan pendekatan \textit{Waterfall} maupun \textit{Agile Development}, secara umum mampu meningkatkan efisiensi proses kerja dan ketepatan pengelolaan data dibandingkan metode manual. Dari seluruh kajian tersebut, teridentifikasi empat celah utama yang belum terakomodasi secara bersamaan dalam satu sistem, yaitu:
+\begin{enumerate}[noitemsep]
+    \item Belum adanya validasi dua tingkat yang melibatkan \textit{user unit} dan \textit{admin global} secara terstruktur.
+    \item Belum tersedianya integrasi WhatsApp Gateway yang dikombinasikan dengan pemantauan \textit{real-time} berbasis Socket.io dalam konteks pelaporan harian.
+    \item Belum ada sistem yang mengelola laporan dari berbagai unit kerja dalam satu platform terpadu dengan fitur \textit{helpdesk} dan \textit{audit log}.
+    \item Belum ditemukan penelitian serupa pada konteks BUMN sektor transportasi khususnya kereta api.
+\end{enumerate}
+
+Penelitian ini hadir untuk mengisi keempat celah tersebut dengan membangun sistem monitoring dan pelaporan kinerja unit berbasis web yang terintegrasi WhatsApp Gateway (Baileys) dan notifikasi \textit{real-time} (Socket.io) menggunakan metode \textit{Modified Waterfall} dengan pengujian \textit{blackbox testing} dan UAT berbasis ISO/IEC 25010 di lingkungan PT KAI Divre I Sumatera Utara. \par
+
+\section{Dasar Teori} \label{II.Teori}
+
+\subsection{Sistem Monitoring} \label{II.Monitoring}
+Monitoring atau pemantauan merupakan proses pengumpulan dan analisis informasi secara sistematis dan berkelanjutan berdasarkan indikator yang telah ditetapkan, dengan tujuan agar tindakan koreksi dapat dilakukan untuk memperbaiki suatu program atau kegiatan di masa mendatang \cite{bimantara2023monitoring}. Dalam konteks organisasi, pemantauan mencakup serangkaian kegiatan mulai dari pengumpulan data, penelaahan, pelaporan, hingga tindak lanjut berdasarkan informasi mengenai proses yang sedang berjalan. Sistem monitoring yang efektif harus sederhana, berfokus pada indikator utama yang relevan, serta memiliki prosedur yang jelas agar umpan balik dapat diberikan secara tepat waktu kepada pihak yang berwenang \cite{bimantara2023monitoring}. Dalam penelitian ini, konsep monitoring diterapkan pada dasbor berbasis web untuk memantau status laporan kinerja harian empat unit PT KAI Divre I Sumatera Utara secara \textit{real-time}, sehingga Admin Global dapat langsung melihat kondisi pelaporan setiap unit tanpa harus membaca laporan satu per satu secara manual \cite{lutfiyah2025dashboard}. \par
+
+\subsection{Sistem Pelaporan Berbasis Web} \label{II.SistemPelaporan}
+Sistem pelaporan berbasis web adalah sistem informasi yang dirancang untuk mengelola proses pengiriman, validasi, dan pemantauan laporan secara digital melalui \textit{browser}, sehingga menggantikan proses manual yang sebelumnya bergantung pada dokumen fisik maupun aplikasi \textit{chat} \cite{zikra2025webinfo}. Sistem seperti ini mencakup fungsi pengumpulan data, penyimpanan terpusat, dan distribusi laporan secara terstruktur kepada pihak yang berwenang, sehingga data lebih mudah dikelola dan dipertanggungjawabkan \cite{zikra2025webinfo}. Keunggulan utama sistem pelaporan berbasis web dibandingkan metode manual terletak pada kemampuannya menyajikan data secara \textit{real-time}, menyediakan alur validasi yang terstruktur, serta mengurangi potensi kesalahan pencatatan secara signifikan karena seluruh proses dilakukan dalam satu platform terpusat \cite{cahyo2026mbg}. Dalam penelitian ini, sistem pelaporan berbasis web diterapkan untuk mengelola laporan harian dari empat unit PT KAI Divre I Sumatera Utara, dilengkapi validasi dua tingkat, notifikasi otomatis melalui WhatsApp, dan fitur ekspor laporan dalam format PDF dan Excel \cite{nugroho2025monitoring}. \par
+
+\subsection{Software Development Life Cycle (SDLC)} \label{II.SDLC}
+\textit{Software Development Life Cycle} (SDLC) merupakan metodologi umum yang digunakan sebagai kerangka kerja terstruktur dalam pengembangan sistem informasi, yang terdiri dari serangkaian tahapan berurutan mulai dari perencanaan, analisis kebutuhan, perancangan, implementasi, pengujian, hingga pemeliharaan sistem \cite{andryadi2025sdlc}. Setiap tahapan dalam SDLC memiliki tujuan dan luaran yang jelas, sehingga seluruh proses pengembangan dapat dikelola secara sistematis, terukur, dan sesuai dengan kebutuhan pengguna maupun pemangku kepentingan \cite{andryadi2025sdlc}. Terdapat beberapa model turunan dari SDLC yang umum digunakan dalam pengembangan sistem, di antaranya \textit{Waterfall}, \textit{Agile}, \textit{Spiral}, dan \textit{Prototype}, dan masing-masing memiliki karakteristik, kelebihan, serta keterbatasan yang berbeda sehingga pemilihannya disesuaikan dengan kondisi dan kebutuhan proyek \cite{andryadi2025sdlc}. Dalam penelitian ini, SDLC diterapkan menggunakan model \textit{Modified Waterfall} yang dipilih karena kebutuhan sistem telah teridentifikasi sejak awal namun tetap memerlukan fleksibilitas terbatas dalam pelaksanaannya \cite{andryadi2025sdlc}. \par
+
+\subsection{Modified Waterfall} \label{II.ModifiedWaterfall}
+\textit{Modified Waterfall} merupakan pengembangan dari model Waterfall klasik yang pertama kali diperkenalkan oleh Winston Royce pada tahun 1970, di mana pengembangan perangkat lunak dilakukan secara berurutan melalui tahapan analisis kebutuhan, perancangan, implementasi, pengujian, dan pemeliharaan \cite{ningsih2023perbandingan}. Perbedaan utama antara \textit{Modified Waterfall} dan Waterfall standar terletak pada adanya mekanisme umpan balik (\textit{feedback loop}) yang memungkinkan pengembang untuk kembali ke tahap sebelumnya apabila ditemukan ketidaksesuaian, tanpa harus mengulang keseluruhan proses dari awal \cite{ningsih2023perbandingan}. Pendekatan ini dinilai tepat untuk proyek yang kebutuhannya sudah terdefinisi dengan jelas sejak awal namun tetap memerlukan fleksibilitas terbatas saat proses pengujian atau implementasi berlangsung \cite{prasnowo2024waterfall}. \par
+
+Dalam penelitian ini, \textit{Modified Waterfall} dipilih sebagai metode pengembangan karena kebutuhan sistem sudah teridentifikasi secara menyeluruh melalui wawancara langsung dengan Manajer IT PT KAI Divre I Sumatera Utara, namun tetap membutuhkan ruang penyesuaian apabila ditemukan kendala pada tahap implementasi \cite{prasnowo2024waterfall}. Keunggulan utama pendekatan ini dibandingkan \textit{Waterfall} klasik terletak pada kemampuannya mengakomodasi perubahan kebutuhan minor tanpa harus mengulang seluruh proses pengembangan dari awal \cite{ningsih2023perbandingan}. Dengan demikian, \textit{Modified Waterfall} menjadi pilihan yang tepat untuk proyek yang bersifat terstruktur namun tetap memerlukan adaptasi terbatas selama proses berlangsung \cite{prasnowo2024waterfall}. \par
+
+Tabel \ref{table:2.perbandingan_metode} menunjukkan perbandingan antara \textit{Modified Waterfall} dan metode lain yang umum digunakan:
+
+\begin{longtable}{|p{0.20\linewidth}|p{0.25\linewidth}|p{0.25\linewidth}|p{0.22\linewidth}|}
+    \caption{Perbandingan Modified Waterfall dengan Agile Scrum dan Prototype}
+    \label{table:2.perbandingan_metode}\\
+    \hline
+    \textbf{Aspek} & \textbf{Modified Waterfall} \cite{prasnowo2024waterfall} & \textbf{Agile Scrum} \cite{pratama2023scrum} & \textbf{Prototype} \cite{ningsih2023perbandingan} \\
+    \hline
+    \endfirsthead
+    \multicolumn{4}{l}{\textit{Lanjutan dari halaman sebelumnya}} \\
+    \caption[]{Perbandingan Modified Waterfall dengan Agile Scrum dan Prototype} \\
+    \hline
+    \textbf{Aspek} & \textbf{Modified Waterfall} \cite{prasnowo2024waterfall} & \textbf{Agile Scrum} \cite{pratama2023scrum} & \textbf{Prototype} \cite{ningsih2023perbandingan} \\
+    \hline
+    \endhead
+    \hline
+    \multicolumn{4}{r}{\textit{Bersambung ke halaman berikutnya}} \\
+    \endfoot
+    \endlastfoot
+    Karakteristik & Linear dengan \textit{feedback} terbatas & Iteratif dan inkremental & Berbasis purwarupa \\
+    \hline
+    Kebutuhan awal & Jelas dan stabil & Berubah-ubah & Belum sepenuhnya jelas \\
+    \hline
+    Dokumentasi & Lengkap dan sistematis & Minimal & Tidak terstruktur \\
+    \hline
+    Kesesuaian penelitian & Sangat sesuai & Kurang sesuai & Risiko dokumentasi lemah \\
+    \hline
+\end{longtable}
+
+\subsection{WhatsApp Gateway} \label{II.WhatsApp}
+WhatsApp Gateway adalah mekanisme yang memungkinkan sebuah sistem informasi untuk mengirimkan pesan secara otomatis melalui platform WhatsApp tanpa intervensi manual, dengan memanfaatkan antarmuka pemrograman (API) yang terhubung langsung ke nomor WhatsApp yang telah didaftarkan \cite{bimantoro2024whatsapp}. Sistem ini bekerja dengan cara menerima permintaan pengiriman pesan dari aplikasi, kemudian meneruskannya ke penerima melalui jaringan WhatsApp secara \textit{real-time}, sehingga notifikasi dapat diterima pengguna hampir secara instan \cite{bimantoro2024whatsapp}. WhatsApp dipilih sebagai saluran notifikasi karena merupakan aplikasi pesan yang paling banyak digunakan dan sudah sangat familiar bagi seluruh pengguna, sehingga tidak memerlukan pemasangan aplikasi tambahan di sisi penerima \cite{dani2026pelaporan}. Dalam penelitian ini, WhatsApp Gateway diimplementasikan menggunakan pustaka Baileys berbasis Node.js untuk mengirimkan notifikasi otomatis kepada User Unit saat laporan direvisi, kepada Admin Global saat ada permintaan \textit{helpdesk}, serta pengingat \textit{deadline} pelaporan harian kepada seluruh unit pada pukul 16.30 \cite{dani2026pelaporan}. \par
+
+\subsection{Real-Time Communication (Socket.io)} \label{II.SocketIO}
+\textit{Real-time communication} atau komunikasi secara langsung adalah kemampuan sebuah aplikasi web untuk mengirimkan dan menerima data antara \textit{client} dan \textit{server} secara instan tanpa pengguna perlu me-\textit{refresh} halaman atau mengirim permintaan baru \cite{cahyo2026mbg}. Teknologi yang umum digunakan untuk mewujudkan hal ini adalah WebSocket, yaitu protokol komunikasi yang membangun koneksi persisten dua arah antara \textit{browser} dan server. Socket.io merupakan pustaka JavaScript yang menyederhanakan penggunaan WebSocket dengan menambahkan fitur seperti koneksi ulang otomatis, \textit{multiplexing}, dan mekanisme cadangan untuk lingkungan yang tidak mendukung WebSocket, sehingga komunikasi \textit{real-time} dapat berjalan lebih andal \cite{cahyo2026mbg}. Dalam penelitian ini, Socket.io digunakan untuk mengirimkan notifikasi \textit{real-time} kepada User Unit saat laporan direvisi oleh Admin Global, serta kepada Admin Global saat laporan baru di-\textit{submit}, sehingga seluruh perubahan status laporan dapat langsung terlihat di dasbor tanpa perlu me-\textit{refresh} halaman \cite{dani2026pelaporan}. \par
+
+\subsection{Microsoft Excel dan Google Form} \label{II.ExcelGForm}
+Microsoft Excel adalah perangkat lunak lembar kerja (\textit{spreadsheet}) yang umum digunakan untuk mencatat, mengelola, dan menganalisis data secara manual dalam format baris dan kolom, sementara Google Form adalah alat pengumpulan data daring berbasis formulir yang memungkinkan pengguna mengirimkan respons melalui tautan yang dapat dibagikan \cite{ningsih2023perbandingan}. Kedua alat ini sering menjadi solusi awal organisasi dalam menggantikan pencatatan berbasis kertas, namun keduanya memiliki keterbatasan mendasar ketika digunakan untuk kebutuhan pelaporan multi-unit yang lebih kompleks \cite{ningsih2023perbandingan}. Microsoft Excel tidak memiliki mekanisme pembatasan akses per unit secara spesifik, tidak mendukung alur validasi terstruktur, tidak menyediakan notifikasi otomatis, dan penggunaannya secara bersamaan oleh banyak pengguna berpotensi menimbulkan konflik data \cite{ningsih2023perbandingan}. Sementara itu, Google Form juga tidak memiliki jejak aktivitas (\textit{audit trail}) yang dapat digunakan untuk menelusuri perubahan data dan tidak mendukung pemantauan status laporan secara \textit{real-time} \cite{ningsih2023perbandingan}. Keterbatasan-keterbatasan inilah yang menjadi salah satu dasar dikembangkannya sistem berbasis web terpusat dalam penelitian ini sebagai pengganti yang lebih andal, aman, dan terstruktur \cite{ningsih2023perbandingan}. \par
+
+\subsection{Sistem Validasi} \label{II.Validasi}
+Sistem validasi dalam konteks sistem informasi adalah mekanisme yang memastikan bahwa setiap data yang dimasukkan oleh pengguna telah memenuhi aturan, format, dan kelengkapan yang ditetapkan sebelum data tersebut diproses lebih lanjut atau dikirim ke pihak lain \cite{zikra2025webinfo}. Validasi berfungsi sebagai lapisan pengamanan data yang mencegah terjadinya kesalahan pencatatan, data yang tidak lengkap, maupun inkonsistensi informasi yang dapat menghambat pengambilan keputusan \cite{cahyo2026mbg}. Dalam sistem yang lebih kompleks, validasi dapat diterapkan dalam beberapa tingkat, misalnya validasi internal yang dilakukan oleh pengguna sendiri sebelum data dikirimkan, dan validasi eksternal yang dilakukan oleh pihak yang berwenang seperti administrator atau atasan setelah data diterima \cite{nugroho2025monitoring}. Dalam penelitian ini, sistem validasi dua tingkat diterapkan di mana User Unit melakukan validasi internal terhadap laporan harian miliknya sendiri sebelum laporan dapat di-\textit{submit}, kemudian Admin Global melakukan validasi eksternal dengan memberikan keputusan ACC atau REVISI terhadap laporan yang masuk \cite{nugroho2025monitoring}. \par
+
+\subsection{Sistem Notifikasi} \label{II.Notifikasi}
+Sistem notifikasi adalah mekanisme dalam sebuah aplikasi yang secara otomatis mengirimkan pemberitahuan kepada pengguna ketika terjadi suatu \textit{event} atau perubahan status tertentu di dalam sistem, tanpa memerlukan tindakan manual dari pengelola \cite{alfan2026notifikasi}. Notifikasi berfungsi memastikan bahwa seluruh pihak yang berkepentingan mendapatkan informasi secara tepat waktu, sehingga respons terhadap perubahan dapat dilakukan lebih cepat dan proses operasional tidak terhambat \cite{alfan2026notifikasi}. Sistem notifikasi yang baik harus mampu menentukan tingkat urgensi suatu \textit{event}, memilih saluran pengiriman yang paling tepat, dan mengirimkan pesan secara otomatis kepada penerima yang sesuai tanpa keterlambatan \cite{alfan2026notifikasi}. Dalam penelitian ini, sistem notifikasi diterapkan melalui dua saluran sekaligus, yaitu WhatsApp Gateway untuk notifikasi yang bersifat eksternal dan persisten, serta Socket.io untuk notifikasi \textit{real-time} langsung di dalam tampilan sistem \cite{dani2026pelaporan}. \par
+
+\subsection{Helpdesk System} \label{II.Helpdesk}
+\textit{Helpdesk system} atau sistem layanan bantuan adalah platform berbasis web yang dirancang untuk mengelola, melacak, dan menyelesaikan permasalahan atau permintaan yang diajukan oleh pengguna secara terstruktur melalui mekanisme tiket (\textit{ticketing}) \cite{sharma2023helpdesk}. Setiap tiket yang masuk akan dicatat secara otomatis oleh sistem, diklasifikasikan berdasarkan jenisnya, dan diteruskan kepada pihak yang berwenang untuk ditangani, sehingga tidak ada permintaan yang terlewat atau terlupakan \cite{sharma2023helpdesk}. Pendekatan berbasis tiket ini memungkinkan organisasi untuk memantau perkembangan penanganan setiap masalah secara transparan, sekaligus menyediakan jejak penanganan yang dapat ditelusuri kembali jika diperlukan \cite{sharma2023helpdesk}. Dalam penelitian ini, \textit{helpdesk system} diimplementasikan dengan tiga jenis tiket, yaitu TOKEN untuk penanganan akun terkunci oleh IT Support, ISSUE untuk permasalahan teknis oleh IT Support, dan REVISION untuk permintaan perubahan laporan yang sudah di-\textit{submit} oleh Admin Global \cite{dani2026pelaporan}. \par
+
+\subsection{Audit Log} \label{II.AuditLog}
+\textit{Audit log} atau jejak audit adalah catatan kronologis yang merekam seluruh aktivitas dan perubahan yang terjadi di dalam sebuah sistem informasi, mencakup informasi tentang siapa yang melakukan tindakan, tindakan apa yang dilakukan, kapan tindakan tersebut terjadi, dan data apa yang berubah \cite{kayum2022auditlog}. Pencatatan ini berjalan secara otomatis di latar belakang sistem dan tidak dapat dimodifikasi oleh pengguna biasa, sehingga integritasnya terjaga dan dapat digunakan sebagai bukti yang dapat dipercaya dalam proses audit maupun investigasi \cite{kayum2022auditlog}. Implementasi \textit{audit log} yang efektif memungkinkan organisasi untuk menelusuri kembali setiap perubahan data dan memastikan akuntabilitas setiap tindakan yang dilakukan di dalam sistem \cite{kayum2022auditlog}. Dalam penelitian ini, \textit{audit log} diterapkan untuk mencatat seluruh aktivitas penting seperti keputusan ACC atau REVISI oleh Admin Global, perubahan status laporan, dan tindakan penanganan \textit{helpdesk} \cite{nugroho2025monitoring}. \par
+
+\subsection{Dashboard} \label{II.Dashboard}
+\textit{Dashboard} adalah antarmuka berbasis web yang memungkinkan pengguna memantau data secara \textit{real-time} dengan menyajikan informasi dalam bentuk laporan, tabel, indikator visual, dan grafik dinamis dalam satu layar tunggal \cite{armansah2025dashboard}. Tujuan utama \textit{dashboard} adalah menyederhanakan data yang kompleks menjadi tampilan yang ringkas dan mudah dipahami, sehingga pengambil keputusan dapat langsung membaca kondisi organisasi tanpa harus mengolah data secara manual terlebih dahulu \cite{armansah2025dashboard}. Sebuah \textit{dashboard} yang baik umumnya mencakup tiga aspek utama, yaitu penyajian data secara visual, kemampuan personalisasi tampilan sesuai kebutuhan pengguna, dan dukungan kolaborasi antar pengguna dalam satu platform \cite{mantik2022dashboard}. Dalam penelitian ini, \textit{dashboard} digunakan oleh Admin Global untuk memantau status laporan harian seluruh unit secara \textit{real-time}, serta menampilkan visualisasi kinerja dalam bentuk diagram batang mingguan dan bulanan per unit untuk mendukung pengambilan keputusan operasional \cite{lutfiyah2025dashboard}. \par
+
+\subsection{Sistem Autentikasi dan Keamanan Akun} \label{II.Autentikasi}
+Sistem autentikasi adalah mekanisme keamanan yang digunakan untuk memverifikasi identitas pengguna sebelum memberikan akses ke dalam sebuah sistem, memastikan bahwa hanya pengguna yang sah dan berwenang yang dapat menggunakan fitur-fitur yang tersedia \cite{kirana2025jwt}. Dalam aplikasi berbasis web, autentikasi umumnya dilakukan melalui kombinasi nama pengguna atau surel dan kata sandi, yang kemudian diverifikasi oleh \textit{server} sebelum sesi pengguna dimulai \cite{kirana2025jwt}. Keamanan sistem juga mencakup mekanisme pembatasan akses berdasarkan peran (\textit{role-based access control}), di mana setiap pengguna hanya dapat mengakses fitur yang sesuai dengan perannya masing-masing \cite{kirana2025jwt}. Dalam penelitian ini, sistem autentikasi diterapkan dengan mekanisme penguncian akun otomatis setelah tiga kali percobaan login yang gagal, pembatasan akses berdasarkan tiga peran yaitu User Unit, Admin Global, dan IT Support, serta penggunaan JSON Web Token (JWT) sebagai mekanisme autentikasi berbasis token yang aman untuk setiap permintaan ke \textit{server} \cite{miftahul2024jwt}. \par
+
+\subsection{JSON Web Token (JWT)} \label{II.JWT}
+JSON Web Token (JWT) adalah standar terbuka berbasis RFC 7519 yang digunakan untuk merepresentasikan klaim (\textit{claims}) secara aman antara dua pihak dalam format yang ringkas dan mudah dikirimkan melalui URL, \textit{header} HTTP, maupun \textit{body} permintaan \cite{jones2015rfc7519}. Sebuah JWT terdiri dari tiga bagian yang dipisahkan oleh tanda titik, yaitu \textit{header} yang berisi jenis token dan algoritma enkripsi yang digunakan, \textit{payload} yang berisi data pengguna seperti ID, peran, dan waktu kedaluwarsa token, serta \textit{signature} yang berfungsi memastikan bahwa token tidak dimanipulasi oleh pihak lain \cite{jones2015rfc7519}. Keunggulan utama JWT dibandingkan mekanisme sesi (\textit{session}) konvensional terletak pada sifatnya yang \textit{stateless}, artinya \textit{server} tidak perlu menyimpan informasi sesi di basis data karena seluruh informasi autentikasi sudah terkandung di dalam token itu sendiri, sehingga sistem menjadi lebih ringan dan mudah diskalakan \cite{miftahul2024jwt}. Dalam penelitian ini, JWT digunakan sebagai mekanisme autentikasi untuk memvalidasi setiap permintaan yang dikirimkan oleh pengguna ke \textit{server} setelah proses \textit{login} berhasil dilakukan \cite{miftahul2024jwt}. \par
+
+\subsection{Reset Password via Token} \label{II.ResetPassword}
+Mekanisme \textit{reset password} via token adalah prosedur keamanan yang memungkinkan pengguna memulihkan akses ke akunnya melalui sebuah token unik yang bersifat sekali pakai (\textit{one-time use}) dan memiliki batas waktu kedaluwarsa, sehingga tidak dapat digunakan kembali setelah dipakai atau setelah melewati waktu yang ditentukan \cite{vaadata2024reset}. Pendekatan ini jauh lebih aman dibandingkan metode pengiriman kata sandi langsung, karena token yang dikirimkan tidak mengandung informasi sensitif dan hanya berlaku dalam rentang waktu singkat, umumnya tidak lebih dari satu jam sejak diterbitkan \cite{vaadata2024reset}. Praktik terbaik dalam implementasi \textit{reset password} via token mensyaratkan bahwa token harus bersifat unik per pengguna, di-\textit{invalidate} segera setelah digunakan, serta pembaruan kata sandi dilakukan secara \textit{atomic} untuk mencegah kondisi \textit{race condition} yang dapat menyebabkan inkonsistensi data \cite{vaadata2024reset}. Dalam penelitian ini, mekanisme \textit{reset password} via token diimplementasikan dengan pengiriman token satu kali pakai melalui WhatsApp kepada pengguna yang mengajukan \textit{helpdesk} TOKEN kepada IT Support \cite{vaadata2024reset}. \par
+
+\subsection{Unified Modelling Language (UML)} \label{II.UML}
+\textit{Unified Modelling Language} (UML) adalah bahasa pemodelan visual standar yang digunakan dalam rekayasa perangkat lunak untuk menggambarkan, merancang, dan mendokumentasikan sistem perangkat lunak dari berbagai sudut pandang secara terstruktur dan mudah dipahami oleh seluruh pihak yang terlibat \cite{nistrina2022uml}. UML dikembangkan oleh \textit{Object Management Group} (OMG) dan menyediakan sekumpulan notasi grafis yang memungkinkan pengembang untuk memodelkan struktur statis maupun perilaku dinamis dari sebuah sistem sebelum proses implementasi dimulai \cite{nistrina2022uml}. Penggunaan UML dalam pengembangan sistem sangat penting karena membantu memperjelas hubungan antar komponen sistem, memudahkan komunikasi antara pengembang dan pemangku kepentingan, serta memastikan bahwa seluruh kebutuhan sistem telah terdokumentasikan dengan baik sebelum kode ditulis \cite{nugraha2025uml}. Dalam penelitian ini, UML digunakan sebagai alat pemodelan utama yang mencakup \textit{use case diagram}, \textit{activity diagram}, dan \textit{sequence diagram} untuk menggambarkan interaksi antar aktor dan komponen sistem secara menyeluruh \cite{nugraha2025uml}. \par
+
+\subsubsection*{A. Use Case Diagram} \label{II.UseCase}
+\textit{Use case diagram} adalah jenis diagram UML yang digunakan untuk menggambarkan interaksi fungsional antara aktor dengan sistem, menunjukkan apa saja yang dapat dilakukan oleh setiap aktor di dalam sistem tanpa menjelaskan bagaimana proses tersebut berlangsung secara teknis \cite{nugraha2025uml}. Diagram ini menjadi titik awal yang penting dalam perancangan sistem karena membantu pengembang dan pemangku kepentingan untuk menyepakati ruang lingkup dan fungsi sistem sebelum masuk ke tahap desain yang lebih teknis \cite{nugraha2025uml}. Dalam penelitian ini, \textit{use case diagram} digunakan untuk menggambarkan seluruh fungsi yang dapat diakses oleh tiga aktor sistem, yaitu User Unit, Admin Global, dan IT Support, yang dikelompokkan ke dalam empat paket fungsional utama. Adapun simbol \textit{use case diagram} dapat dilihat pada Tabel \ref{table:2.simbol-usecase}. \par
+
+\begin{longtable}{|m{0.20\linewidth}|>{\centering\arraybackslash}m{0.15\linewidth}|m{0.55\linewidth}|}
+    \caption{Penjelasan Simbol pada \textit{Use Case Diagram}}
+    \label{table:2.simbol-usecase}\\
+    \hline
+    \textbf{Nama Simbol} & \textbf{Simbol} & \textbf{Deskripsi} \\
+    \hline
+    \endfirsthead
+    \multicolumn{3}{l}{\textit{Lanjutan dari halaman sebelumnya}} \\
+    \caption[]{Penjelasan Simbol pada \textit{Use Case Diagram}} \\
+    \hline
+    \textbf{Nama Simbol} & \textbf{Simbol} & \textbf{Deskripsi} \\
+    \hline
+    \endhead
+    \hline
+    \multicolumn{3}{r}{\textit{Bersambung ke halaman berikutnya}} \\
+    \endfoot
+    \endlastfoot
+    Aktor &
+    \centering\tikz[scale=0.55,baseline=-1ex]{
+        \draw (0,1.2) circle (0.25cm);
+        \draw (0,0.95) -- (0,0.3);
+        \draw (-0.4,0.7) -- (0.4,0.7);
+        \draw (0,0.3) -- (-0.3,-0.1);
+        \draw (0,0.3) -- (0.3,-0.1);
+    } &
+    Aktor didefinisikan sebagai entitas eksternal yang berperan terhadap jalannya sistem informasi, baik berupa individu, proses bisnis, maupun sistem lain di luar batas sistem yang dirancang. Meskipun secara visual digambarkan menyerupai manusia, aktor tidak selalu merepresentasikan orang dan umumnya diberi penamaan berupa kata benda yang mencerminkan fungsi atau perannya. \\
+    \hline
+    \textit{Use Case} &
+    \centering\tikz[baseline=-0.5ex]{\draw (0,0) ellipse (0.75cm and 0.3cm);} &
+    \textit{Use case} merepresentasikan kemampuan atau layanan yang disediakan oleh sistem, yang diwujudkan melalui interaksi pertukaran pesan antara sistem dan aktor. Secara konvensi penamaan, setiap \textit{use case} dinyatakan dalam bentuk kata kerja untuk menegaskan aksi atau fungsi yang dijalankan oleh sistem. \\
+    \hline
+    \textit{System} &
+    \centering\tikz[baseline=-0.5ex]{\draw (0,0) rectangle (1.4cm,0.55cm);} &
+    Elemen sistem berfungsi sebagai batas yang menjelaskan ruang lingkup seluruh \textit{use case} yang berada di dalamnya dan secara visual direpresentasikan dalam bentuk persegi panjang. Meskipun bersifat opsional, elemen ini sangat membantu dalam memperjelas konteks dan struktur saat memodelkan sistem dengan kompleksitas yang tinggi. \\
+    \hline
+    \textit{Association} &
+    \centering\tikz[baseline=-0.5ex]{\draw[->] (0,0.1) -- (1.4cm,0.1);} &
+    Relasi antara aktor dan \textit{use case} menggambarkan adanya keterlibatan langsung dalam proses interaksi yang dilakukan oleh sistem. Hubungan ini menunjukkan bahwa aktor berpartisipasi atau berkomunikasi dengan \textit{use case} tertentu untuk menjalankan fungsi sistem. \\
+    \hline
+    \textit{Include} &
+    \centering\tikz[baseline=0.8ex]{
+        \draw[->,dashed] (0,0.3) -- (1.4cm,0.3);
+        \node[font=\tiny,above] at (0.7cm,0.3cm) {$\ll$include$\gg$};
+    } &
+    Relasi ini digunakan untuk menunjukkan hubungan antar \textit{use case}, di mana satu \textit{use case} memanfaatkan atau menjalankan perilaku yang dimiliki oleh \textit{use case} lainnya. Hubungan tersebut menegaskan adanya keterkaitan fungsional dalam alur proses yang disediakan oleh sistem. \\
+    \hline
+    \textit{Extend} &
+    \centering\tikz[baseline=0.8ex]{
+        \draw[->,dashed] (0,0.3) -- (1.4cm,0.3);
+        \node[font=\tiny,above] at (0.7cm,0.3cm) {$\ll$extend$\gg$};
+    } &
+    Relasi ini menunjukkan adanya perilaku tambahan yang dapat memperluas fungsi \textit{use case} utama melalui \textit{use case} lain yang bersifat perluasan tidak wajib. Eksekusi perluasan tersebut hanya terjadi ketika kondisi tertentu telah terpenuhi dalam alur proses sistem. \\
+    \hline
+\end{longtable}
+
+\subsubsection*{B. Activity Diagram} \label{II.Activity}
+\textit{Activity diagram} adalah jenis diagram UML yang menggambarkan alur kerja (\textit{workflow}) atau proses bisnis suatu sistem secara visual, menunjukkan urutan aktivitas yang terjadi dari awal hingga akhir suatu proses beserta percabangan kondisi yang mungkin terjadi \cite{sandfreni2021activity}. Diagram ini membantu mengidentifikasi langkah-langkah untuk mencapai tujuan tertentu serta memvisualisasikan alur aktivitas dari satu tahap ke tahap berikutnya, termasuk bagaimana objek saling terhubung dan berinteraksi hingga terhubung dengan \textit{database} \cite{sandfreni2021activity}. Adapun simbol \textit{activity diagram} dapat dilihat pada Tabel \ref{table:2.simbol-activity}. \par
+
+\begin{longtable}{|m{0.20\linewidth}|>{\centering\arraybackslash}m{0.15\linewidth}|m{0.55\linewidth}|}
+    \caption{Penjelasan Simbol pada \textit{Activity Diagram}}
+    \label{table:2.simbol-activity}\\
+    \hline
+    \textbf{Nama Simbol} & \textbf{Simbol} & \textbf{Deskripsi} \\
+    \hline
+    \endfirsthead
+    \multicolumn{3}{l}{\textit{Lanjutan dari halaman sebelumnya}} \\
+    \caption[]{Penjelasan Simbol pada \textit{Activity Diagram}} \\
+    \hline
+    \textbf{Nama Simbol} & \textbf{Simbol} & \textbf{Deskripsi} \\
+    \hline
+    \endhead
+    \hline
+    \multicolumn{3}{r}{\textit{Bersambung ke halaman berikutnya}} \\
+    \endfoot
+    \endlastfoot
+    Status Awal &
+    \centering\tikz[baseline=-0.5ex]{\fill (0,0) circle (0.25cm);} &
+    Status awal merepresentasikan titik awal dimulainya seluruh alur aktivitas dalam sebuah \textit{activity diagram}. \\
+    \hline
+    Status Akhir &
+    \centering\tikz[baseline=-0.5ex]{
+        \fill (0,0) circle (0.15cm);
+        \draw (0,0) circle (0.3cm);
+    } &
+    Status akhir menandai titik penyelesaian seluruh rangkaian aktivitas yang dijalankan oleh sistem. \\
+    \hline
+    Aktivitas &
+    \centering\tikz[baseline=-0.5ex]{\draw[rounded corners=6pt] (0,0) rectangle (1.4cm,0.55cm);} &
+    Aktivitas merepresentasikan tindakan atau proses yang dijalankan oleh sistem dalam suatu alur kerja. \\
+    \hline
+    Percabangan / \textit{Decision} &
+    \centering\tikz[baseline=-0.5ex]{
+        \draw (0.7cm,0) -- (1.4cm,0.35cm) -- (0.7cm,0.7cm) -- (0,0.35cm) -- cycle;
+    } &
+    Elemen ini digunakan ketika suatu proses memiliki lebih dari satu jalur eksekusi berdasarkan kondisi tertentu. \\
+    \hline
+    \textit{Swimlane} &
+    \centering\tikz[baseline=-0.5ex]{
+        \draw (0,0) rectangle (1.4cm,0.7cm);
+        \draw (0.7cm,0) -- (0.7cm,0.7cm);
+        \node[font=\tiny] at (0.35cm,0.55cm) {A};
+        \node[font=\tiny] at (1.05cm,0.55cm) {B};
+    } &
+    \textit{Swimlane} digunakan untuk memecah diagram aktivitas menjadi baris dan kolom guna menetapkan kegiatan kepada individu atau objek yang bertanggung jawab untuk melaksanakan aktivitas tersebut. \\
+    \hline
+\end{longtable}
+
+\subsubsection*{C. Sequence Diagram} \label{II.Sequence}
+\textit{Sequence diagram} adalah jenis diagram UML yang menggambarkan urutan pertukaran pesan antar objek atau komponen sistem dalam menjalankan suatu proses tertentu berdasarkan urutan waktu \cite{alfedaghi2021sequence}. Diagram ini berfokus pada bagaimana setiap komponen, mulai dari \textit{frontend}, \textit{backend}, \textit{database}, hingga layanan eksternal, saling berkomunikasi secara berurutan untuk menyelesaikan satu skenario fungsional, sehingga pengembang dapat mendeteksi apabila ada langkah yang hilang atau tidak logis sebelum implementasi dilakukan \cite{alfedaghi2021sequence}. Dalam penelitian ini, \textit{sequence diagram} digunakan untuk menggambarkan lima skenario utama sistem, yaitu proses login, \textit{reset password} via token, \textit{submit} laporan, \textit{review} laporan oleh Admin Global, dan penanganan \textit{helpdesk} REVISION. Adapun simbol-simbol yang digunakan dalam \textit{sequence diagram} dapat dilihat pada Tabel \ref{table:2.simbol-sequence}. \par
+
+\begin{longtable}{|m{0.20\linewidth}|>{\centering\arraybackslash}m{0.15\linewidth}|m{0.55\linewidth}|}
+    \caption{Penjelasan Simbol pada \textit{Sequence Diagram}}
+    \label{table:2.simbol-sequence}\\
+    \hline
+    \textbf{Nama Simbol} & \textbf{Simbol} & \textbf{Deskripsi} \\
+    \hline
+    \endfirsthead
+    \multicolumn{3}{l}{\textit{Lanjutan dari halaman sebelumnya}} \\
+    \caption[]{Penjelasan Simbol pada \textit{Sequence Diagram}} \\
+    \hline
+    \textbf{Nama Simbol} & \textbf{Simbol} & \textbf{Deskripsi} \\
+    \hline
+    \endhead
+    \hline
+    \multicolumn{3}{r}{\textit{Bersambung ke halaman berikutnya}} \\
+    \endfoot
+    \endlastfoot
+    Aktor &
+    \centering\tikz[scale=0.55,baseline=-1ex]{
+        \draw (0,1.2) circle (0.25cm);
+        \draw (0,0.95) -- (0,0.3);
+        \draw (-0.4,0.7) -- (0.4,0.7);
+        \draw (0,0.3) -- (-0.3,-0.1);
+        \draw (0,0.3) -- (0.3,-0.1);
+    } &
+    Aktor merupakan entitas eksternal, baik berupa individu maupun sistem lain, yang berada di luar sistem dan memperoleh manfaat dari fungsi yang disediakan. \\
+    \hline
+    \textit{Object} &
+    \centering\tikz[baseline=-0.5ex]{
+        \draw (0,0) rectangle (1.4cm,0.55cm);
+        \node[font=\tiny] at (0.7cm,0.27cm) {:Object};
+    } &
+    Objek merupakan komponen yang terlibat dalam suatu urutan interaksi dengan cara mengirimkan dan/atau menerima pesan antar elemen sistem. Objek diposisikan pada bagian atas sebagai penanda awal keterlibatannya dalam alur komunikasi. \\
+    \hline
+    \textit{Lifeline} &
+    \centering\tikz[baseline=-0.5ex]{
+        \draw (0.35cm,0.6cm) rectangle (1.05cm,1cm);
+        \draw[dashed] (0.7cm,0) -- (0.7cm,0.6cm);
+    } &
+    \textit{Lifeline} digunakan untuk merepresentasikan keberadaan dan keterlibatan suatu objek sepanjang berlangsungnya urutan interaksi dalam sebuah diagram. Elemen ini menunjukkan rentang waktu objek berpartisipasi dalam proses komunikasi antar komponen sistem. \\
+    \hline
+    \textit{Message} &
+    \centering\tikz[baseline=-0.5ex]{
+        \draw[->] (0,0.3) -- (1.4cm,0.3);
+        \draw[->,dashed] (0,0) -- (1.4cm,0);
+    } &
+    Pemanggilan operasi direpresentasikan dengan panah garis penuh yang diberi label pesan, sedangkan proses pengembalian hasil ditunjukkan melalui panah garis putus-putus yang memuat nilai balikan. \\
+    \hline
+    \textit{Guard Condition} &
+    \centering\tikz[baseline=-0.5ex]{
+        \draw[white] (0,-0.15cm) rectangle (1.4cm,0.35cm);
+        \node[font=\scriptsize] at (0.7cm,0.1cm) {[kondisi]};
+    } &
+    \textit{Guard condition} merupakan kondisi logis yang harus terpenuhi sebelum suatu pesan dapat dikirimkan dalam alur interaksi. Kondisi ini berfungsi sebagai pengendali agar pesan hanya dieksekusi ketika persyaratan tertentu telah dipenuhi. \\
+    \hline
+    \textit{Frame} &
+    \centering\tikz[baseline=-0.5ex]{
+        \draw (0,0) rectangle (1.4cm,1cm);
+        \draw (0,0.7cm) -- (0.45cm,0.7cm) -- (0.55cm,1cm);
+        \node[font=\tiny] at (0.22cm,0.85cm) {sd};
+    } &
+    Elemen ini berfungsi untuk menjelaskan konteks keseluruhan interaksi yang digambarkan dalam suatu \textit{sequence diagram}. \\
+    \hline
+\end{longtable}
+
+\subsubsection*{D. Entity Relationship Diagram (ERD)} \label{II.ERD}
+\textit{Entity Relationship Diagram} (ERD) adalah diagram yang digunakan untuk memodelkan struktur data konseptual suatu sistem dengan menggambarkan entitas, atribut, dan hubungan antar entitas secara visual sebelum basis data diimplementasikan \cite{pulungan2022erd}. Setiap entitas dalam ERD harus saling terhubung melalui relasi dan memiliki \textit{primary key} sebagai penanda unik beserta atribut-atribut deskriptif lainnya \cite{pulungan2022erd}. Hubungan antar entitas ditentukan oleh kardinalitas yang dapat berupa satu-ke-satu (\textit{one-to-one}), satu-ke-banyak (\textit{one-to-many}), maupun banyak-ke-banyak (\textit{many-to-many}) sesuai aturan bisnis yang berlaku \cite{pulungan2022erd}. Dalam penelitian ini, ERD digunakan sebagai alat perancangan basis data sistem monitoring dan pelaporan PT KAI Divre I Sumatera Utara. Adapun komponen-komponen penyusun ERD dapat dilihat pada Tabel \ref{table:2.simbol-erd}. \par
+
+\begin{longtable}{|m{0.20\linewidth}|>{\centering\arraybackslash}m{0.15\linewidth}|m{0.55\linewidth}|}
+    \caption{Penjelasan Simbol pada \textit{Entity Relationship Diagram} (ERD)}
+    \label{table:2.simbol-erd}\\
+    \hline
+    \textbf{Nama Simbol} & \textbf{Simbol} & \textbf{Deskripsi} \\
+    \hline
+    \endfirsthead
+    \multicolumn{3}{l}{\textit{Lanjutan dari halaman sebelumnya}} \\
+    \caption[]{Penjelasan Simbol pada \textit{Entity Relationship Diagram} (ERD)} \\
+    \hline
+    \textbf{Nama Simbol} & \textbf{Simbol} & \textbf{Deskripsi} \\
+    \hline
+    \endhead
+    \hline
+    \multicolumn{3}{r}{\textit{Bersambung ke halaman berikutnya}} \\
+    \endfoot
+    \endlastfoot
+    Entitas &
+    \centering\tikz[baseline=-0.5ex]{\draw (0,0) rectangle (1.4cm,0.55cm);} &
+    Kumpulan dari objek yang dapat diidentifikasi secara unik dalam suatu sistem. \\
+    \hline
+    \textit{Relationship} &
+    \centering\tikz[baseline=-0.5ex]{
+        \draw (0.7cm,0) -- (1.4cm,0.35cm) -- (0.7cm,0.7cm) -- (0,0.35cm) -- cycle;
+    } &
+    Hubungan yang terjadi antara satu atau lebih entitas dalam suatu sistem basis data. \\
+    \hline
+    Atribut &
+    \centering\tikz[baseline=-0.5ex]{\draw (0,0) ellipse (0.75cm and 0.3cm);} &
+    Karakteristik dari entitas atau relasi yang merupakan penjelasan detail tentang entitas tersebut. \\
+    \hline
+    Atribut Komposit &
+    \centering\tikz[baseline=-0.5ex]{
+        \draw (0.7cm,0.75cm) ellipse (0.6cm and 0.2cm);
+        \draw (0.7cm,0.55cm) -- (0.35cm,0.35cm);
+        \draw (0.7cm,0.55cm) -- (1.05cm,0.35cm);
+        \draw (0.35cm,0.2cm) ellipse (0.3cm and 0.15cm);
+        \draw (1.05cm,0.2cm) ellipse (0.3cm and 0.15cm);
+    } &
+    Suatu atribut yang terdiri dari beberapa atribut yang lebih kecil yang mempunyai arti tertentu. Disimbolkan dengan sebuah elips yang memiliki cabang sesuai dengan pecahan atributnya. \\
+    \hline
+    \textit{Link} &
+    \centering\tikz[baseline=-0.5ex]{\draw (0,0.1) -- (1.4cm,0.1);} &
+    Hubungan antara entitas dengan atributnya dan antara himpunan entitas dengan himpunan relasi. \\
+    \hline
+\end{longtable}
+
+\subsection{\textit{Wireframe}} \label{II.Wireframe}
+\textit{Wireframe} adalah kerangka rancangan antarmuka pengguna yang menggambarkan tata letak elemen-elemen halaman secara visual sebelum proses pengembangan dimulai, tanpa memperhatikan aspek estetika seperti warna atau tipografi secara detail \cite{koshelev2021unitarity}. \textit{Wireframe} dibedakan menjadi tiga tingkatan \textit{fidelity} berdasarkan tingkat detail dan kemiripannya terhadap produk akhir. \textit{Low fidelity wireframe} bersifat kasar dan sederhana, hanya menggunakan bentuk-bentuk dasar sebagai penanda posisi elemen, sehingga cocok digunakan pada tahap awal diskusi desain untuk mendapatkan umpan balik secara cepat \cite{koshelev2021unitarity}. \textit{Medium fidelity wireframe} berada di antara keduanya, sudah menggunakan elemen yang lebih representatif dengan proporsi yang mendekati nyata dan memuat konten teks serta komponen antarmuka yang lebih lengkap, namun belum mencakup warna atau aset grafis final \cite{koshelev2021unitarity}. Sementara itu, \textit{high fidelity wireframe} memiliki tingkat detail yang jauh lebih tinggi dengan menyertakan ukuran elemen yang akurat, konten nyata, dan elemen interaktif sehingga tampilannya sudah mendekati produk akhir \cite{koshelev2021unitarity}. Dalam penelitian ini, perancangan antarmuka sistem monitoring dan pelaporan PT KAI Divre I Sumatera Utara menggunakan \textit{medium fidelity wireframe} sebagai acuan perancangan dan \textit{high fidelity} sebagai hasil akhir tampilan sistem, yang keduanya dibuat menggunakan Figma. \par
+
+\subsection{Teknologi Pendukung Pengembangan Sistem} \label{II.Teknologi}
+
+\subsubsection*{A. React} \label{II.React}
+React adalah pustaka (\textit{library}) JavaScript sumber terbuka yang dikembangkan oleh Meta dan digunakan untuk membangun antarmuka pengguna berbasis komponen yang bersifat deklaratif dan dapat digunakan ulang (\textit{reusable}) \cite{anggraeni2024react}. React bekerja dengan konsep \textit{Virtual DOM} yang memungkinkan perubahan tampilan diproses secara efisien tanpa harus memuat ulang seluruh halaman, sehingga menghasilkan antarmuka yang responsif dan cepat \cite{anggraeni2024react}. Dengan pendekatan berbasis komponen yang modular, React memungkinkan pengembang membangun antarmuka yang dapat digunakan ulang secara efisien sehingga meningkatkan produktivitas dan konsistensi tampilan \cite{anggraeni2024react}. Dalam penelitian ini, React digunakan sebagai teknologi utama pada sisi \textit{frontend} untuk membangun seluruh tampilan antarmuka sistem, mulai dari dasbor, halaman \textit{input} laporan, hingga halaman manajemen pengguna. \par
+
+\subsubsection*{B. Node.js} \label{II.NodeJS}
+Node.js adalah lingkungan eksekusi JavaScript sisi \textit{server} berbasis \textit{runtime} V8 milik Google yang memungkinkan pengembang menggunakan JavaScript tidak hanya di sisi \textit{frontend}, tetapi juga untuk membangun logika \textit{backend} dan mengelola permintaan dari \textit{client} \cite{bianchin2021nodejs}. Node.js menggunakan model \textit{non-blocking I/O} dan bersifat \textit{event-driven}, sehingga sangat efisien dalam menangani banyak permintaan secara bersamaan \cite{bianchin2021nodejs}. Arsitektur ini membuat Node.js sangat cocok digunakan pada aplikasi yang membutuhkan penanganan \textit{request} tinggi secara bersamaan seperti sistem pelaporan berbasis web dengan notifikasi \textit{real-time} \cite{bianchin2021nodejs}. Dalam penelitian ini, Node.js digunakan sebagai platform utama \textit{backend} yang menjalankan seluruh logika sistem dan mengelola koneksi basis data melalui Prisma. \par
+
+\subsubsection*{C. Express.js} \label{II.ExpressJS}
+Express.js adalah \textit{framework} aplikasi web berbasis Node.js yang bersifat minimalis dan fleksibel, dirancang khusus untuk memudahkan pembangunan REST API dan aplikasi web di sisi \textit{server} \cite{chiyo2021expressjs}. \textit{Framework} ini menyediakan fitur dasar seperti pengelolaan rute (\textit{routing}), penanganan \textit{middleware}, dan manajemen permintaan HTTP yang dapat dikonfigurasi sesuai kebutuhan \cite{chiyo2021expressjs}. Kecepatan eksekusi dan kesederhanaan \textit{Express.js} menjadikannya salah satu \textit{framework backend} paling banyak digunakan dalam pengembangan sistem informasi berbasis \textit{website} \cite{chiyo2021expressjs}. Dalam penelitian ini, Express.js digunakan untuk membangun seluruh \textit{endpoint} API sistem yang melayani permintaan dari sisi \textit{frontend} React. \par
+
+\subsubsection*{D. Prisma ORM} \label{II.Prisma}
+Prisma ORM merupakan pendekatan \textit{Object Relational Mapping} modern yang dirancang untuk lingkungan Node.js, memungkinkan pengembang berinteraksi dengan basis data relasional melalui abstraksi objek yang terstruktur sehingga mengurangi ketergantungan pada penulisan kueri SQL secara langsung dan menekan potensi kesalahan implementasi \cite{ramadhan2025prisma}. Penggunaan Prisma juga mendukung pengelolaan relasi data yang konsisten serta meningkatkan keamanan akses data melalui mekanisme validasi berbasis model yang terintegrasi \cite{ramadhan2025prisma}. \par
+
+\subsubsection*{E. MySQL} \label{II.MySQL}
+MySQL merupakan sistem manajemen basis data relasional yang menggunakan SQL sebagai bahasa utama untuk pengelolaan, pemeliharaan, dan manipulasi data, serta didistribusikan sebagai perangkat lunak \textit{open source} sehingga didukung oleh komunitas pengguna yang luas \cite{gyorodi2021mysql}. Meskipun bersifat terbuka, MySQL tetap menerapkan mekanisme keamanan berlapis, termasuk pengamanan berbasis \textit{host} dan enkripsi kata sandi, untuk menjaga integritas data \cite{gyorodi2021mysql}. \par
+
+\subsubsection*{F. Baileys} \label{II.Baileys}
+Baileys merupakan pustaka berbasis Node.js yang menyediakan antarmuka pemrograman untuk mengintegrasikan aplikasi dengan layanan WhatsApp melalui mekanisme WhatsApp Web, sehingga memungkinkan sistem menerima dan mengirim pesan secara otomatis tanpa ketergantungan langsung pada perangkat seluler \cite{erawan2025baileys}. Penerapan Baileys mendukung pengelolaan sesi, autentikasi multi-perangkat, serta komunikasi \textit{real-time} yang stabil, sehingga sesuai digunakan dalam pengembangan sistem \textit{chatbot} dan notifikasi otomatis berbasis WhatsApp \cite{erawan2025baileys}. \par
+
+\subsubsection*{G. Postman} \label{II.Postman}
+Postman digunakan sebagai alat pengujian untuk memverifikasi fungsionalitas setiap \textit{endpoint} RESTful API yang dikembangkan dengan cara mengirim dan mengevaluasi permintaan HTTP sesuai kebutuhan fungsional sistem. Dalam penelitian ini, Postman berperan mendukung proses \textit{unit testing} sehingga setiap \textit{endpoint} yang dihasilkan dapat dipastikan berjalan sesuai rancangan dan siap diintegrasikan ke dalam aplikasi berbasis web \cite{tri2022postman}. \par
+
+\subsection{Teknik Sampling} \label{II.Sampling}
+Teknik sampling merupakan cara yang digunakan untuk menentukan jumlah dan anggota sampel yang akan dijadikan responden dalam suatu penelitian dari keseluruhan populasi yang ada \cite{syahrum2021pilar}. Pemilihan teknik sampling yang tepat sangat penting untuk memastikan bahwa data yang diperoleh dapat merepresentasikan kebutuhan dan pengalaman pengguna secara akurat sesuai dengan tujuan pengujian yang dilakukan. \par
+
+Penelitian ini menggunakan \textit{Purposive Sampling}, yaitu teknik pengambilan sampel yang dilakukan secara sengaja berdasarkan pertimbangan dan kriteria tertentu yang ditetapkan oleh peneliti sesuai dengan tujuan penelitian \cite{andrade2021purposive}. Teknik ini dipilih karena tidak semua anggota populasi memiliki keterlibatan langsung dalam proses pelaporan harian, sehingga hanya responden yang memenuhi kriteria tertentu yang dilibatkan dalam pengujian. \par
+
+Kriteria responden yang ditetapkan dalam penelitian ini adalah sebagai berikut:
+\begin{description}
+    \item[User Unit] Pegawai yang bertugas secara langsung melakukan penginputan laporan kinerja harian pada unit KNA, Angkutan Penumpang, Angkutan Barang, dan Keuangan di lingkungan PT KAI Divre I Sumatera Utara, dengan jumlah 2-3 orang per unit.
+    \item[Admin Global] Pegawai yang bertugas mereview, menyetujui, atau merevisi laporan yang masuk dari seluruh unit kerja, dengan jumlah 2-3 orang.
+    \item[IT Support] Pegawai yang bertugas mengelola sistem, menangani kendala teknis, dan memproses permintaan helpdesk, dengan jumlah 5 orang.
+\end{description}
+Dengan kriteria tersebut, total responden yang dilibatkan dalam pengujian UAT berkisar antara 16 hingga 20 orang. Jumlah ini dinilai representatif mengingat pengujian berfokus pada penilaian kualitas sistem berdasarkan pengalaman pengguna yang terlibat langsung dalam proses operasional pelaporan harian. \par
+
+\subsection{Pengujian} \label{II.Pengujian}
+
+\subsubsection*{A. Blackbox Testing} \label{II.BlackboxTesting}
+\textit{Blackbox Testing} merupakan teknik pengujian perangkat lunak yang berorientasi pada evaluasi fungsi sistem tanpa meninjau struktur internal maupun logika kode program yang digunakan. Dalam pendekatan ini, penguji tidak diharuskan memahami detail implementasi teknis, arsitektur sistem, ataupun memiliki kemampuan pemrograman secara mendalam. Proses pengujian dilakukan dengan mengacu pada aspek eksternal perangkat lunak, seperti spesifikasi sistem, kebutuhan pengguna, serta rancangan yang telah ditetapkan \cite{abdillah2023blackbox}. \par
+
+Berdasarkan dokumen-dokumen tersebut, penguji menyusun skenario atau kasus uji untuk memastikan bahwa setiap fitur berjalan sesuai dengan kebutuhan dan tujuan yang telah dirancang. Dengan demikian, fokus utama metode ini adalah memverifikasi kesesuaian antara keluaran sistem dan hasil yang diharapkan. Salah satu kelebihan dari \textit{Blackbox Testing} adalah kemampuannya dalam menilai sistem dari sudut pandang pengguna akhir. Hal ini menjadikan metode ini efektif untuk mengidentifikasi permasalahan yang berkaitan dengan fungsionalitas dan pengalaman pengguna. Selain itu, karena tidak memerlukan pemahaman teknis yang kompleks, pengujian dapat melibatkan lebih banyak pihak dalam tim, termasuk individu yang tidak memiliki latar belakang teknis secara mendalam \cite{cahyo2026mbg}. Adapun rumus perhitungan dalam \textit{Blackbox Testing} dapat dilihat pada Rumus \ref{eq:blackbox} berikut. \par
+
+\begin{equationcaptioned}[eq:blackbox]
+{
+    P = \frac{\text{Jumlah Fungsi yang Berhasil}}{\text{Total Fungsi Keseluruhan}} \times 100\%
+}
+{Menghitung Persentase Pengujian \textit{Black-box Testing}}
+\end{equationcaptioned}
+
+\noindent Keterangan: \par
+\noindent $P$ \hspace{2.5cm} = Persentase pengujian fungsionalitas sistem \par
+\noindent Jumlah Fungsi yang Berhasil \hspace{0.2cm} = Jumlah fungsi yang lulus pengujian \par
+\noindent Total Fungsi Keseluruhan \hspace{0.4cm} = Total seluruh fungsi yang diuji \par
+
+\subsubsection*{B. ISO/IEC 25010} \label{II.ISO}
+ISO/IEC 25010 merupakan standar internasional yang diterbitkan oleh \textit{International Organization for Standardization} dan \textit{International Electrotechnical Commission} sebagai kerangka acuan untuk mengukur kualitas produk perangkat lunak secara komprehensif \cite{lamada2024iso}. Standar ini mendefinisikan model kualitas perangkat lunak yang terdiri atas delapan karakteristik utama, yaitu \textit{Functional Suitability, Performance Efficiency, Compatibility, Usability, Reliability, Security, Maintainability,} dan \textit{Portability} \cite{lamada2024iso}. Setiap karakteristik memiliki sub-karakteristik yang digunakan untuk mengukur kualitas perangkat lunak secara lebih spesifik. Penggunaan standar ini memungkinkan proses evaluasi dilakukan secara terstruktur dan objektif. Dengan demikian, hasil pengujian yang diperoleh dapat dipertanggungjawabkan secara ilmiah.\par
+
+Dalam penelitian ini, ISO/IEC 25010 digunakan sebagai dasar dalam pelaksanaan \textit{User Acceptance Testing} (UAT) untuk mengevaluasi kualitas sistem berdasarkan perspektif pengguna akhir. Dari delapan karakteristik yang tersedia, penelitian ini memilih enam karakteristik yang dianggap paling relevan dengan kebutuhan operasional sistem monitoring dan pelaporan berbasis web, yaitu \cite{lamada2024iso}:
+\begin{enumerate}[noitemsep]
+    \item \textbf{Keamanan (\textit{Security})}: Mengukur kemampuan sistem dalam melindungi informasi dan data sehingga hanya pengguna yang memiliki wewenang yang dapat membacanya atau mengubahnya.
+    \item \textbf{Kinerja (\textit{Performance Efficiency})}: Mengukur respons waktu dan efisiensi sumber daya yang digunakan oleh sistem saat menjalankan fungsinya dalam kondisi tertentu.
+    \item \textbf{Kemudahan Penggunaan (\textit{Usability})}: Mengukur sejauh mana sistem dapat digunakan oleh pengguna dengan mudah, efektif, dan efisien untuk mencapai tujuan tertentu.
+    \item \textbf{Keandalan (\textit{Reliability})}: Mengukur kemampuan sistem dalam mempertahankan tingkat kinerja tertentu ketika digunakan dalam kondisi yang telah ditentukan.
+    \item \textbf{Kompatibilitas (\textit{Compatibility})}: Mengukur kemampuan sistem untuk dapat saling bertukar informasi dengan sistem lain atau menjalankan fungsinya dengan baik pada lingkungan perangkat keras maupun perangkat lunak yang berbeda.
+    \item \textbf{Ketersediaan (\textit{Availability})}: Mengukur sejauh mana sistem dapat diakses dan beroperasi dengan baik saat dibutuhkan.
+\end{enumerate}
+
+Pemilihan karakteristik ini disesuaikan dengan fungsi utama sistem yang menuntut keamanan data, performa yang stabil, serta kemudahan akses bagi pengguna. Karakteristik tersebut kemudian digunakan sebagai dasar penyusunan instrumen pengujian berbentuk kuesioner. \par
+
+Penggunaan ISO/IEC 25010 dalam penelitian ini bertujuan untuk memperoleh hasil evaluasi yang terukur terhadap kualitas sistem yang dikembangkan \cite{lamada2024iso}. Setiap karakteristik diterjemahkan ke dalam beberapa pernyataan yang dapat dinilai secara langsung oleh responden. Penilaian dilakukan berdasarkan pengalaman pengguna saat berinteraksi dengan sistem pada kondisi operasional nyata. Hasil penilaian ini kemudian diolah untuk mengetahui tingkat kualitas sistem pada masing-masing aspek yang diuji. Dengan pendekatan tersebut, evaluasi sistem tidak hanya berfokus pada aspek teknis, tetapi juga pada penerimaan pengguna terhadap sistem secara keseluruhan. \par
+
+
+\subsubsection*{C. User Acceptance Testing (UAT)} \label{II.UAT}
+\textit{User Acceptance Testing} (UAT) merupakan tahap pengujian perangkat lunak yang dilakukan untuk memastikan bahwa sistem telah sesuai dengan kebutuhan pengguna dan siap digunakan dalam lingkungan operasional \cite{prasnowo2024waterfall}. Pada tahap ini, pengguna akhir berinteraksi secara langsung dengan sistem untuk mengevaluasi kesesuaian fungsi, kemudahan penggunaan, serta kualitas sistem berdasarkan pengalaman penggunaan nyata. UAT menjadi salah satu tahapan penting karena hasil pengujian menunjukkan tingkat penerimaan pengguna terhadap sistem yang dikembangkan. Dengan demikian, pengujian ini dapat digunakan sebagai dasar untuk menentukan kelayakan implementasi sistem pada lingkungan operasional perusahaan. \par
+Berbeda dengan pengujian teknis yang berfokus pada validasi fungsi sistem, UAT lebih menitikberatkan pada penilaian pengguna terhadap kualitas dan kenyamanan penggunaan aplikasi \cite{prasnowo2024waterfall}. Dalam proses pengembangan perangkat lunak, UAT umumnya dikaitkan dengan pendekatan beta testing karena melibatkan pengguna akhir secara langsung dalam proses evaluasi system. Pendekatan ini memungkinkan pengembang memperoleh umpan balik berdasarkan kondisi penggunaan nyata di lapangan. Melalui proses tersebut, pengembang dapat mengetahui apakah sistem telah memenuhi kebutuhan operasional pengguna. Oleh karena itu, UAT memiliki peran penting dalam memastikan sistem dapat diterima dan digunakan dengan baik oleh pengguna akhir \cite{prasnowo2024waterfall}. \par
+
+Pada penelitian ini, UAT dilakukan setelah sistem melewati tahap pengujian fungsional menggunakan metode Blackbox Testing. Pengujian UAT melibatkan pengguna akhir yang terdiri atas User Unit, Admin Global, dan IT Support untuk mengevaluasi sistem berdasarkan pengalaman penggunaan secara langsung. Evaluasi dilakukan menggunakan instrumen kuesioner berbasis standar ISO/IEC 25010 yang mencakup enam karakteristik kualitas, yaitu Keamanan (Security), Kinerja (Performance Efficiency), Kemudahan Penggunaan (Usability), Keandalan (Reliability), Kompatibilitas (Compatibility), dan Ketersediaan (Availability) \cite{lamada2024iso}. Pemilihan karakteristik tersebut disesuaikan dengan kebutuhan operasional sistem monitoring dan pelaporan berbasis web yang dikembangkan. Dengan pendekatan tersebut, hasil pengujian diharapkan mampu menggambarkan tingkat kualitas dan penerimaan sistem secara menyeluruh. \par
+Untuk mengukur tingkat penerimaan pengguna secara kuantitatif, penelitian ini menggunakan Skala Likert sebagai metode penilaian kuesioner \cite{lamada2024iso}. Responden diminta memberikan tingkat persetujuan terhadap setiap pernyataan yang telah disusun berdasarkan karakteristik kualitas ISO/IEC 25010. Setiap jawaban memiliki bobot nilai tertentu yang digunakan untuk menghitung tingkat penerimaan pengguna terhadap sistem. Hasil penilaian kemudian diolah untuk mengetahui kualitas sistem pada masing-masing aspek yang diuji. Pilihan jawaban pada Skala Likert yang digunakan dalam penelitian ini ditunjukkan pada Tabel 2.7. \par
+
+\begin{longtable}{|p{0.10\linewidth}|p{0.40\linewidth}|p{0.20\linewidth}|}
+    \caption{Skala Likert}
+    \label{table:2.likert}\\
+    \hline
+    \textbf{Skala} & \textbf{Keterangan} & \textbf{Bobot} \\
+    \hline
+    \endfirsthead
+    \multicolumn{3}{l}{\textit{Lanjutan dari halaman sebelumnya}} \\
+    \caption[]{Skala Likert} \\
+    \hline
+    \textbf{Skala} & \textbf{Keterangan} & \textbf{Bobot} \\
+    \hline
+    \endhead
+    \hline
+    \multicolumn{3}{r}{\textit{Bersambung ke halaman berikutnya}} \\
+    \endfoot
+    \endlastfoot
+    SS  & Sangat Setuju       & 5 \\
+    \hline
+    S   & Setuju              & 4 \\
+    \hline
+    CS  & Cukup Setuju        & 3 \\
+    \hline
+    TS  & Tidak Setuju        & 2 \\
+    \hline
+    STS & Sangat Tidak Setuju & 1 \\
+    \hline
+\end{longtable}
+
+Proses pengolahan data UAT dilakukan melalui beberapa tahapan perhitungan sistematis sebagai berikut. \par
+
+\noindent Perhitungan Total Nilai ($Q_n$): \par
+
+\begin{equationcaptioned}[eq:uat-qn]
+{
+    Q_n = \sum_{i=1}^{5} F(i) \times scale(i)
+}
+{Total Nilai ($Q_n$)}
+\end{equationcaptioned}
+
+\noindent Perhitungan Persentase ($P$): \par
+
+\begin{equationcaptioned}[eq:uat-p]
+{
+    Q = \frac{\text{Total } Q_n}{n \times 5} \times 100\%
+}
+{Presentase}
+\end{equationcaptioned}
+
+\noindent Keterangan: \par
+\noindent $Q_n$ \hspace{1.3cm} = Skor untuk Pertanyaan ke-$n$ ($n = 1, 2, 3, \ldots, 10$) \par
+\noindent $F$ \hspace{1.8cm} = Frekuensi Jawaban \par
+\noindent $Scale$ \hspace{1.2cm} = Skala Likert \par
+\noindent $P$ \hspace{1.8cm} = Persentase \par
+\noindent $N$ \hspace{1.8cm} = Total Responden \par
+
+Hasil perhitungan persentase kemudian diinterpretasikan berdasarkan kriteria pada Tabel \ref{table:2.interpretasi} berikut. \par
+
+\begin{longtable}{|p{0.25\linewidth}|p{0.40\linewidth}|p{0.15\linewidth}|}
+    \caption{Kriteria Interpretasi Skor}
+    \label{table:2.interpretasi}\\
+    \hline
+    \textbf{Persentase} & \textbf{Keterangan} & \textbf{Bobot} \\
+    \hline
+    \endfirsthead
+    \multicolumn{3}{l}{\textit{Lanjutan dari halaman sebelumnya}} \\
+    \caption[]{Kriteria Interpretasi Skor} \\
+    \hline
+    \textbf{Persentase} & \textbf{Keterangan} & \textbf{Bobot} \\
+    \hline
+    \endhead
+    \hline
+    \multicolumn{3}{r}{\textit{Bersambung ke halaman berikutnya}} \\
+    \endfoot
+    \endlastfoot
+    $<20\%$         & Sangat Kurang Baik & 1 \\
+    \hline
+    $21\% - 40\%$   & Kurang Baik        & 2 \\
+    \hline
+    $41\% - 60\%$   & Cukup Baik         & 3 \\
+    \hline
+    $61\% - 80\%$   & Baik               & 4 \\
+    \hline
+    $81\% - 100\%$  & Baik Sekali        & 5 \\
+    \hline
+\end{longtable}

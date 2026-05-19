@@ -1,0 +1,157 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="qVkLiMTJGB9ubJx9Pkvh" name="Halaman-1">
+    <mxGraphModel dx="1539" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pool" parent="1" style="swimlane;startSize=30;fontStyle=1;fontSize=13;fillColor=#ffffff;strokeColor=#000000;html=1;" value="Activity Diagram 5: Edit Laporan Setelah Submit (via Helpdesk REVISION)" vertex="1">
+          <mxGeometry height="1030" width="880" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lUser" parent="pool" style="swimlane;startSize=30;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=1;" value="User Unit" vertex="1">
+          <mxGeometry height="1000" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_start" parent="lUser" style="ellipse;html=1;aspect=fixed;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="95" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_lihat" parent="lUser" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Lihat Laporan&#xa;Status WAITING / ACC" vertex="1">
+          <mxGeometry height="60" width="170" x="25" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_ajukan" parent="lUser" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Ajukan Helpdesk&#xa;Jenis REVISION" vertex="1">
+          <mxGeometry height="60" width="170" x="25" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_tRevisi" parent="lUser" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Terima Notifikasi:&#xa;Status REVISI" vertex="1">
+          <mxGeometry height="60" width="170" x="25" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_edit" parent="lUser" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Edit Laporan" vertex="1">
+          <mxGeometry height="50" width="170" x="25" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_decReady" parent="lUser" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Status&#xa;READY_TO_SUBMIT?" vertex="1">
+          <mxGeometry height="80" width="140" x="40" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_end2" parent="lUser" style="ellipse;html=1;aspect=fixed;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" value="" vertex="1">
+          <mxGeometry height="38" width="38" x="91" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_end2_dot" parent="lUser" style="ellipse;html=1;aspect=fixed;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="26" width="26" x="97" y="946" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_e1" edge="1" parent="lUser" source="a5_start" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a5_lihat">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_e2" edge="1" parent="lUser" source="a5_lihat" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a5_ajukan">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_e13" edge="1" parent="lUser" source="a5_tRevisi" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a5_edit">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_e14" edge="1" parent="lUser" source="a5_edit" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a5_decReady">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_e15" edge="1" parent="lUser" source="a5_decReady" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="a5_edit" value="Tidak">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="830" />
+              <mxPoint x="210" y="735" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lSis" parent="pool" style="swimlane;startSize=30;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=1;" value="Sistem" vertex="1">
+          <mxGeometry height="1000" width="220" x="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_insertReq" parent="lSis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="INSERT&#xa;SupportRequest" vertex="1">
+          <mxGeometry height="50" width="170" x="25" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_kirimWA" parent="lSis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Kirim Notifikasi WA&#xa;ke Admin Global" vertex="1">
+          <mxGeometry height="50" width="170" x="25" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_emitRevisi" parent="lSis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="EMIT Realtime&#xa;ke User Unit" vertex="1">
+          <mxGeometry height="50" width="170" x="25" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_submitUlang" parent="lSis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Submit Ulang&#xa;UPDATE status = WAITING" vertex="1">
+          <mxGeometry height="60" width="170" x="40" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_e4" edge="1" parent="lSis" source="a5_insertReq" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a5_kirimWA">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lAdmin" parent="pool" style="swimlane;startSize=30;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=1;" value="Admin Global" vertex="1">
+          <mxGeometry height="1000" width="220" x="440" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_terimaWA" parent="lAdmin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Terima Notifikasi WA" vertex="1">
+          <mxGeometry height="50" width="170" x="25" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_setRevisi" parent="lAdmin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Set Status Laporan&#xa;→ REVISI" vertex="1">
+          <mxGeometry height="60" width="170" x="25" y="524" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_e6" edge="1" parent="lAdmin" source="a5_terimaWA" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a5_decSetuju">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_e9" edge="1" parent="lAdmin" source="a5_decSetuju" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a5_setRevisi" value="Ya">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_tTolak" parent="lAdmin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Terima Notifikasi:&#xa;Request Ditolak" vertex="1">
+          <mxGeometry height="60" width="170" x="-415" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_e7" edge="1" parent="lAdmin" source="a5_decSetuju" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="a5_tTolak" value="Tidak">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_decSetuju" parent="lAdmin" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="Setuju&#xa;Revisi?" vertex="1">
+          <mxGeometry height="80" width="140" x="40" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_end1" parent="lAdmin" style="ellipse;html=1;aspect=fixed;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" value="" vertex="1">
+          <mxGeometry height="38" width="38" x="-349" y="486" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_end1_dot" parent="lAdmin" style="ellipse;html=1;aspect=fixed;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="26" width="26" x="-343" y="492" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_e8" edge="1" parent="lAdmin" source="a5_tTolak" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a5_end1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDB" parent="pool" style="swimlane;startSize=30;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=1;" value="Database" vertex="1">
+          <mxGeometry height="1000" width="220" x="660" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_dbRevisi" parent="lDB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="UPDATE Report = REVISI&#xa;UPDATE SupportRequest&#xa;= RESOLVED" vertex="1">
+          <mxGeometry height="80" width="170" x="25" y="514" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_dbWaiting" parent="lDB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="UPDATE Report&#xa;= WAITING" vertex="1">
+          <mxGeometry height="60" width="170" x="25" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_e3" edge="1" parent="pool" source="a5_ajukan" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a5_insertReq">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_e5" edge="1" parent="pool" source="a5_kirimWA" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a5_terimaWA">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_e10" edge="1" parent="pool" source="a5_setRevisi" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a5_dbRevisi">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_e11" edge="1" parent="pool" source="a5_dbRevisi" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a5_emitRevisi">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a5_e12" edge="1" parent="pool" source="a5_emitRevisi" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a5_tRevisi">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_e16" edge="1" parent="pool" source="a5_decReady" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="a5_submitUlang" value="Ya">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a5_e17" edge="1" parent="pool" source="a5_submitUlang" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a5_dbWaiting">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_e18" edge="1" parent="pool" source="a5_dbWaiting" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="a5_end2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="990" />
+              <mxPoint x="110" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
