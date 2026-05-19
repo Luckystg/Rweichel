@@ -346,26 +346,29 @@ Sebelum membaca diagram-diagram berikut, perlu ditegaskan bahwa seluruh proses p
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.85\textwidth]{figure/usecase_user_unit.drawio (1).png}
+    \includegraphics[width=0.85\textwidth]{figure/generated/usecase_user_unit.drawio (2).png}
     \caption{\textit{Use Case Diagram} Aktor User Unit}
     \label{fig:3.usecase-user-unit}
 \end{figure}
 
 Pada Gambar \ref{fig:3.usecase-user-unit} diatas adalah \textit{use case diagram} pertama yang menggambarkan interaksi User Unit dengan sistem yang mencakup fungsi Login, Reset Password via Token, Input Laporan Harian, Input Target/RKAP, Validasi Internal Laporan, Submit Laporan, Export Laporan PDF/Excel, Ajukan Helpdesk TOKEN, Ajukan Helpdesk ISSUE, dan Ajukan Helpdesk REVISION. Terdapat dua relasi tambahan pada diagram ini, yaitu fungsi Tambah Komoditi Barang yang bersifat \texttt{«extend»} terhadap Input Laporan Harian, serta fungsi Lihat Status Laporan yang bersifat \texttt{«extend»} terhadap Submit Laporan. Selain itu, fungsi Submit Laporan memiliki relasi \texttt{«include»} terhadap Validasi Internal Laporan, yang berarti proses validasi internal wajib dilalui sebelum laporan dapat di-\textit{submit}. \par
+Gambar \ref{fig:3.usecase-user-unit} menunjukkan \textit{use case diagram} untuk aktor User Unit. Pada diagram ini, User Unit dapat berinteraksi dengan sistem melalui fungsi \textit{Login, Reset Password via Token, Input Laporan Harian, Input Target/RKAP, Validasi Internal Laporan, Submit Laporan, Export Laporan PDF/Excel}, serta pengajuan layanan \textit{helpdesk} (\textit{TOKEN, ISSUE}, dan \textit{REVISION}). Diagram ini juga memuat dua relasi \texttt{«extend»}, yaitu fungsi Tambah Komoditi Barang terhadap Input Laporan Harian dan fungsi Lihat Status Laporan terhadap Submit Laporan. Selain itu, terdapat relasi \texttt{«include»} pada fungsi Submit Laporan terhadap Validasi Internal Laporan, yang menegaskan bahwa proses validasi internal wajib dilalui sebelum laporan dapat dikirimkan kepada Admin Global. \par
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.85\textwidth]{figure/usecase_admin_global.drawio (1) (1).png}
+    \includegraphics[width=0.85\textwidth]{figure/generated/usecase_admin_global.drawio (2).png}
     \caption{\textit{Use Case Diagram} Aktor Admin Global}
     \label{fig:3.usecase-admin-global}
 \end{figure}
 Pada Gambar \ref{fig:3.usecase-admin-global} diatas adalah \textit{Use case diagram} kedua yang menggambarkan interaksi Admin Global dengan sistem yang mencakup fungsi Login, Export Laporan PDF/Excel, Review Laporan, Monitor Semua Unit, Kelola Akun User, Kelola Unit, dan Lihat Dashboard \& Grafik. Fungsi ACC Laporan dan Set Status REVISI bersifat \texttt{«extend»} terhadap Review Laporan karena keduanya merupakan tindak lanjut yang dipilih setelah proses peninjauan dilakukan. Fungsi Handle Helpdesk REVISION memiliki relasi \texttt{«extend»} terhadap Set Status REVISI.\par
+Gambar \ref{fig:3.usecase-admin-global} menunjukkan \textit{use case diagram} untuk aktor Admin Global. Aktor ini memiliki kewenangan untuk mengakses fungsi \textit{Login, Export Laporan PDF/Excel, Review Laporan, Monitor Semua Unit, Kelola Akun User, Kelola Unit}, serta \textit{Lihat Dashboard \& Grafik}. Pada fungsi Review Laporan, terdapat relasi \texttt{«extend»} dari fungsi ACC Laporan dan Set Status REVISI, yang merupakan opsi tindak lanjut setelah proses peninjauan dilakukan. Selain itu, fungsi Handle Helpdesk REVISION memiliki relasi \texttt{«extend»} terhadap Set Status REVISI, yang menandakan bahwa status revisi juga dapat dipicu melalui penanganan tiket bantuan dari User Unit. \par
 
 \textit{Use case diagram} ketiga menggambarkan interaksi IT Support dengan sistem yang mencakup fungsi Login, Monitor Semua Unit, Handle Helpdesk TOKEN, dan Handle Helpdesk ISSUE. Fungsi Handle Helpdesk TOKEN memiliki relasi \texttt{«include»} terhadap Generate Token Reset Password, yang berarti setiap kali IT Support menangani tiket TOKEN, pembangkitan token reset password selalu menjadi bagian dari proses penanganannya. \textit{Use case diagram} aktor IT Support dapat dilihat pada Gambar \ref{fig:3.usecase-it-support} berikut. \par
+Gambar \ref{fig:3.usecase-it-support} menunjukkan \textit{use case diagram} untuk aktor IT Support. Interaksi yang dapat dilakukan oleh aktor ini mencakup fungsi \textit{Login, Monitor Semua Unit, Handle Helpdesk TOKEN}, dan \textit{Handle Helpdesk ISSUE}. Pada penanganan tiket terkait akses akun, fungsi Handle Helpdesk TOKEN memiliki relasi \texttt{«include»} terhadap Generate Token Reset Password. Hal ini berarti bahwa setiap kali IT Support menangani tiket \textit{TOKEN}, proses pembangkitan token untuk pemulihan kata sandi selalu dieksekusi sebagai bagian dari penanganan tersebut. \par
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.85\textwidth]{figure/usecase_it_support.drawio (1).png}
+    \includegraphics[width=0.85\textwidth]{figure/generated/usecase_it_support.drawio (2).png}
     \caption{\textit{Use Case Diagram} Aktor IT Support}
     \label{fig:3.usecase-it-support}
 \end{figure}
