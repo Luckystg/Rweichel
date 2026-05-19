@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <root>
+    <mxCell id="0"/>
+    <mxCell id="1" parent="0"/>
+
+    <!-- POOL -->
+    <mxCell id="pool" value="Activity Diagram 1: Login &amp; Mekanisme Lock Akun" style="swimlane;startSize=30;html=1;fontStyle=1;fontSize=13;fillColor=#ffffff;strokeColor=#000000;fontColor=#333333;" vertex="1" parent="1">
+      <mxGeometry x="20" y="20" width="700" height="1040" as="geometry"/>
+    </mxCell>
+
+    <!-- LANE: User -->
+    <mxCell id="lUser" value="User" style="swimlane;startSize=30;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;fontStyle=1;" vertex="1" parent="pool">
+      <mxGeometry x="0" y="30" width="220" height="1010" as="geometry"/>
+    </mxCell>
+
+    <!-- LANE: Sistem -->
+    <mxCell id="lSis" value="Sistem" style="swimlane;startSize=30;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;fontStyle=1;" vertex="1" parent="pool">
+      <mxGeometry x="220" y="30" width="260" height="1010" as="geometry"/>
+    </mxCell>
+
+    <!-- LANE: Database -->
+    <mxCell id="lDB" value="Database" style="swimlane;startSize=30;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;fontStyle=1;" vertex="1" parent="pool">
+      <mxGeometry x="480" y="30" width="220" height="1010" as="geometry"/>
+    </mxCell>
+
+    <!-- ===== USER LANE ===== -->
+    <mxCell id="a1_start" value="" style="ellipse;html=1;aspect=fixed;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="lUser">
+      <mxGeometry x="95" y="50" width="30" height="30" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_input" value="Input Email &amp; Password" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="lUser">
+      <mxGeometry x="25" y="120" width="170" height="50" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_tLock1" value="Tampil Pesan:&#xa;Akun Terkunci&#xa;Hubungi IT Support" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="lUser">
+      <mxGeometry x="25" y="380" width="170" height="70" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_end1" value="" style="ellipse;html=1;aspect=fixed;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" vertex="1" parent="lUser">
+      <mxGeometry x="91" y="476" width="38" height="38" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_end1_dot" value="" style="ellipse;html=1;aspect=fixed;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="lUser">
+      <mxGeometry x="97" y="482" width="26" height="26" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_redirect" value="Redirect ke Dashboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="lUser">
+      <mxGeometry x="25" y="640" width="170" height="50" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_end2" value="" style="ellipse;html=1;aspect=fixed;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" vertex="1" parent="lUser">
+      <mxGeometry x="91" y="716" width="38" height="38" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_end2_dot" value="" style="ellipse;html=1;aspect=fixed;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="lUser">
+      <mxGeometry x="97" y="722" width="26" height="26" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_tLock2" value="Tampil Pesan:&#xa;Akun Terkunci" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="lUser">
+      <mxGeometry x="25" y="870" width="170" height="60" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_end3" value="" style="ellipse;html=1;aspect=fixed;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" vertex="1" parent="lUser">
+      <mxGeometry x="91" y="956" width="38" height="38" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_end3_dot" value="" style="ellipse;html=1;aspect=fixed;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="lUser">
+      <mxGeometry x="97" y="962" width="26" height="26" as="geometry"/>
+    </mxCell>
+
+    <!-- ===== SISTEM LANE ===== -->
+    <mxCell id="a1_decLock" value="Akun&#xa;Ter-lock?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="lSis">
+      <mxGeometry x="60" y="230" width="140" height="80" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_decCred" value="Kredensial&#xa;Valid?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="lSis">
+      <mxGeometry x="60" y="360" width="140" height="80" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_jwt" value="Generate JWT Token" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="lSis">
+      <mxGeometry x="45" y="570" width="170" height="50" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_dec3" value="loginAttempts&#xa;&gt;= 3?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="lSis">
+      <mxGeometry x="60" y="690" width="140" height="80" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_tSalah" value="Tampil: Email/Password Salah&#xa;Sisa percobaan: N" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="lSis">
+      <mxGeometry x="45" y="810" width="170" height="60" as="geometry"/>
+    </mxCell>
+
+    <!-- ===== DATABASE LANE ===== -->
+    <mxCell id="a1_reset" value="UPDATE:&#xa;loginAttempts = 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="lDB">
+      <mxGeometry x="25" y="490" width="170" height="50" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_addAttempt" value="UPDATE:&#xa;loginAttempts + 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="lDB">
+      <mxGeometry x="25" y="610" width="170" height="50" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_setLocked" value="UPDATE:&#xa;isLocked = true" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="lDB">
+      <mxGeometry x="25" y="790" width="170" height="50" as="geometry"/>
+    </mxCell>
+
+    <!-- ===== EDGES ===== -->
+    <mxCell id="a1_e1" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" source="a1_start" target="a1_input" parent="lUser">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_e2" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" source="a1_input" target="a1_decLock" parent="pool">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_e3" value="Ya" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="a1_decLock" target="a1_tLock1" parent="pool">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_e4" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" source="a1_tLock1" target="a1_end1" parent="lUser">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_e5" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" source="a1_decLock" target="a1_decCred" parent="lSis">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_e6" value="Ya" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="a1_decCred" target="a1_reset" parent="pool">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_e7" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" source="a1_reset" target="a1_jwt" parent="pool">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_e8" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" source="a1_jwt" target="a1_redirect" parent="pool">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_e9" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" source="a1_redirect" target="a1_end2" parent="lUser">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_e10" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="a1_decCred" target="a1_addAttempt" parent="pool">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_e11" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" source="a1_addAttempt" target="a1_dec3" parent="pool">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_e12" value="Ya" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="a1_dec3" target="a1_setLocked" parent="pool">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_e13" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" source="a1_setLocked" target="a1_tLock2" parent="pool">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_e14" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" source="a1_tLock2" target="a1_end3" parent="lUser">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_e15" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" source="a1_dec3" target="a1_tSalah" parent="lSis">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="a1_e16" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="a1_tSalah" target="a1_input" parent="pool">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="8" y="840"/>
+          <mxPoint x="8" y="145"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+
+  </root>
+</mxGraphModel>

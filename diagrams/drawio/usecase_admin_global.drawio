@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxGraphModel dx="1200" dy="780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="900" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+
+    <!-- System Boundary -->
+    <mxCell id="2" value="SISTEM KAI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontSize=13;fontStyle=1;verticalAlign=top;align=center;spacingTop=5;" vertex="1" parent="1">
+      <mxGeometry x="100" y="15" width="640" height="845" as="geometry" />
+    </mxCell>
+
+    <!-- LEFT COLUMN: Main use cases -->
+    <mxCell id="3" value="Login" style="ellipse;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontSize=11;align=center;" vertex="1" parent="1">
+      <mxGeometry x="450" y="55" width="205" height="45" as="geometry" />
+    </mxCell>
+    <mxCell id="4" value="Export Laporan PDF / Excel" style="ellipse;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontSize=11;align=center;" vertex="1" parent="1">
+      <mxGeometry x="140" y="135" width="205" height="45" as="geometry" />
+    </mxCell>
+    <mxCell id="5" value="Review Laporan" style="ellipse;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontSize=11;align=center;" vertex="1" parent="1">
+      <mxGeometry x="140" y="285" width="205" height="45" as="geometry" />
+    </mxCell>
+    <mxCell id="6" value="Monitor Semua Unit" style="ellipse;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontSize=11;align=center;" vertex="1" parent="1">
+      <mxGeometry x="140" y="520" width="205" height="45" as="geometry" />
+    </mxCell>
+    <mxCell id="7" value="Kelola Akun User" style="ellipse;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontSize=11;align=center;" vertex="1" parent="1">
+      <mxGeometry x="140" y="600" width="205" height="45" as="geometry" />
+    </mxCell>
+    <mxCell id="8" value="Kelola Unit" style="ellipse;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontSize=11;align=center;" vertex="1" parent="1">
+      <mxGeometry x="140" y="680" width="205" height="45" as="geometry" />
+    </mxCell>
+    <mxCell id="9" value="Lihat Dashboard &amp; Grafik" style="ellipse;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontSize=11;align=center;" vertex="1" parent="1">
+      <mxGeometry x="140" y="760" width="205" height="45" as="geometry" />
+    </mxCell>
+
+    <!-- RIGHT COLUMN: extend related use cases -->
+    <mxCell id="10" value="ACC Laporan" style="ellipse;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontSize=11;align=center;" vertex="1" parent="1">
+      <mxGeometry x="450" y="235" width="205" height="45" as="geometry" />
+    </mxCell>
+    <mxCell id="11" value="Set Status REVISI" style="ellipse;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontSize=11;align=center;" vertex="1" parent="1">
+      <mxGeometry x="450" y="325" width="205" height="45" as="geometry" />
+    </mxCell>
+    <mxCell id="12" value="Handle Helpdesk REVISION" style="ellipse;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontSize=11;align=center;" vertex="1" parent="1">
+      <mxGeometry x="450" y="420" width="205" height="45" as="geometry" />
+    </mxCell>
+
+    <!-- Actor: Admin Global -->
+    <mxCell id="13" value="Admin Global" style="shape=mxgraph.flowchart.actor;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontSize=11;fontStyle=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+      <mxGeometry x="22" y="390" width="55" height="70" as="geometry" />
+    </mxCell>
+
+    <!-- Actor -> Use Cases -->
+    <mxCell id="14" style="endArrow=none;strokeColor=#000000;" edge="1" source="13" target="3" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="15" style="endArrow=none;strokeColor=#000000;" edge="1" source="13" target="4" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="16" style="endArrow=none;strokeColor=#000000;" edge="1" source="13" target="5" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="17" style="endArrow=none;strokeColor=#000000;" edge="1" source="13" target="6" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="18" style="endArrow=none;strokeColor=#000000;" edge="1" source="13" target="7" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="19" style="endArrow=none;strokeColor=#000000;" edge="1" source="13" target="8" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="20" style="endArrow=none;strokeColor=#000000;" edge="1" source="13" target="9" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="21" style="endArrow=none;strokeColor=#000000;" edge="1" source="13" target="10" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="22" style="endArrow=none;strokeColor=#000000;" edge="1" source="13" target="11" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="23" style="endArrow=none;strokeColor=#000000;" edge="1" source="13" target="12" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+    <!-- Include / Extend relationships -->
+    <mxCell id="24" value="&lt;&lt;extend&gt;&gt;" style="dashed=1;endArrow=open;endFill=0;strokeColor=#000000;fontSize=10;align=center;" edge="1" source="10" target="5" parent="1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="25" value="&lt;&lt;extend&gt;&gt;" style="dashed=1;endArrow=open;endFill=0;strokeColor=#000000;fontSize=10;align=center;" edge="1" source="11" target="5" parent="1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="26" value="&lt;&lt;extend&gt;&gt;" style="dashed=1;endArrow=open;endFill=0;strokeColor=#000000;fontSize=10;align=center;" edge="1" source="12" target="11" parent="1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="27" value="&lt;&lt;include&gt;&gt;" style="dashed=1;endArrow=open;endFill=0;strokeColor=#000000;fontSize=10;align=center;" edge="1" source="4" target="3" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="28" value="&lt;&lt;include&gt;&gt;" style="dashed=1;endArrow=open;endFill=0;strokeColor=#000000;fontSize=10;align=center;" edge="1" source="5" target="3" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="29" value="&lt;&lt;include&gt;&gt;" style="dashed=1;endArrow=open;endFill=0;strokeColor=#000000;fontSize=10;align=center;" edge="1" source="6" target="3" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="30" value="&lt;&lt;include&gt;&gt;" style="dashed=1;endArrow=open;endFill=0;strokeColor=#000000;fontSize=10;align=center;" edge="1" source="7" target="3" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="31" value="&lt;&lt;include&gt;&gt;" style="dashed=1;endArrow=open;endFill=0;strokeColor=#000000;fontSize=10;align=center;" edge="1" source="8" target="3" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="32" value="&lt;&lt;include&gt;&gt;" style="dashed=1;endArrow=open;endFill=0;strokeColor=#000000;fontSize=10;align=center;" edge="1" source="9" target="3" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="33" value="&lt;&lt;include&gt;&gt;" style="dashed=1;endArrow=open;endFill=0;strokeColor=#000000;fontSize=10;align=center;" edge="1" source="10" target="3" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="34" value="&lt;&lt;include&gt;&gt;" style="dashed=1;endArrow=open;endFill=0;strokeColor=#000000;fontSize=10;align=center;" edge="1" source="11" target="3" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="35" value="&lt;&lt;include&gt;&gt;" style="dashed=1;endArrow=open;endFill=0;strokeColor=#000000;fontSize=10;align=center;" edge="1" source="12" target="3" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+  </root>
+</mxGraphModel>

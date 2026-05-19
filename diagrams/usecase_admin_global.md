@@ -1,24 +1,15 @@
-# USE CASE DIAGRAM
+# USE CASE DIAGRAM — ADMIN GLOBAL
 # Sistem Monitoring & Pelaporan PT KAI Divre I Sumut
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#ffffff', 'primaryTextColor': '#000000', 'primaryBorderColor': '#000000', 'lineColor': '#000000', 'secondaryColor': '#ffffff', 'tertiaryColor': '#ffffff', 'clusterBkg': '#ffffff', 'clusterBorder': '#000000', 'titleColor': '#000000', 'edgeLabelBackground': '#ffffff', 'background': '#ffffff'}}}%%
 flowchart LR
-    UU@{ shape: person, label: "User Unit" }
-
     subgraph SISTEM["SISTEM KAI"]
         direction TB
         subgraph Auth["Autentikasi"]
             UC1["Login"]
-            UC2["Reset Password via Token"]
         end
         subgraph Lap["Manajemen Laporan"]
-            UC3["Input Laporan Harian"]
-            UC4["Tambah Komoditi Barang"]
-            UC5["Input Target / RKAP"]
-            UC6["Validasi Internal Laporan"]
-            UC7["Submit Laporan"]
-            UC8["Lihat Status Laporan"]
             UC9["Export Laporan PDF / Excel"]
         end
         subgraph Rev["Review & Monitoring"]
@@ -31,27 +22,15 @@ flowchart LR
             UC16["Lihat Dashboard & Grafik"]
         end
         subgraph Help["Helpdesk"]
-            UC17["Ajukan Helpdesk TOKEN"]
-            UC18["Ajukan Helpdesk ISSUE"]
-            UC19["Ajukan Helpdesk REVISION"]
-            UC20["Handle Helpdesk TOKEN"]
-            UC21["Handle Helpdesk ISSUE"]
             UC22["Handle Helpdesk REVISION"]
-            UC23["Generate Token Reset Password"]
         end
     end
 
     AG@{ shape: person, label: "Admin Global" }
-    IT@{ shape: person, label: "IT Support" }
 
-    %% User Unit (KIRI) --- Use Cases
-    UU --- UC1 & UC2
-    UU --- UC3 & UC4 & UC5 & UC6 & UC7 & UC8 & UC9
-    UU --- UC17 & UC18 & UC19
-
-    %% Use Cases --- Admin Global (KANAN)
     UC1 & UC9 & UC10 & UC11 & UC12 & UC13 & UC14 & UC15 & UC16 & UC22 --- AG
 
-    %% Use Cases --- IT Support (KANAN)
-    UC1 & UC13 & UC20 & UC21 & UC23 --- IT
+    UC11 -. "«include»" .-> UC10
+    UC12 -. "«include»" .-> UC10
+    UC22 -. "«extend»" .-> UC12
 ```

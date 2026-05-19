@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(sudo apt-get:*)",
+      "Bash(pip3 install:*)",
+      "Bash(apt-get install:*)",
+      "Read(//usr/bin/**)",
+      "Read(//mnt/c/Windows/System32/**)",
+      "Bash(powershell.exe:*)",
+      "Bash(wc -l /mnt/d/RACHE_TA/Latex-TA-IF-ITERA/chapters/*.tex /mnt/d/RACHE_TA/Latex-TA-IF-ITERA/references.bib)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(curl -s \"https://raw.githubusercontent.com/rdhnk/Latex-TA-IF-ITERA/main/chapters/chapter-4.tex\")",
+      "Bash(curl:*)",
+      "Bash(ls /usr/bin/pdf*)",
+      "Read(//usr/local/bin/**)",
+      "Bash(ls /mnt/d/RACHE_TA/Latex-TA-IF-ITERA/*.tex)"
+    ]
+  }
+}

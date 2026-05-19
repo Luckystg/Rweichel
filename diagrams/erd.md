@@ -2,6 +2,29 @@
 # Sistem Monitoring & Pelaporan PT KAI Divre I Sumut
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#ffffff',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#000000',
+    'lineColor': '#000000',
+    'secondaryColor': '#f5f5f5',
+    'tertiaryColor': '#ffffff',
+    'attributeBackgroundColorEven': '#ffffff',
+    'attributeBackgroundColorOdd': '#f0f0f0',
+    'fontFamily': 'arial',
+    'fontSize': '14px'
+  },
+  'er': {
+    'layoutDirection': 'TB',
+    'minEntityWidth': 120,
+    'minEntityHeight': 60,
+    'entityPadding': 15,
+    'diagramPadding': 30,
+    'useMaxWidth': false
+  }
+}}%%
 erDiagram
     USER {
         int id PK

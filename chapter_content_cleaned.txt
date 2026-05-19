@@ -1,0 +1,3145 @@
+BAB I 
+
+8 
+
+PENDAHULUAN 
+
+10 
+
+1.1. Penjelasan dan Tujuan Tugas Akhir 
+
+10 
+
+1.2. Fungsi dan Tujuan Pedoman Pelaksanaan dan Penyusunan Tugas Akhir 
+
+12 
+
+1.3. Etika Penyusunan Tugas Akhir 
+
+BAB II 
+
+12 
+
+PERSYARATAN ADMINISTRASI DAN AKADEMIK 
+
+BAB III 
+
+14 
+
+PROSEDUR/ALUR TUGAS AKHIR 
+
+BAB IV 
+
+19 
+
+STRUKTUR DAN FORMAT PENULISAN TUGAS AKHIR 
+
+BAB V 
+
+25 
+
+KETENTUAN UJIAN TUGAS AKHIR 
+
+BAB VI 
+
+41 
+
+ETIKA, PELANGGARAN DAN SANKSI 
+
+46 
+
+LAMPIRAN 
+
+48 
+
+FORM 01 
+
+49 
+
+FORM 02 
+
+50 
+
+FORM 03 
+
+51 
+
+FORM 04 - (BAP 1) 
+
+52 
+
+FORM 04 - (BAP 2) 
+
+53 
+
+FORM 05 (Revisi) 
+
+54 
+
+FORM 06 
+
+55 
+
+FORM 07 
+
+56 
+
+FORM 08 
+
+57 
+
+CONTOH TEMPLATE LAPORAN TUGAS AKHIR 
+
+58 
+
+LEMBAR PENGESAHAN 
+
+59 
+
+HALAMAN PERNYATAAN ORISINALITAS 
+
+60 
+
+HALAMAN PERNYATAAN PERSETUJUAN PUBLIKASI TUGAS AKHIR 
+
+UNTUK KEPENTINGAN AKADEMIS 
+
+BAB I 
+
+61 
+
+PENDAHULUAN 
+
+72 
+
+1.1 Latar Belakang Masalah 
+
+72 
+
+1.2 Rumusan Masalah 
+
+73 
+
+1.3 Tujuan Penelitian 
+
+74 
+
+1.4 Batasan Masalah 
+
+75 
+
+1.5 Manfaat Penelitian 
+
+75 
+
+1.6 Sistematika Penulisan 
+
+75 
+
+1.6.1 Bab I 
+
+75 
+
+1.6.2 Bab II 
+
+75 
+
+1.6.3 Bab III 
+
+75 
+
+1.6.4 Bab IV 
+
+75 
+
+1.6.5 Bab V 
+
+BAB II 
+
+75 
+
+TINJAUAN PUSTAKA 
+
+76 
+
+1.1 Tinjauan Pustaka 
+
+76 
+
+1.2 Dasar Teori 
+
+76 
+
+1.2.1 Teori 1 
+
+76 
+
+1.2.2 Teori 2 
+
+BAB III 
+
+77 
+
+METODE PENELITIAN 
+
+78 
+
+3.1 Alur Penelitian 
+
+78 
+
+3.2 Penjabaran Langkah Penelitian 
+
+78 
+
+3.2.1 Langkah 1 
+
+78 
+
+3.2.2 Langkah 2 
+
+78 
+
+3.3 Alat dan Bahan Tugas Akhir 
+
+78 
+
+3.3.1 Alat 
+
+78 
+
+3.3.2 Bahan 
+
+79 
+
+3.4 Metode Pengembangan/ Metode Pengukuran 
+
+79 
+
+3.5 Ilustrasi Perhitungan Metode 
+
+79 
+
+3.6 Rancangan Pengujian 
+
+BAB IV 
+
+79 
+
+HASIL DAN PEMBAHASAN 
+
+80 
+
+4.1 Hasil Penelitian 
+
+80 
+
+4.2 Hasil Pengujian 
+
+80 
+
+4.3 Analisis Hasil Penelitian 
+
+80 
+
+4.3.1 Analisis Hasil Penelitian 1 (performa) 
+
+80 
+
+4.3.2 Analisis Hasil Penelitian 2 (Penilaian Subjektif) 
+
+80 
+
+4.4 Rangkuman Analisis Penelitian 
+
+81 
+
+4.5 Analisis Hasil Pengujian 
+
+BAB V 
+
+81 
+
+KESIMPULAN DAN SARAN 
+
+82 
+
+5.1 Kesimpulan 
+
+82 
+
+5.2 Saran 
+
+82 
+
+ 
+
+ 
+
+DAFTAR TABEL 
+
+DAFTAR TABEL adalah bagian dalam karya ilmiah (seperti skripsi, tesis, atau disertasi) yang memuat daftar seluruh tabel yang digunakan di dalam dokumen tersebut, lengkap dengan nomor tabel, judul tabel, dan nomor halaman tempat tabel tersebut berada. Fungsi utamanya adalah untuk memudahkan pembaca dalam menemukan tabel-tabel yang relevan secara cepat dan sistematis. 
+
+Tabel 4.1 Tabel sama seperti gambar, penjelasan diberikan caption 8 
+
+ 
+
+ 
+
+DAFTAR GAMBAR 
+
+DAFTAR GAMBAR adalah bagian dalam karya ilmiah (seperti skripsi, tesis, atau disertasi) yang berisi daftar seluruh gambar, grafik, ilustrasi, skema, atau diagram yang digunakan dalam dokumen tersebut. Daftar ini disusun secara sistematis untuk memudahkan pembaca menemukan letak setiap gambar dalam naskah. 
+
+ 
+
+Gambar 1.1 Contoh gambar dan caption 2 
+
+ 
+
+ 
+
+ 
+
+DAFTAR RUMUS 
+
+DAFTAR RUMUS adalah bagian dalam skripsi, tesis, atau karya ilmiah teknis yang memuat daftar semua rumus atau persamaan matematis yang digunakan di dalam dokumen tersebut. Fungsinya adalah untuk memudahkan pembaca dalam menelusuri dan menemukan lokasi setiap rumus secara cepat dan sistematis 
+
+ 
+
+Rumus 2.1 Isi Lampiran 11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DAFTAR LAMPIRAN 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BAB I PENDAHULUAN 
+
+ 
+
+1.1  Latar Belakang Masalah 
+
+PT Kereta Api Indonesia (Persero) atau KAI merupakan Badan Usaha Milik Negara (BUMN) yang berperan sebagai operator utama transportasi kereta api di Indonesia, beroperasi di Pulau Jawa, Sumatera, dan Sulawesi dengan total panjang jalur mencapai 6.945 kilometer [1]. Pada tahun 2024, KAI mencatat 505 juta penumpang dan volume angkutan barang sebesar 73,5 juta ton dengan total pendapatan sebesar Rp36,1 triliun [1]. Dalam menjalankan operasionalnya, KAI terbagi ke dalam beberapa Divisi Regional (Divre), salah satunya Divre I Sumatera Utara yang berpusat di Medan dan bertanggung jawab atas layanan angkutan penumpang, angkutan barang, pengelolaan aset non-angkutan, serta keuangan [1]. Besarnya skala operasional tersebut menjadikan kebutuhan akan sistem pelaporan kinerja yang andal dan terintegrasi menjadi sangat tinggi.  
+
+Berdasarkan hasil wawancara dengan Manajer IT PT KAI Divre I Sumatera Utara, Bapak Lexi Alexander Samulo, proses pelaporan kinerja yang berjalan saat ini masih dilakukan melalui grup WhatsApp menggunakan format template yang telah ditentukan, dengan frekuensi pengiriman satu kali setiap hari oleh masing-masing unit. Admin membaca laporan satu per satu secara manual tanpa dukungan sistem terpusat, sehingga laporan kerap terlewat karena tertimbun percakapan lain di dalam grup. Kondisi ini menimbulkan sejumlah masalah, seperti format laporan yang tidak seragam, data yang sulit direkap, serta keterlambatan pelaporan yang menyebabkan data tidak tercatat dalam laporan harian divisi. Akibatnya, proses pengelolaan laporan menjadi 
+
+1 
+
+ 
+
+tidak efisien dan rentan terhadap kesalahan yang sulit ditelusuri karena tidak adanya jejak aktivitas yang terdokumentasi.    
+
+Permasalahan tersebut berdampak langsung pada kinerja operasional empat unit yang memiliki kewajiban pelaporan harian, yaitu unit Non-Angkutan (KNA), Angkutan Penumpang, Angkutan Barang, dan Keuangan. Keempat unit ini berkaitan langsung dengan pendapatan harian divisi, sehingga keterlambatan atau ketidakakuratan laporan berpotensi menyebabkan data pendapatan tidak tercantum ke kantor pusat. Kondisi ini diperparah oleh tidak adanya mekanisme validasi terstruktur, sehingga ketika terjadi kesalahan data, seluruh pihak harus melakukan penginputan ulang laporan yang menimbulkan beban kerja ganda. Situasi ini secara langsung menghambat pengambilan keputusan strategis dan berpotensi menimbulkan kerugian operasional yang bersifat akumulatif.  
+
+Meskipun data pelaporan di PT KAI Divre I Sumatera Utara secara keseluruhan berasal dari 16 unit kerja, penelitian ini difokuskan pada keempat unit tersebut karena memiliki frekuensi dan urgensi pelaporan tertinggi serta berkaitan langsung dengan arus pendapatan harian. Pemilihan ini bukan berarti unit lain tidak penting, melainkan agar pengembangan sistem dapat lebih terarah dan mendalam sesuai kebutuhan nyata di lapangan. Sistem yang dirancang dibangun dengan pendekatan modular sehingga dapat dikembangkan dan diperluas untuk mengakomodasi unit-unit lain di masa mendatang. Dengan cakupan yang terfokus, pengujian dan validasi sistem pun dapat dilakukan secara lebih mendalam dan representatif sesuai kondisi operasional nyata.    
+
+Dalam upaya mengatasi keterbatasan sistem manual, sejumlah organisasi umumnya beralih ke solusi sederhana seperti Microsoft Excel atau Google Form sebagai media pencatatan data [2]. Namun, berdasarkan hasil wawancara, kedua alternatif tersebut dinilai tidak memadai karena tidak memiliki mekanisme pembatasan akses per unit, tidak mendukung alur validasi terstruktur, serta tidak menyediakan notifikasi otomatis maupun pemantauan secara real-time. Penggunaan Excel secara bersamaan juga berpotensi menimbulkan konflik data, sementara Google Form tidak memiliki jejak aktivitas yang dapat digunakan untuk menelusuri perubahan. Kondisi ini menegaskan bahwa permasalahan yang dihadapi menyangkut ketiadaan sistem yang mampu mengelola pelaporan secara menyeluruh, mencakup validasi, pemantauan status, dan notifikasi otomatis dalam satu platform terpadu.  
+
+dalam satu platform terpadu. 
+
+Berbagai penelitian terdahulu telah mengembangkan sistem monitoring dan pelaporan berbasis web, namun sebagian besar masih memiliki keterbatasan seperti belum adanya notifikasi melalui saluran komunikasi yang dekat dengan pengguna, belum tersedianya validasi berlapis, maupun belum terakomodasinya pengelolaan laporan dari banyak unit dalam satu platform [4][5]. Pendekatan berbasis web dipilih karena sistem dapat diakses langsung melalui browser tanpa memerlukan instalasi perangkat lunak tambahan pada setiap perangkat, sehingga seluruh pengguna yang telah memiliki perangkat di tempat kerjanya masing-masing dapat langsung menggunakan sistem tanpa hambatan teknis apapun [10]. Celah inilah yang menjadi dasar pengembangan sistem pada penelitian ini.  
+
+Dalam merancang sistem, metode yang dipilih adalah Software Development Life Cycle (SDLC) model Modified Waterfall, yakni pendekatan Waterfall yang memungkinkan penyesuaian pada tahap tertentu tanpa harus mengulang keseluruhan proses [3]. Metode ini dinilai sesuai karena kebutuhan sistem sudah terdefinisi dengan jelas sejak awal, namun tetap membutuhkan fleksibilitas saat pengujian berlangsung [3]. Dibandingkan dengan metode Agile yang sangat bergantung pada keterlibatan pengguna secara berkelanjutan, Modified Waterfall mampu memberikan keseimbangan antara struktur yang jelas dan fleksibilitas terbatas [2]. Model ini sangat sesuai karena tidak menuntut keterlibatan intens dalam setiap iterasi seperti pada Scrum, serta memastikan kebutuhan sistem yang relatif stabil dapat diimplementasikan secara sistematis, terdokumentasi, dan terkontrol. Di sisi lain, metode Prototype cenderung menghasilkan dokumentasi yang tidak sistematis sehingga kurang ideal untuk penelitian ini [2]. 
+
+Untuk memastikan sistem berfungsi sesuai kebutuhan dan mudah digunakan, pengujian dilakukan menggunakan blackbox testing dan User Acceptance Testing (UAT) [8]. Blackbox testing digunakan untuk memverifikasi bahwa setiap fitur menghasilkan keluaran yang sesuai tanpa memeriksa struktur kode internalnya [8], sementara UAT dilakukan dengan melibatkan pengguna langsung dari pengguna terkait untuk menilai apakah sistem telah memenuhi kebutuhan nyata dalam konteks kerja sesungguhnya, mengacu pada karakteristik kualitas ISO/IEC 25010 yang mencakup keamanan, kinerja, kemudahan penggunaan, keandalan, kompatibilitas, dan ketersediaan [9]. Standar ini dipilih karena sistem akan digunakan oleh pengguna dengan tingkat kemampuan teknis yang beragam, sehingga aspek kemudahan penggunaan dan keandalan menjadi tolok ukur utama [9]. Kombinasi keduanya dipilih karena mampu mencakup aspek fungsionalitas teknis sekaligus keberterimaan pengguna secara bersamaan [8][9].  
+
+Berdasarkan seluruh permasalahan yang telah diuraikan, penelitian ini mengusulkan perancangan sistem monitoring dan pelaporan kinerja unit berbasis web yang terintegrasi dengan WhatsApp Gateway menggunakan metode Modified Waterfall [3][5]. Sistem yang dirancang mencakup penginputan laporan harian per unit, validasi dua tingkat, pemantauan status secara real-time melalui dasbor, serta notifikasi otomatis melalui WhatsApp sebagai saluran komunikasi yang selama ini sudah akrab digunakan oleh seluruh pengguna dalam proses pelaporan sehari-hari. Sistem ini juga dilengkapi dengan mekanisme helpdesk, fitur ekspor laporan dalam format PDF dan Excel, serta pencatatan aktivitas pengguna (audit log) dalam satu platform terpadu [4][5]. Dengan pendekatan modular, setiap komponen dapat dikembangkan dan diperluas secara mandiri sesuai pertumbuhan kebutuhan PT KAI Divre I Sumatera Utara di masa mendatang [3].  
+
+1.2  Rumusan Masalah 
+
+Bagaimana penerapan metode Modified Waterfall dalam pembangunan sistem monitoring dan pelaporan kinerja unit berbasis web di PT KAI Divre I Sumatera Utara yang mampu mengatasi keterbatasan proses pelaporan manual melalui integrasi penginputan laporan, validasi berlapis, pemantauan status secara real-time, dan notifikasi otomatis melalui WhatsApp?   
+
+Bagaimana hasil pengujian blackbox testing dan User Acceptance Testing (UAT) menunjukkan bahwa sistem yang dikembangkan telah memenuhi aspek fungsionalitas dan non-fungsionalitas berdasarkan standar ISO/IEC 25010?    
+
+1.3  Tujuan Penelitian 
+
+Menerapkan metode Modified Waterfall dalam pembangunan sistem monitoring dan pelaporan kinerja unit berbasis web di PT KAI Divre I Sumatera Utara yang mampu mengatasi keterbatasan proses pelaporan manual melalui integrasi penginputan laporan, validasi berlapis, pemantauan status secara real-time, dan notifikasi otomatis melalui WhatsApp.  
+
+Mengevaluasi kelayakan sistem melalui blackbox testing untuk memverifikasi aspek fungsionalitas dan User Acceptance Testing (UAT) untuk mengukur pemenuhan aspek non-fungsionalitas sistem berdasarkan standar ISO/IEC 25010 di lingkungan PT KAI Divre I Sumatera Utara. 
+
+1.4 Batasan Masalah  
+
+Sistem yang dikembangkan hanya mencakup proses pelaporan operasional harian pada empat unit kerja, yaitu unit KNA, Angkutan Penumpang, Angkutan Barang, dan Keuangan di lingkungan PT KAI Divre I Sumatera Utara, dan tidak mencakup seluruh proses bisnis perusahaan secara menyeluruh.   
+
+Ruang lingkup sistem dibatasi pada aktivitas penginputan laporan, validasi data, dan pemantauan kinerja unit, sehingga fitur-fitur di luar ketiga aktivitas tersebut seperti penggajian, pengadaan, maupun manajemen aset tidak termasuk dalam cakupan penelitian ini.   
+
+Integrasi WhatsApp pada sistem dibatasi hanya pada fungsi notifikasi otomatis terkait status laporan dan pengiriman informasi tertentu, dan tidak mencakup integrasi dengan platform komunikasi lain. 
+
+Data yang digunakan dalam sistem merupakan data operasional harian unit dan tidak mencakup indikator berbasis KPI secara menyeluruh. 
+
+Sistem hanya dapat diakses oleh pengguna yang telah ditentukan, yaitu User Unit sebagai penginput, validator internal, dan pemantau laporan unit masing-masing; Admin Global sebagai validator eksternal, pengulas laporan, dan pemantau kinerja seluruh unit; serta IT Support sebagai pengelola kendala teknis dan keamanan akun.   
+
+1.5 Manfaat Penelitian 
+
+Penelitian ini diharapkan dapat memberikan manfaat baik secara praktis maupun akademis.  
+
+Secara Praktis :  
+
+Membantu PT KAI Divre I Sumatera Utara dalam meningkatkan efisiensi proses pelaporan kinerja unit melalui platform yang terpusat dan terintegrasi, sehingga mengurangi ketergantungan pada proses manual yang rentan terhadap kesalahan. 
+
+Memberikan kemudahan bagi pengguna dalam pengelolaan laporan harian sekaligus menyediakan jejak aktivitas yang terdokumentasi secara sistematis. 
+
+Secara Akademis :  
+
+1. Menjadi referensi bagi pengembangan sistem monitoring dan pelaporan serupa, khususnya pada organisasi dengan struktur pelaporan multi-unit yang kompleks.  
+
+1.6 Sistematika Penulisan 
+
+Bab I merupakan pendahuluan yang memaparkan latar belakang permasalahan, rumusan masalah, tujuan, manfaat, batasan, serta sistematika penulisan penelitian ini. Bab ini menjadi landasan awal yang mengarahkan keseluruhan pembahasan pada bab-bab selanjutnya. 
+
+Bab II memuat tinjauan pustaka yang menguraikan penelitian terdahulu yang relevan serta dasar teori yang digunakan sebagai landasan dalam perancangan sistem. Kajian pada bab ini digunakan untuk mengidentifikasi celah penelitian sekaligus memperkuat pendekatan yang dipilih. 
+
+Bab III menjelaskan metodologi penelitian yang digunakan, mencakup tahapan pengembangan sistem dengan metode Modified 
+
+Waterfall, teknik pengumpulan data, perancangan sistem, serta rancangan pengujian yang akan diterapkan. Bab ini memberikan gambaran menyeluruh mengenai bagaimana penelitian dilaksanakan secara sistematis. 
+
+Bab IV menyajikan hasil perancangan dan implementasi sistem beserta pembahasan terhadap hasil pengujian menggunakan blackbox testing dan UAT. Temuan pada bab ini dianalisis untuk mengukur sejauh mana sistem yang dikembangkan berhasil menjawab rumusan masalah penelitian. 
+
+Bab V merupakan penutup yang berisi kesimpulan dari keseluruhan hasil penelitian serta saran untuk pengembangan sistem di masa mendatang. Bab ini merangkum pencapaian penelitian secara menyeluruh berdasarkan tujuan yang telah ditetapkan. 
+
+Dengan disusunnya sistematika penulisan ini, diharapkan pembaca dapat memahami alur logis dan urutan isi dari laporan penelitian secara komprehensif. 
+
+ 
+
+BAB II TINJAUAN PUSTAKA 
+
+ 
+
+2.1. Tinjauan Pustaka 
+
+Bagian ini memaparkan hasil kajian terhadap penelitian-penelitian terdahulu yang memiliki keterkaitan langsung dengan topik yang diangkat dalam penelitian ini. Setiap penelitian diulas secara sistematis mencakup permasalahan yang diangkat, metode yang digunakan, kontribusi yang dihasilkan, serta kelebihan dan keterbatasannya. Kajian ini juga berfungsi sebagai dasar untuk mengidentifikasi celah penelitian yang menjadi justifikasi dikembangkannya sistem pada penelitian ini.  
+
+Penelitian pertama dilakukan oleh Rio dan Prasetyo yang diterbitkan pada tahun 2024 dengan judul “Pengembangan Sistem Informasi Geografis Titik Lokasi Pencurian Sepeda Motor di Kepolisian Resor Lampung Utara dengan Metode Modified Waterfall”. Penelitian ini mengangkat permasalahan belum tersedianya sistem informasi yang efektif untuk memetakan lokasi pencurian sepeda motor di Kabupaten Lampung Utara, sehingga informasi terkait keamanan publik sulit diakses dan dikelola secara optimal. Pengembangan sistem dilakukan menggunakan metode Modified Waterfall, dengan tahapan analisis kebutuhan, perancangan sistem, implementasi, dan pengujian. Evaluasi sistem dilakukan menggunakan black-box testing serta System Usability Scale (SUS). Secara kualitatif, hasil penelitian menunjukkan bahwa sistem berhasil dikembangkan dan mampu memetakan titik lokasi pencurian sepeda motor secara efektif. Pengujian fungsional menunjukkan 
+
+9 
+
+ 
+
+tidak ditemukan kesalahan (bug), serta hasil evaluasi SUS memperoleh peringkat A, yang menunjukkan tingkat efektivitas dan kemudahan penggunaan yang tinggi. Keterbatasan penelitian ini terletak pada fokus sistem yang hanya pada pemetaan lokasi dan belum mencakup mekanisme pelaporan berlapis, notifikasi otomatis, maupun pengelolaan data operasional multi-unit [10]. 
+
+Penelitian kedua dilakukan oleh Fajri dan Ariessanti pada tahun 
+
+2024 dengan judul “Sistem Monitoring Pelaporan Kerja Bulanan 
+
+PJLP Menggunakan Metode Waterfall pada Sekretariat Direktorat Jenderal Aplikasi Informatika”. Penelitian ini dilatarbelakangi oleh belum tersedianya sistem yang memadai untuk membantu atasan dalam memantau pekerjaan Pegawai Jasa Lainnya Perorangan (PJLP) serta menyusun laporan bulanan sebagai dasar pengambilan keputusan. Pengembangan sistem dilakukan menggunakan metode Waterfall, yang mencakup tahapan analisis, perancangan, implementasi, dan pengujian. Secara kualitatif, hasil penelitian menunjukkan adanya peningkatan efisiensi operasional, transparansi pelaporan, serta kemudahan bagi atasan dalam memantau dan mengevaluasi kinerja PJLP. Keterbatasan penelitian ini adalah sistem hanya berfokus pada pelaporan bulanan, belum mendukung pelaporan harian multi-unit, tidak dilengkapi mekanisme validasi bertingkat, serta belum mengintegrasikan notifikasi otomatis sebagai sarana pengingat dan komunikasi [11]. 
+
+Penelitian ketiga dilakukan oleh Jubaedi, Dwiyatno, Krisnaningsih, Solihin, Shafitri, dan Sutiawan pada tahun 2023 dengan judul “Sistem Informasi Monitoring Kegiatan Absensi Siswa dengan Notifikasi WhatsApp”. Penelitian ini berangkat dari permasalahan masih terjadinya kecurangan dan kesalahan pencatatan kehadiran siswa akibat penggunaan sistem absensi konvensional yang tidak efisien. Metode pengembangan sistem yang digunakan adalah Waterfall, dengan tahapan perancangan sistem yang terstruktur. Sistem yang dikembangkan dilengkapi dengan fitur notifikasi WhatsApp untuk memberikan informasi kehadiran secara real-time. Secara kuantitatif, hasil penelitian menunjukkan bahwa sistem berhasil membantu guru dan orang tua dalam memantau kehadiran siswa secara efektif dan real-time, serta meningkatkan komunikasi dan akurasi pengambilan keputusan. Keterbatasan penelitian ini terletak pada ruang lingkup sistem yang hanya menangani satu jenis data absensi, tanpa dukungan pelaporan multi-unit, validasi berlapis, maupun pengelolaan laporan operasional yang lebih kompleks 
+
+[12]. 
+
+Penelitian keempat dilakukan oleh Lutfiyah, Hamdani, dan Prabowo pada tahun 2025 dengan judul “Perancangan Dashboard Digital untuk Monitoring Kinerja Organisasi serta Informasi untuk Pelanggan pada PT PLN (Persero) UP3 Banyuwangi”. Penelitian ini didasari oleh belum tersedianya dashboard digital yang mampu memantau kinerja internal organisasi serta menyampaikan informasi kepada pelanggan secara terintegrasi di PT PLN UP3 Banyuwangi. Metode yang digunakan adalah Waterfall, dengan evaluasi sistem melalui pemodelan UML yang mencakup use case, activity, dan class diagram, serta perancangan antarmuka menggunakan Figma. Secara kualitatif, hasil penelitian menunjukkan bahwa dashboard yang dirancang mampu meningkatkan efisiensi pemantauan kinerja, transparansi layanan, dan mendukung pengambilan keputusan manajerial. Namun, keterbatasan penelitian ini adalah sistem masih berada pada tahap perancangan visual dan belum mencakup implementasi backend yang lengkap, serta belum dilengkapi validasi laporan bertingkat dan notifikasi otomatis. 
+
+Penelitian kelima dilakukan oleh Elan Pratama dan Nur’aini pada tahun 2023 dengan judul “Implementasi Agile Development dengan Scrum dalam Perancangan Sistem Informasi Berbasis 
+
+Website”. Penelitian ini mengangkat permasalahan CV Sumber Teknik yang belum memiliki media informasi dan promosi berbasis web yang terstruktur, sehingga menyulitkan penyampaian informasi layanan, interaksi dengan pelanggan, dan pengelolaan konten. Pengembangan sistem dilakukan menggunakan pendekatan Agile Development dengan kerangka kerja Scrum, serta diimplementasikan menggunakan Laravel dan MySQL. Evaluasi sistem dilakukan melalui black-box testing. Secara kualitatif, hasil penelitian menunjukkan bahwa sistem informasi berbasis web berhasil dikembangkan dan digunakan sebagai media informasi serta promosi. Penerapan metode Scrum terbukti mempercepat proses pengembangan dan meningkatkan efisiensi kerja tim. Keterbatasan penelitian ini adalah fokus sistem yang lebih menitikberatkan pada media informasi dan promosi, bukan pada sistem monitoring dan pelaporan operasional harian yang membutuhkan validasi data, kontrol akses berlapis, dan jejak audit [7]. 
+
+Penelitian keenam dilakukan oleh Prasetio dan Cuhenda pada tahun 2025 dengan judul “Perancangan Sistem Monitoring dan Evaluasi Proyek Berbasis Laravel untuk Optimalisasi Manajemen Proyek PT. Inkaba (Perseroda)”. Penelitian ini dilatarbelakangi oleh meningkatnya kompleksitas dan volume proyek di PT Inkaba yang menimbulkan kendala dalam pemantauan kemajuan proyek, alokasi sumber daya, dan pelaporan yang tepat waktu. Metode pengembangan yang digunakan adalah Waterfall dengan pendekatan Research and Development (R&D), sedangkan evaluasi sistem dilakukan menggunakan User Acceptance Testing (UAT). Secara kuantitatif, hasil pengujian menunjukkan tingkat kepatuhan fungsional sebesar 98,5%, kepuasan pengguna sebesar 92%, penurunan waktu pelaporan hingga 65%, serta peningkatan kepatuhan jadwal proyek sebesar 43%. Keterbatasan penelitian ini adalah belum tersedianya integrasi notifikasi melalui WhatsApp Gateway, serta belum mendukung pengelolaan laporan dari berbagai unit kerja dalam satu platform terpadu [14]. 
+
+ 
+
+Berikut Tabel 2.1 Perbandingan Penelitian Terdahulu yang terkait dengan penelitian yang penulis kerjakan.  
+
+ 
+
+Tabel 2.1 Perbandingan Penelitian Terdahulu 
+
+No 
+
+Penulis [Tahun] [Judul] 
+
+Masalah 
+
+Metode dan  
+
+Evaluasi 
+
+Hasil 
+
+1 
+
+Rio, Prasetyo [2024] — Pengembangan Sistem 
+
+Informasi Geografis Titik 
+
+Lokasi Pencurian Sepeda Motor di Kepolisian Resor 
+
+Lampung Utara dengan 
+
+Metode Modified Waterfall 
+
+Belum adanya sistem informasi yang efektif untuk memetakan lokasi pencurian sepeda motor di 
+
+Kabupaten 
+
+Lampung Utara, sehingga informasi keamanan publik sulit diakses dan 
+
+Metode: Modified Waterfall. 
+
+Evaluasi: 
+
+Black-box Testing, 
+
+System Usability 
+
+Scale (SUS) 
+
+Kualitatif: Sistem berhasil dikembangkan dan mampu memetakan titik lokasi pencurian sepeda motor. Pengujian fungsional menunjukkan tidak ada bug yang terdeteksi. Evaluasi 
+
+SUS menghasilkan peringkat A (tingkat 
+
+efektivitas tinggi) 
+
+No 
+
+Penulis [Tahun] [Judul] 
+
+Masalah 
+
+Metode dan  
+
+Evaluasi 
+
+Hasil 
+
+dikelola secara optimal 
+
+2 
+
+Fajri & Ariessanti [2024] 
+
+— Sistem Monitoring 
+
+Pelaporan Kerja Bulanan 
+
+PJLP Menggunakan 
+
+Metode Waterfall pada Sekretariat Direktorat 
+
+Jenderal Aplikasi 
+
+Informatika 
+
+Kurangnya sistem yang memadai menghambat atasan dalam memantau pekerjaan PJLP dan membuat laporan bulanan untuk 
+
+pengambilan keputusan 
+
+Metode: Waterfall 
+
+Kualitatif: Peningkatan efisiensi operasional, transparansi pelaporan, dan kemampuan atasan dalam memantau dan 
+
+mengevaluasi kinerja PJLP 
+
+No 
+
+Penulis [Tahun] [Judul] 
+
+Masalah 
+
+Metode dan  
+
+Evaluasi 
+
+Hasil 
+
+3 
+
+Jubaedi, Dwiyatno, 
+
+Krisnaningsih, Solihin, 
+
+Shafitri & Sutiawan [2023] 
+
+— Sistem Informasi Monitoring Kegiatan Absensi Siswa dengan 
+
+Notifikasi WhatsApp 
+
+Masih terjadi kecurangan dan 
+
+kesalahan pencatatan absensi siswa; sistem 
+
+absensi 
+
+konvensional tidak efisien dalam pengelolaan dan pengendalian data kehadiran 
+
+Metode: Waterfall 
+
+Kuantitatif: Sistem monitoring absensi siswa dengan notifikasi WhatsApp berhasil membantu guru dan orang tua memantau kehadiran secara efektif dan real-time, serta 
+
+meningkatkan komunikasi dan akurasi pengambilan keputusan 
+
+No 
+
+Penulis [Tahun] [Judul] 
+
+Masalah 
+
+Metode dan  
+
+Evaluasi 
+
+Hasil 
+
+4 
+
+Lutfiyah, Hamdani & 
+
+Prabowo [2025] — 
+
+Perancangan Dashboard Digital untuk Monitoring Kinerja Organisasi serta Informasi untuk Pelanggan pada PT PLN (Persero) 
+
+UP3 Banyuwangi 
+
+PT PLN UP3 
+
+Banyuwangi belum memiliki dashboard digital yang memadai untuk memantau kinerja internal dan 
+
+menyampaikan informasi eksternal kepada pelanggan 
+
+secara terintegrasi 
+
+Metode: Waterfall. 
+
+Evaluasi: UML 
+
+(Use Case, 
+
+Activity, Class 
+
+Diagram); Figma 
+
+(mockup visual) 
+
+Kualitatif: Dashboard digital berhasil dirancang, meningkatkan efisiensi pemantauan kinerja, transparansi layanan, dan mendukung pengambilan 
+
+keputusan manajerial 
+
+No 
+
+Penulis [Tahun] [Judul] 
+
+Masalah 
+
+Metode dan  
+
+Evaluasi 
+
+Hasil 
+
+5 
+
+Elan Pratama & Nur’aini 
+
+[2023] — Implementasi 
+
+Agile Development dengan Scrum dalam Perancangan 
+
+Sistem Informasi Berbasis 
+
+Website 
+
+CV Sumber Teknik belum memiliki media informasi dan promosi 
+
+berbasis web yang terstruktur sehingga menyulitkan penyampaian informasi layanan, interaksi dengan pelanggan, serta pengelolaan konten secara efektif 
+
+Metode: Agile 
+
+Development (Scrum). 
+
+Implementasi: 
+
+Laravel, MySQL. 
+
+Evaluasi: 
+
+Black-box Testing 
+
+Kualitatif: Sistem informasi berbasis web berhasil dikembangkan dan digunakan sebagai media informasi serta promosi. 
+
+Penerapan Scrum mempercepat proses 
+
+pengembangan, 
+
+meningkatkan efisiensi kerja tim, dan seluruh fungsi sistem dinyatakan berjalan valid berdasarkan pengujian black-box 
+
+No 
+
+Penulis [Tahun] [Judul] 
+
+Masalah 
+
+Metode dan  
+
+Evaluasi 
+
+Hasil 
+
+6 
+
+Prasetio & Cuhenda [2025] 
+
+— Perancangan Sistem Monitoring dan Evaluasi Proyek Berbasis Laravel untuk Optimalisasi Manajemen Proyek PT. 
+
+Inkaba (Perseroda) 
+
+Kompleksitas dan peningkatan 
+
+volume proyek 
+
+menciptakan tantangan dalam pemantauan kemajuan, alokasi sumber daya, dan pelaporan tepat waktu 
+
+Metode : Waterfall (R&D). 
+
+Evaluasi : User 
+
+Acceptance 
+
+Testing (UAT) 
+
+Kuantitatif: 98,5% kepatuhan fungsional, 92% kepuasan pengguna, pengurangan waktu pelaporan 65%, peningkatan kepatuhan jadwal proyek 
+
+43% 
+
+ 
+
+ 
+
+Berdasarkan kajian terhadap enam penelitian terdahulu di atas, dapat disimpulkan bahwa pengembangan sistem monitoring dan pelaporan berbasis web, baik dengan pendekatan Waterfall maupun Agile Development, secara umum mampu meningkatkan efisiensi proses kerja dan ketepatan pengelolaan data dibandingkan metode manual. Penelitian oleh Rio dan Prasetyo [2024] menunjukkan bahwa penerapan Modified Waterfall pada sistem informasi geografis mampu menghasilkan sistem yang stabil dan mudah digunakan, sebagaimana dibuktikan melalui hasil black-box testing dan evaluasi System Usability Scale (SUS) dengan peringkat A. Meskipun efektif, penelitian tersebut berfokus pada pemetaan lokasi dan belum mencakup sistem monitoring dan pelaporan operasional harian yang melibatkan banyak unit kerja [15]. 
+
+Penelitian Fajri dan Ariessanti [2024] membuktikan bahwa sistem monitoring pelaporan kerja bulanan berbasis Waterfall mampu meningkatkan efisiensi operasional dan transparansi pelaporan dalam konteks administrasi pemerintahan. Namun, sistem yang dikembangkan masih terbatas pada pelaporan periodik dan belum mendukung pelaporan harian, validasi bertingkat, maupun notifikasi otomatis [11]. Sementara itu, penelitian Jubaedi dkk. [2023] menegaskan efektivitas integrasi notifikasi WhatsApp dalam sistem absensi siswa, yang secara kuantitatif mampu meningkatkan akurasi pemantauan dan komunikasi secara real-time. Kendati demikian, ruang lingkup sistem tersebut terbatas pada satu jenis data (absensi) dan belum mendukung pengelolaan laporan multi-unit dalam satu platform terpadu [12]. 
+
+Penelitian Lutfiyah, Hamdani, dan Prabowo [2025] yang dilakukan pada konteks BUMN menunjukkan bahwa dashboard digital berbasis web dengan metode Waterfall mampu meningkatkan efisiensi pemantauan kinerja dan mendukung pengambilan keputusan manajerial.
+
+Namun, penelitian ini masih berada pada tahap perancangan visual (mockup) dan belum mencakup implementasi backend yang lengkap, serta belum dilengkapi mekanisme validasi laporan dan notifikasi otomatis. Di sisi lain, penelitian Elan Pratama dan Nur’aini [2023] dengan pendekatan Agile Development (Scrum) berhasil mempercepat proses pengembangan sistem informasi berbasis web dan meningkatkan efisiensi kerja tim. Akan tetapi, fokus sistem lebih diarahkan pada media informasi dan promosi, bukan pada sistem monitoring dan pelaporan operasional yang membutuhkan kontrol data ketat dan mekanisme audit 
+
+[7]. 
+
+Penelitian Prasetio dan Cuhenda [2025] merupakan penelitian dengan evaluasi kuantitatif paling kuat di antara keenam studi tersebut, yang dibuktikan melalui User Acceptance Testing dengan tingkat kepatuhan fungsional sebesar 98,5% dan kepuasan pengguna sebesar 92%, serta penurunan waktu pelaporan hingga 65%. Meskipun demikian, sistem yang dikembangkan masih berfokus pada monitoring proyek dan belum mengintegrasikan WhatsApp Gateway, belum mendukung validasi dua tingkat, serta belum mengelola laporan dari berbagai unit kerja dalam satu platform terpusat [21]. 
+
+Dari seluruh kajian tersebut, teridentifikasi empat celah utama yang belum terakomodasi secara bersamaan dalam satu sistem, yaitu: 
+
+Belum adanya validasi dua tingkat yang melibatkan user unit dan admin global secara terstruktur 
+
+Belum tersedianya integrasi WhatsApp Gateway yang dikombinasikan dengan pemantauan real-time berbasis
+
+Socket.io dalam konteks pelaporan harian 
+
+Belum ada sistem yang mengelola laporan dari berbagai unit kerja dalam satu platform terpadu dengan fitur helpdesk dan audit log, serta 
+
+Belum ditemukan penelitian serupa pada konteks BUMN sektor transportasi khususnya kereta api.  
+
+Penelitian ini hadir untuk mengisi keempat celah tersebut dengan membangun sistem monitoring dan pelaporan kinerja unit berbasis web yang terintegrasi WhatsApp Gateway (Baileys) dan notifikasi real-time (Socket.io) menggunakan metode Modified Waterfall dengan pengujian blackbox testing dan UAT berbasis ISO/IEC 25010 di lingkungan PT KAI Divre I Sumatera Utara. 
+
+2.2. Dasar Teori 
+
+2.2.1. Sistem Monitoring  
+
+Monitoring atau pemantauan merupakan proses pengumpulan dan analisis informasi secara sistematis dan berkelanjutan berdasarkan indikator yang telah ditetapkan, dengan tujuan agar tindakan koreksi dapat dilakukan untuk memperbaiki suatu program atau kegiatan di masa mendatang [14]. Dalam konteks organisasi, pemantauan mencakup serangkaian kegiatan mulai dari pengumpulan data, penelaahan, pelaporan, hingga tindak lanjut berdasarkan informasi mengenai proses yang sedang berjalan. Sistem monitoring yang efektif harus sederhana, berfokus pada indikator utama yang relevan, serta memiliki prosedur yang jelas agar umpan balik dapat diberikan secara tepat waktu kepada pihak yang berwenang [14]. Dengan terpenuhinya kriteria tersebut, organisasi dapat lebih cepat mendeteksi penyimpangan dan mengambil langkah perbaikan sebelum masalah berkembang lebih besar. Dalam penelitian ini, konsep monitoring diterapkan pada dasbor berbasis web untuk memantau status laporan kinerja harian empat unit PT KAI Divre I Sumatera Utara secara real-time, sehingga Admin Global dapat langsung melihat kondisi pelaporan setiap unit tanpa harus membaca laporan satu per satu secara manual [13].   
+
+2.2.2. Sistem Pelaporan Berbasis Web  
+
+Sistem pelaporan berbasis web adalah sistem informasi yang dirancang untuk mengelola proses pengiriman, validasi, dan pemantauan laporan secara digital melalui browser, sehingga menggantikan proses manual yang sebelumnya bergantung pada dokumen fisik maupun aplikasi chat [16]. Sistem seperti ini mencakup fungsi pengumpulan data, penyimpanan terpusat, dan distribusi laporan secara terstruktur kepada pihak yang berwenang, sehingga data lebih mudah dikelola dan dipertanggungjawabkan [16]. Keunggulan utama sistem pelaporan berbasis web dibandingkan metode manual terletak pada kemampuannya menyajikan data secara real-time, menyediakan alur validasi yang terstruktur, serta mengurangi potensi kesalahan pencatatan secara signifikan karena seluruh proses dilakukan dalam satu platform terpusat [17]. Dalam penelitian ini, sistem pelaporan berbasis web diterapkan untuk mengelola laporan harian dari empat unit PT KAI Divre I Sumatera Utara, dilengkapi validasi dua tingkat, notifikasi otomatis melalui WhatsApp, dan fitur ekspor laporan dalam format PDF dan Excel [4].  
+
+2.2.3. Software Development Life Cycle (SDLC)  
+
+Software Development Life Cycle (SDLC) merupakan metodologi umum yang digunakan sebagai kerangka kerja terstruktur dalam pengembangan sistem informasi, yang terdiri dari serangkaian tahapan berurutan mulai dari perencanaan, analisis kebutuhan, perancangan, implementasi, pengujian, hingga pemeliharaan sistem [18]. Setiap tahapan dalam SDLC memiliki tujuan dan luaran yang jelas, sehingga seluruh proses pengembangan dapat dikelola secara sistematis, terukur, dan sesuai dengan kebutuhan pengguna maupun pemangku kepentingan [18]. Terdapat beberapa model turunan dari SDLC yang umum digunakan dalam pengembangan sistem, di antaranya Waterfall, Agile, Spiral, dan Prototype, dan masing-masing memiliki karakteristik, kelebihan, serta keterbatasan yang berbeda sehingga pemilihannya disesuaikan dengan kondisi dan kebutuhan proyek [18]. Konsep SDLC inilah yang menjadi landasan dalam penelitian ini, di mana model Modified Waterfall dipilih sebagai pendekatan pengembangan sistem karena kebutuhan sistem telah terdefinisi dengan jelas sejak awal dan proses pengembangannya memerlukan dokumentasi yang terstruktur dan terkontrol [3].  
+
+2.2.4. Modified Waterfall  
+
+Modified Waterfall merupakan pengembangan dari model Waterfall klasik yang pertama kali diperkenalkan oleh Winston Royce pada tahun 1970, di mana pengembangan perangkat lunak dilakukan secara berurutan melalui tahapan analisis kebutuhan, perancangan, implementasi, pengujian, dan pemeliharaan [2]. Perbedaan utama antara Modified Waterfall dan Waterfall standar terletak pada adanya mekanisme umpan balik (feedback loop) yang memungkinkan pengembang untuk kembali ke tahap sebelumnya apabila ditemukan ketidaksesuaian, tanpa harus mengulang keseluruhan proses dari awal [2]. Pendekatan ini dinilai tepat untuk proyek yang kebutuhannya sudah terdefinisi dengan jelas sejak awal namun tetap memerlukan fleksibilitas terbatas saat proses pengujian atau implementasi berlangsung [3].  
+
+Dalam penelitian ini, Modified Waterfall dipilih sebagai metode pengembangan karena kebutuhan sistem sudah teridentifikasi secara menyeluruh melalui wawancara langsung dengan Manajer IT PT KAI Divre I Sumatera Utara, namun tetap membutuhkan ruang penyesuaian apabila ditemukan kendala pada tahap implementasi [3]. Penentuan metode pengembangan sistem menjadi faktor krusial yang mempengaruhi keberhasilan pelaksanaan penelitian. Dengan demikian, dilakukan analisis komparatif antara metode Modified Waterfall dan metode lain yang umum digunakan, yaitu Agile Scrum dan Prototype, sebagai dasar rasional dalam menetapkan metode yang paling sesuai. Berikut Tabel 2.2 Perbandingan Modified Waterfall dengan Agile Scrum dan Prototype yang penulis kerjakan.  
+
+ 
+
+Tabel 2.2 Perbandingan Modified Waterfall dengan Agile Scrum dan 
+
+Prototype 
+
+Aspek 
+
+Modified Waterfall 
+
+Agile Scrum 
+
+Prototype 
+
+Karakteristik 
+
+Linear dengan feedback terbatas 
+
+Iteratif dan  inkremental 
+
+Berbasis purwarupa 
+
+Kebutuhan awal 
+
+Jelas dan stabil 
+
+Berubah-ubah 
+
+Belum sepenuhnya 
+
+jelas 
+
+Dokumentasi 
+
+Lengkap dan sistematis 
+
+Minimal 
+
+Tidak terstruktur 
+
+Kesesuaian penelitian 
+
+Sangat sesuai 
+
+Kurang sesuai 
+
+Risiko dokumentasi lemah 
+
+ 
+
+Berdasarkan perbandingan Tab, Modified Waterfall dipilih karena paling sesuai dengan karakteristik penelitian ini, di mana kebutuhan sistem telah terdefinisi dengan jelas sejak awal, namun tetap membutuhkan fleksibilitas terbatas tanpa mengorbankan dokumentasi formal penelitian.
+
+2.2.5. WhatsApp Gateway  
+
+WhatsApp Gateway adalah mekanisme yang memungkinkan sebuah sistem informasi untuk mengirimkan pesan secara otomatis melalui platform WhatsApp tanpa intervensi manual, dengan memanfaatkan antarmuka pemrograman (API) yang terhubung langsung ke nomor WhatsApp yang telah didaftarkan [19]. Sistem ini bekerja dengan cara menerima permintaan pengiriman pesan dari aplikasi, kemudian meneruskannya ke penerima melalui jaringan WhatsApp secara real-time, sehingga notifikasi dapat diterima pengguna hampir secara instan [19]. WhatsApp dipilih sebagai saluran notifikasi karena merupakan aplikasi pesan yang paling banyak digunakan dan sudah sangat familiar bagi seluruh pengguna, sehingga tidak memerlukan pemasangan aplikasi tambahan di sisi penerima [6]. Dalam penelitian ini, WhatsApp Gateway diimplementasikan menggunakan pustaka Baileys berbasis Node.js untuk mengirimkan notifikasi otomatis kepada User Unit saat laporan direvisi, kepada Admin Global saat ada permintaan helpdesk, serta pengingat deadline pelaporan harian kepada seluruh unit pada pukul 16.30 [6].  
+
+2.2.6. Real-Time Communication (Socket.io)  
+
+Real-time communication atau komunikasi secara langsung adalah kemampuan sebuah aplikasi web untuk mengirimkan dan menerima data antara client dan server secara instan tanpa pengguna perlu me-refresh halaman atau mengirim permintaan baru [20]. Teknologi yang umum digunakan untuk mewujudkan hal ini adalah WebSocket, yaitu protokol komunikasi yang membangun koneksi persisten dua arah antara browser dan server, sehingga server dapat langsung mengirimkan data ke client begitu sebuah event terjadi [20]. Socket.io merupakan pustaka JavaScript yang menyederhanakan penggunaan WebSocket dengan menambahkan fitur seperti koneksi ulang otomatis, multiplexing, dan mekanisme cadangan untuk lingkungan yang tidak mendukung WebSocket, sehingga komunikasi real-time dapat berjalan lebih andal [20]. Dalam penelitian ini, Socket.io digunakan untuk mengirimkan notifikasi real-time kepada User Unit saat laporan direvisi oleh Admin Global, serta kepada Admin Global saat laporan baru di-submit, sehingga seluruh perubahan status laporan dapat langsung terlihat di dasbor tanpa perlu me-refresh halaman [6].   
+
+2.2.7. Microsoft Excel dan Google Form  
+
+Microsoft Excel adalah perangkat lunak lembar kerja (spreadsheet) yang umum digunakan untuk mencatat, mengelola, dan menganalisis data secara manual dalam format baris dan kolom, sementara Google Form adalah alat pengumpulan data daring berbasis formulir yang memungkinkan pengguna mengirimkan respons melalui tautan yang dapat dibagikan [2]. Kedua alat ini sering menjadi solusi awal organisasi dalam menggantikan pencatatan berbasis kertas, namun keduanya memiliki keterbatasan mendasar ketika digunakan untuk kebutuhan pelaporan multi-unit yang lebih kompleks [2]. Microsoft Excel tidak memiliki mekanisme pembatasan akses per unit secara spesifik, tidak mendukung alur validasi terstruktur, tidak menyediakan notifikasi otomatis, dan penggunaannya secara bersamaan oleh banyak pengguna berpotensi menimbulkan konflik data yang menyebabkan informasi tidak sinkron [2]. Sementara itu, Google Form juga tidak memiliki jejak aktivitas (audit trail) yang dapat digunakan untuk menelusuri perubahan data, tidak mendukung pemantauan status laporan secara real-time, dan tidak mampu mengakomodasi alur persetujuan berlapis yang dibutuhkan dalam proses pelaporan organisasi yang terstruktur [2]. Keterbatasan-keterbatasan inilah yang menjadi salah satu dasar dikembangkannya sistem berbasis web terpusat dalam penelitian ini sebagai pengganti yang lebih andal, aman, dan terstruktur [2].  
+
+2.2.8. Sistem Validasi  
+
+Sistem validasi dalam konteks sistem informasi adalah mekanisme yang memastikan bahwa setiap data yang dimasukkan oleh pengguna telah memenuhi aturan, format, dan kelengkapan yang ditetapkan sebelum data tersebut diproses lebih lanjut atau dikirim ke pihak lain [16]. Validasi berfungsi sebagai lapisan pengamanan data yang mencegah terjadinya kesalahan pencatatan, data yang tidak lengkap, maupun inkonsistensi informasi yang dapat menghambat pengambilan keputusan [17]. Dalam sistem yang lebih kompleks, validasi dapat diterapkan dalam beberapa tingkat, misalnya validasi internal yang dilakukan oleh pengguna sendiri sebelum data dikirimkan, dan validasi eksternal yang dilakukan oleh pihak yang berwenang seperti 
+
+administrator atau atasan setelah data diterima [4]. Dalam penelitian ini, sistem validasi dua tingkat diterapkan di mana User Unit melakukan validasi internal terhadap laporan harian miliknya sendiri sebelum laporan dapat di-submit, kemudian Admin Global melakukan validasi eksternal dengan memberikan keputusan ACC atau REVISI terhadap laporan yang masuk [4].   
+
+2.2.9. Sistem Notifikasi  
+
+Sistem notifikasi adalah mekanisme dalam sebuah aplikasi yang secara otomatis mengirimkan pemberitahuan kepada pengguna ketika terjadi suatu event atau perubahan status tertentu di dalam sistem, tanpa memerlukan tindakan manual dari pengelola [22]. Notifikasi berfungsi memastikan bahwa seluruh pihak yang berkepentingan mendapatkan informasi secara tepat waktu, sehingga respons terhadap perubahan dapat dilakukan lebih cepat dan proses operasional tidak terhambat [22]. Sistem notifikasi yang baik harus mampu menentukan tingkat urgensi suatu event, memilih saluran pengiriman yang paling tepat, dan mengirimkan pesan secara otomatis kepada penerima yang sesuai tanpa keterlambatan [22]. Dalam penelitian ini, sistem notifikasi diterapkan melalui dua saluran sekaligus, yaitu WhatsApp Gateway untuk notifikasi yang bersifat eksternal dan persisten, serta Socket.io untuk notifikasi real-time langsung di dalam tampilan sistem, sehingga seluruh perubahan status laporan dapat langsung diketahui oleh pihak terkait [6].  
+
+2.2.10. Helpdesk System  
+
+Helpdesk system atau sistem layanan bantuan adalah platform berbasis web yang dirancang untuk mengelola, melacak, dan menyelesaikan permasalahan atau permintaan yang diajukan oleh pengguna secara terstruktur melalui mekanisme tiket (ticketing) [23]. Setiap tiket yang masuk akan dicatat secara otomatis oleh sistem, diklasifikasikan berdasarkan jenisnya, dan diteruskan kepada pihak yang berwenang untuk ditangani, sehingga tidak ada permintaan yang terlewat atau terlupakan [23]. Pendekatan berbasis tiket ini memungkinkan organisasi untuk memantau perkembangan penanganan setiap masalah secara transparan, sekaligus menyediakan jejak penanganan yang dapat ditelusuri kembali jika diperlukan [23]. Dalam penelitian ini, helpdesk system diimplementasikan dengan tiga jenis tiket, yaitu TOKEN untuk penanganan akun terkunci oleh IT Support, ISSUE untuk permasalahan teknis oleh IT Support, dan REVISION untuk permintaan perubahan laporan yang sudah di-submit oleh Admin Global, sehingga seluruh kendala pengguna dapat tertangani secara terstruktur dalam satu platform
+
+[6].  
+
+2.2.11. Audit Log  
+
+Audit log atau jejak audit adalah catatan kronologis yang merekam seluruh aktivitas dan perubahan yang terjadi di dalam sebuah sistem informasi, mencakup informasi tentang siapa yang melakukan tindakan, tindakan apa yang dilakukan, kapan tindakan tersebut terjadi, dan data apa yang berubah [24]. Pencatatan ini berjalan secara otomatis di latar belakang sistem dan tidak dapat dimodifikasi oleh pengguna biasa, sehingga integritasnya terjaga dan dapat digunakan sebagai bukti yang dapat dipercaya dalam proses audit maupun investigasi [24]. Keberadaan audit log dalam sebuah sistem sangat penting karena memungkinkan organisasi untuk menelusuri kembali rangkaian kejadian yang menyebabkan suatu kondisi tertentu, mendeteksi aktivitas yang mencurigakan, serta meningkatkan akuntabilitas seluruh pengguna dalam menggunakan sistem [24]. Dalam penelitian ini, audit log diterapkan untuk mencatat seluruh aktivitas penting seperti keputusan ACC atau REVISI oleh Admin Global, perubahan status laporan, dan tindakan penanganan helpdesk, sehingga setiap perubahan dalam sistem dapat ditelusuri dan dipertanggungjawabkan secara jelas [4].  
+
+2.2.12. Dashboard  
+
+Dashboard adalah antarmuka berbasis web yang memungkinkan pengguna memantau data secara real-time dengan menyajikan informasi dalam bentuk laporan, tabel, indikator visual, dan grafik dinamis dalam satu layar tunggal [25]. Tujuan utama dashboard adalah menyederhanakan data yang kompleks menjadi tampilan yang ringkas dan mudah dipahami, sehingga pengambil keputusan dapat langsung membaca kondisi organisasi tanpa harus mengolah data secara manual terlebih dahulu [25]. Sebuah dashboard yang baik umumnya mencakup tiga aspek utama, yaitu penyajian data secara visual, kemampuan personalisasi tampilan sesuai kebutuhan pengguna, dan dukungan kolaborasi antar pengguna dalam satu platform [26]. Dalam penelitian ini, dashboard digunakan oleh Admin Global untuk memantau status laporan harian seluruh unit secara real-time, serta menampilkan visualisasi kinerja dalam bentuk diagram batang mingguan dan bulanan per unit untuk mendukung pengambilan keputusan operasional [13].  
+
+2.2.13. Sistem Autentikasi dan Keamanan Akun  
+
+Sistem autentikasi adalah mekanisme keamanan yang digunakan untuk memverifikasi identitas pengguna sebelum memberikan akses ke dalam sebuah sistem, memastikan bahwa hanya pengguna yang sah dan berwenang yang dapat menggunakan fitur-fitur yang tersedia [27]. Dalam aplikasi berbasis web, autentikasi umumnya dilakukan melalui kombinasi nama pengguna atau surel dan kata sandi, yang kemudian diverifikasi oleh server sebelum sesi pengguna dimulai [27]. Keamanan sistem juga mencakup mekanisme pembatasan akses berdasarkan peran (role-based access control), di mana setiap pengguna hanya dapat mengakses fitur yang sesuai dengan perannya masing-masing, sehingga data antar unit atau antar peran tidak dapat saling diakses secara tidak sah [27]. Dalam penelitian ini, sistem autentikasi diterapkan dengan mekanisme penguncian akun otomatis setelah tiga kali percobaan login yang gagal, pembatasan akses berdasarkan tiga peran yaitu User Unit, Admin Global, dan IT Support, serta penggunaan JSON Web Token (JWT) sebagai mekanisme autentikasi berbasis token yang aman untuk setiap permintaan ke server [28].  
+
+2.2.14. JSON Web Token (JWT)  
+
+JSON Web Token (JWT) adalah standar terbuka berbasis RFC 7519 yang digunakan untuk merepresentasikan klaim (claims) secara aman antara dua pihak dalam format yang ringkas dan mudah dikirimkan melalui URL, header HTTP, maupun body permintaan [29]. Sebuah JWT terdiri dari tiga bagian yang dipisahkan oleh tanda titik, yaitu header yang berisi jenis token dan algoritma enkripsi yang digunakan, payload yang berisi data pengguna seperti ID, peran, dan waktu kedaluwarsa token, serta signature yang berfungsi memastikan bahwa token tidak dimanipulasi oleh pihak lain [29]. Keunggulan utama JWT dibandingkan mekanisme sesi (session) konvensional terletak pada sifatnya yang stateless, artinya server tidak perlu menyimpan informasi sesi di basis data karena seluruh informasi autentikasi sudah terkandung di dalam token itu sendiri, sehingga sistem menjadi lebih ringan dan mudah diskalakan [28]. Dalam penelitian ini, JWT digunakan sebagai mekanisme autentikasi utama di mana setiap pengguna yang berhasil login akan menerima JWT yang kemudian disertakan pada setiap permintaan ke server, sehingga sistem dapat memverifikasi identitas dan peran pengguna secara efisien tanpa perlu mengakses basis data berulang kali [28].  
+
+2.2.15. Reset Password via Token  
+
+Mekanisme reset password via token adalah prosedur keamanan yang memungkinkan pengguna memulihkan akses ke akunnya melalui sebuah token unik yang bersifat sekali pakai (one-time use) dan memiliki batas waktu kedaluwarsa, sehingga tidak dapat digunakan kembali setelah dipakai atau setelah melewati waktu yang ditentukan [30]. Pendekatan ini jauh lebih aman dibandingkan metode pengiriman kata sandi langsung, karena token yang dikirimkan tidak mengandung informasi sensitif dan hanya berlaku dalam rentang waktu singkat, umumnya tidak lebih dari satu jam sejak diterbitkan [30]. Praktik terbaik dalam implementasi reset password via token mensyaratkan bahwa token harus bersifat unik per pengguna, di-invalidate segera setelah digunakan, serta pembaruan kata sandi dilakukan secara atomic untuk mencegah kondisi race condition yang dapat menyebabkan inkonsistensi data [30]. Dalam penelitian ini, mekanisme ini diterapkan untuk menangani akun yang terkunci akibat tiga kali kegagalan login, di mana IT Support membangkitkan token yang dikirimkan melalui WhatsApp kepada pengguna, dan setelah token digunakan untuk memperbarui kata sandi, akun secara otomatis terbuka kunci kembali [6].  
+
+2.2.16. Unified Modelling Language (UML)  
+
+Unified Modelling Language (UML) adalah bahasa pemodelan visual standar yang digunakan dalam rekayasa perangkat lunak untuk menggambarkan, merancang, dan mendokumentasikan sistem perangkat lunak dari berbagai sudut pandang secara terstruktur dan mudah dipahami oleh seluruh pihak yang terlibat [31]. UML dikembangkan oleh Object Management Group (OMG) dan menyediakan sekumpulan notasi grafis yang memungkinkan pengembang untuk memodelkan struktur statis maupun perilaku dinamis dari sebuah sistem sebelum proses implementasi dimulai [31]. Penggunaan UML dalam pengembangan sistem sangat penting karena membantu memperjelas hubungan antar komponen sistem, memudahkan komunikasi antara pengembang dan pemangku kepentingan, serta memastikan bahwa seluruh kebutuhan sistem telah terdokumentasikan dengan baik sebelum kode ditulis [32]. Dalam penelitian ini, UML digunakan sebagai alat pemodelan utama yang mencakup use case diagram, activity diagram, dan sequence diagram untuk menggambarkan interaksi antar aktor dan komponen sistem secara menyeluruh [32]. 
+
+A. Use Case Diagram  
+
+Use case diagram adalah jenis diagram UML yang digunakan untuk menggambarkan interaksi fungsional antara aktor dengan sistem, menunjukkan apa saja yang dapat dilakukan oleh setiap aktor di dalam sistem tanpa menjelaskan bagaimana proses tersebut berlangsung secara teknis [32]. Diagram ini menjadi titik awal yang penting dalam perancangan sistem karena membantu pengembang dan pemangku kepentingan untuk menyepakati ruang lingkup dan fungsi sistem sebelum masuk ke tahap desain yang lebih teknis [32]. Dalam penelitian ini, use case diagram digunakan untuk menggambarkan seluruh fungsi yang dapat diakses oleh tiga aktor sistem, yaitu User Unit, Admin Global, dan IT Support, yang dikelompokkan ke dalam empat paket fungsional utama. Adapun simbol Use Case Diagram dapat dilihat pada Tabel 2.3.  
+
+ 
+
+Tabel 2.3 Penjelasan Simbol pada Use Case Diagram 
+
+Nama Simbol 
+
+Simbol 
+
+Deskripsi 
+
+Aktor 
+
+ 
+
+Aktor didefinisikan sebagai entitas eksternal yang berperan terhadap jalannya sistem informasi, baik berupa individu, proses bisnis, maupun sistem lain di luar batas sistem yang dirancang. Oleh karena itu, meskipun secara visual digambarkan menyerupai manusia, aktor tidak selalu merepresentasikan orang dan umumnya diberi penamaan 
+
+Nama Simbol 
+
+Simbol 
+
+Deskripsi 
+
+berupa kata benda yang mencerminkan fungsi atau perannya. 
+
+Use Case 
+
+ 
+
+Use case merepresentasikan kemampuan atau layanan 
+
+yang disediakan oleh sistem, yang diwujudkan melalui interaksi pertukaran pesan antara sistem dan aktor. Secara konvensi penamaan, setiap use case dinyatakan dalam bentuk kata kerja untuk menegaskan aksi atau fungsi yang dijalankan oleh sistem. 
+
+System 
+
+ 
+
+Elemen sistem berfungsi sebagai batas yang menjelaskan ruang lingkup seluruh use case yang berada di dalamnya dan secara visual direpresentasikan dalam bentuk persegi panjang. Meskipun bersifat opsional, elemen ini sangat 
+
+Nama Simbol 
+
+Simbol 
+
+Deskripsi 
+
+membantu dalam memperjelas konteks dan struktur saat memodelkan sistem dengan kompleksitas yang tinggi. 
+
+Association 
+
+ 
+
+Relasi antara aktor dan use case menggambarkan adanya keterlibatan langsung dalam proses interaksi yang dilakukan oleh sistem. Hubungan ini menunjukkan bahwa aktor berpartisipasi atau berkomunikasi dengan use case tertentu untuk menjalankan fungsi sistem. 
+
+Include 
+
+ 
+
+Relasi ini digunakan untuk menunjukkan hubungan antar use case, di mana satu use case memanfaatkan atau menjalankan perilaku yang dimiliki oleh use case lainnya. 
+
+Hubungan tersebut menegaskan adanya 
+
+keterkaitan fungsional dalam 
+
+Nama Simbol 
+
+Simbol 
+
+Deskripsi 
+
+alur proses yang disediakan oleh sistem. 
+
+ 
+
+Extend 
+
+ 
+
+ 
+
+Relasi ini menunjukkan adanya perilaku tambahan yang dapat memperluas fungsi use case utama melalui use case lain yang bersifat tidak wajib. Eksekusi perluasan tersebut hanya terjadi ketika kondisi tertentu telah terpenuhi dalam alur proses sistem. 
+
+ 
+
+B. Activity Diagram  
+
+Activity Diagram merupakan diagram UML yang menggambarkan alur aktivitas atau proses bisnis dalam suatu sistem, termasuk bagaimana objek saling terhubung dan berinteraksi hingga terhubung dengan database. Diagram ini membantu mengidentifikasi langkahlangkah untuk mencapai tujuan tertentu serta memvisualisasikan alur aktivitas dari satu tahap ke tahap berikutnya [45]. Adapun simbol Activity Diagram dapat dilihat pada Tabel 2.4.  
+
+ 
+
+Tabel 2.4 Penjelasan Simbol pada Activity Diagram 
+
+Nama Simbol 
+
+Simbol 
+
+Deskripsi 
+
+Status awal 
+
+ 
+
+Status awal  merepresentasikan titik awal dimulainya seluruh alur aktivitas dalam sebuah activity diagram. 
+
+Status akhir 
+
+ 
+
+Status akhir menandai titik penyelesaian seluruh rangkaian aktivitas yang dijalankan oleh sistem. 
+
+Aktivitas 
+
+ 
+
+Aktivitas merepresentasikan tindakan atau proses yang dijalankan oleh sistem dalam suatu alur kerja. 
+
+Percabangan / Decision 
+
+ 
+
+Elemen ini digunakan ketika suatu proses memiliki lebih dari satu jalur eksekusi berdasarkan kondisi tertentu. 
+
+Swimlane 
+
+ 
+
+Swimlane digunakan untuk memecah diagram aktivitas menjadi baris dan kolom untuk menetapkan kegiatan individu (tindakan kepada individu atau objek yang bertanggung jawab untuk melaksanakan aktivitas (tindakan). 
+
+ 
+
+C. Sequence Diagram  Sequence diagram adalah jenis diagram UML yang digunakan untuk menggambarkan urutan pertukaran pesan antar objek atau komponen sistem dalam menjalankan suatu proses tertentu berdasarkan urutan waktu [34]. Diagram ini berfokus pada bagaimana setiap komponen, mulai dari frontend, backend, database, hingga layanan eksternal, saling berkomunikasi secara berurutan untuk menyelesaikan satu skenario fungsional, sehingga pengembang dapat mendeteksi apabila ada langkah yang hilang atau tidak logis sebelum implementasi dilakukan [34]. Dalam penelitian ini, sequence diagram digunakan untuk menggambarkan lima skenario utama sistem, yaitu proses login, reset password via token, submit laporan, review laporan oleh Admin Global, dan penanganan helpdesk REVISION. Adapun simbol-simbol yang digunakan dalam sequence diagram dapat dilihat pada Tabel 2.5.  
+
+ 
+
+Tabel 2.5 Penjelasan Simbol pada Sequence Diagram 
+
+Nama Simbol 
+
+Simbol 
+
+Deskripsi 
+
+Aktor 
+
+ 
+
+Aktor merupakan entitas 
+
+eksternal, baik berupa individu maupun sistem lain, yang berada di luar sistem dan memperoleh manfaat dari fungsi yang disediakan. 
+
+Object 
+
+ 
+
+Objek merupakan komponen yang terlibat dalam suatu urutan interaksi dengan cara mengirimkan dan/atau 
+
+Nama Simbol 
+
+Simbol 
+
+Deskripsi 
+
+menerima pesan antar elemen sistem. Objek diposisikan pada bagian atas sebagai penanda awal keterlibatannya dalam alur komunikasi. 
+
+Lifeline 
+
+ 
+
+Lifeline digunakan untuk merepresentasikan keberadaan dan keterlibatan suatu objek sepanjang berlangsungnya urutan interaksi dalam sebuah 
+
+diagram. Elemen 
+
+ini 
+
+menunjukkan rentang 
+
+waktu 
+
+objek berpartisipasi 
+
+dalam 
+
+proses komunikasi komponen sistem. 
+
+antar 
+
+Message 
+
+Pemanggilan 
+
+operasi 
+
+direpresentasikan 
+
+dengan 
+
+ 
+
+panah garis penuh yang diberi label pesan, sedangkan proses pengembalian hasil ditunjukkan melalui panah garis putus-putus yang memuat nilai balikan. 
+
+Nama Simbol 
+
+Simbol 
+
+Deskripsi 
+
+Guard 
+
+Condition 
+
+ 
+
+Guard condition merupakan kondisi logis yang harus terpenuhi sebelum suatu pesan dapat dikirimkan dalam alur interaksi. Kondisi ini berfungsi sebagai pengendali agar pesan hanya dieksekusi ketika persyaratan tertentu telah dipenuhi. 
+
+Frame 
+
+ 
+
+Elemen ini berfungsi untuk menjelaskan konteks 
+
+keseluruhan interaksi yang digambarkan dalam suatu sequence diagram. 
+
+ 
+
+D. Entity Relationship Diagram (ERD) 
+
+Entity Relationship Diagram (ERD) adalah diagram yang digunakan untuk memodelkan struktur data konseptual suatu sistem dengan menggambarkan entitas, atribut, dan hubungan antar entitas secara visual sebelum basis data diimplementasikan [35]. Setiap entitas dalam ERD harus saling terhubung melalui relasi dan memiliki primary key sebagai penanda unik beserta atribut-atribut deskriptif lainnya [35]. Hubungan antar entitas ditentukan oleh kardinalitas yang dapat berupa satu-ke-satu (one-to-one), satu-ke-banyak (one-to-many), maupun banyak-ke-banyak (many-to-many) sesuai aturan bisnis yang berlaku [35]. Dalam penelitian ini, ERD digunakan sebagai alat perancangan basis data sistem monitoring dan pelaporan PT KAI Divre I Sumatera 
+
+Utara. Adapun komponen-komponen penyusun ERD dapat dilihat pada 
+
+Tabel 2.6.  
+
+ 
+
+Tabel 2.6 Penjelasan Simbol pada Entity Relationship Diagram (ERD) 
+
+Nama Simbol 
+
+Simbol 
+
+Deskripsi 
+
+Entitas 
+
+ 
+
+Kumpulan dari Objek yang dapat diidentifikasi secara unik. 
+
+Relationship 
+
+ 
+
+Hubungan yang terjadi antara satu atau lebih entity. 
+
+Attribut 
+
+ 
+
+Karakteristik dari entity atau relasi yang merupakan penjelasan detail tentang 
+
+entitas 
+
+Komposit 
+
+Attribut 
+
+ 
+
+Suatu atribut yang terdiri dari beberapa atribut yang lebih kecil yang mempunyai arti tertentu. Disimbolkan dengan sebuah elips yang memiliki cabang sesuai 
+
+dengan         pecahan atributnya.  
+
+Link 
+
+ 
+
+Hubungan antara entity dengan atributnya dan himpunan entitas 
+
+dengan himpunan relasi 
+
+ 
+
+2.2.17. Wireframe (Low Fidelity & High Fidelity)  
+
+Wireframe adalah kerangka rancangan antarmuka pengguna yang menggambarkan tata letak elemen-elemen halaman secara visual sebelum proses pengembangan dimulai, tanpa memperhatikan aspek estetika seperti warna atau tipografi secara detail [41]. Low fidelity wireframe bersifat kasar dan sederhana, hanya menggunakan bentuk-bentuk dasar sebagai penanda posisi elemen, sehingga cocok digunakan pada tahap awal diskusi desain untuk mendapatkan umpan balik secara cepat [41]. Sementara itu, high fidelity wireframe memiliki tingkat detail yang jauh lebih tinggi dengan menyertakan ukuran elemen yang akurat, konten nyata, dan elemen interaktif sehingga tampilannya sudah mendekati produk akhir [41]. Dalam penelitian ini, wireframe digunakan sebagai acuan perancangan antarmuka sistem monitoring dan pelaporan PT KAI Divre I Sumatera Utara sebelum implementasi dilakukan menggunakan Figma.  
+
+2.2.18. Teknologi Pendukung Pengembangan Sistem 
+
+A. React 
+
+React adalah pustaka (library) JavaScript sumber terbuka yang dikembangkan oleh Meta dan digunakan untuk membangun antarmuka pengguna berbasis komponen yang bersifat deklaratif dan dapat digunakan ulang (reusable) [40]. React bekerja dengan konsep Virtual DOM yang memungkinkan perubahan tampilan diproses secara efisien tanpa harus memuat ulang seluruh halaman, sehingga menghasilkan antarmuka yang responsif dan cepat [40]. Keunggulan utama React dibandingkan pendekatan konvensional terletak pada arsitektur berbasis komponen yang memudahkan pengelolaan kode dan memungkinkan pengujian setiap komponen secara mandiri [40]. Dalam penelitian ini, React digunakan sebagai teknologi utama pada sisi frontend untuk membangun seluruh tampilan antarmuka sistem, mulai dari dasbor, halaman input laporan, hingga halaman manajemen pengguna.  
+
+B. Node.js  
+
+Node.js adalah lingkungan eksekusi JavaScript sisi server berbasis runtime V8 milik Google yang memungkinkan pengembang menggunakan JavaScript tidak hanya di sisi frontend, tetapi juga untuk membangun logika backend dan mengelola permintaan dari client [42]. Node.js menggunakan model non-blocking I/O dan bersifat event-driven, sehingga sangat efisien dalam menangani banyak permintaan secara bersamaan tanpa harus menunggu satu proses selesai sebelum memulai proses berikutnya [42]. Keunggulan ini menjadikan Node.js pilihan yang tepat untuk aplikasi web yang membutuhkan komunikasi real-time dan pemrosesan data yang cepat [42]. Dalam penelitian ini, Node.js digunakan sebagai platform utama backend yang menjalankan seluruh logika sistem, mengelola koneksi basis data melalui Prisma, serta menangani komunikasi real-time bersama Socket.io.   
+
+C. Express.js  
+
+Express.js adalah framework aplikasi web berbasis Node.js yang bersifat minimalis dan fleksibel, dirancang khusus untuk memudahkan pembangunan REST API dan aplikasi web di sisi server [43]. Framework ini menyediakan fitur dasar seperti pengelolaan rute (routing), penanganan middleware, dan manajemen permintaan HTTP yang dapat dikonfigurasi sesuai kebutuhan tanpa memaksakan struktur kode tertentu kepada pengembang [43]. Kecepatan eksekusi dan kesederhanaan Express.js menjadikannya salah satu framework backend paling banyak digunakan dalam pengembangan sistem informasi berbasis web [43]. Dalam penelitian ini, Express.js digunakan untuk membangun seluruh endpoint API sistem yang melayani permintaan dari sisi frontend React, mencakup modul autentikasi, laporan, validasi, notifikasi, hingga helpdesk.  
+
+D. Prisma ORM 
+
+Prisma ORM merupakan pendekatan Object Relational Mapping modern yang dirancang untuk lingkungan Node.js, memungkinkan pengembang berinteraksi dengan basis data relasional melalui abstraksi objek yang terstruktur sehingga mengurangi ketergantungan pada penulisan kueri SQL secara langsung dan menekan potensi kesalahan implementasi. Penggunaan Prisma juga mendukung pengelolaan relasi data yang konsisten serta meningkatkan keamanan akses data melalui mekanisme validasi berbasis model yang terintegrasi [36]. 
+
+E. MySQL  
+
+MySQL merupakan sistem manajemen basis data relasional yang menggunakan SQL sebagai bahasa utama untuk pengelolaan, pemeliharaan, dan manipulasi data, serta didistribusikan sebagai perangkat lunak open source sehingga didukung oleh komunitas pengguna yang luas [37]. Meskipun bersifat terbuka, MySQL tetap menerapkan mekanisme keamanan berlapis, termasuk pengamanan berbasis host dan enkripsi kata sandi, untuk menjaga integritas data. 
+
+F. Baileys  
+
+Baileys merupakan pustaka berbasis Node.js yang menyediakan antarmuka pemrograman untuk mengintegrasikan aplikasi dengan layanan WhatsApp melalui mekanisme WhatsApp Web, sehingga memungkinkan sistem menerima dan mengirim pesan secara otomatis tanpa ketergantungan langsung pada perangkat seluler [38]. Penerapan Baileys mendukung pengelolaan sesi, autentikasi multi-perangkat, serta komunikasi real-time yang stabil, sehingga sesuai digunakan dalam pengembangan sistem chatbot dan notifikasi otomatis berbasis WhatsApp. 
+
+G. Postman 
+
+Postman digunakan sebagai alat pengujian untuk memverifikasi fungsionalitas setiap endpoint RESTful API yang dikembangkan dengan cara mengirim dan mengevaluasi permintaan HTTP sesuai kebutuhan fungsional sistem manajemen aset. Dalam penelitian ini, Postman berperan mendukung proses unit testing sehingga setiap endpoint yang dihasilkan dapat dipastikan berjalan sesuai rancangan dan siap diintegrasikan ke dalam aplikasi berbasis web [39]. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BAB III METODE PENELITIAN 
+
+ 
+
+3.1  Alur Penelitian 
+
+Alur penelitian menggambarkan tahapan yang dilakukan dalam proses penyusunan dan pengembangan sistem pada penelitian ini, mulai dari identifikasi permasalahan hingga penulisan laporan akhir. Setiap tahapan dirancang secara berurutan dan saling berkaitan untuk memastikan proses penelitian berjalan secara sistematis dan terarah. Dalam penelitian ini, pengembangan sistem dilakukan menggunakan pendekatan Software Development Life Cycle (SDLC) model Modified Waterfall yang menjadi dasar dalam seluruh proses penelitian. Tahapan pengembangan sistem ini memungkinkan adanya penyesuaian pada tahap tertentu tanpa harus mengulang keseluruhan proses dari awal. Alur penelitian secara keseluruhan digambarkan dalam bentuk flowchart pada Gambar 3.1.  
+
+ 
+
+3.2  Penjabaran Langkah Penelitian 
+
+Setiap tahapan dalam alur penelitian memiliki peran yang saling mendukung untuk menghasilkan sistem yang sesuai dengan kebutuhan. Berikut merupakan penjabaran dari masing-masing tahapan yang dilakukan dalam penelitian ini.  
+
+3.2.1 Analisis Permasalahan  
+
+Tahap ini merupakan titik awal penelitian, di mana peneliti mengidentifikasi permasalahan yang terjadi pada proses pelaporan kinerja unit di PT KAI Divre I Sumatera Utara. Identifikasi dilakukan melalui observasi langsung dan wawancara dengan pihak terkait, khususnya Manajer IT. Hasil dari tahap ini menjadi dasar dalam menentukan arah dan fokus penelitian secara keseluruhan.  
+
+3.2.2 Studi Literatur 
+
+Tahap studi literatur dilakukan untuk membangun landasan ilmiah yang kuat dalam mendukung proses perancangan dan pengembangan sistem. Kegiatan yang dilakukan pada tahap ini meliputi pencarian, pembacaan, dan pengkajian referensi yang relevan, mencakup jurnal ilmiah, buku, serta penelitian terdahulu yang berkaitan dengan topik penelitian. Referensi dikumpulkan dari sumber-sumber yang dapat dipertanggungjawabkan secara ilmiah dengan rentang waktu penerbitan minimal empat tahun terakhir untuk memastikan relevansi dan kemutakhiran informasi yang digunakan. Topik-topik yang menjadi fokus pencarian referensi mencakup (akan dilengkapi setelah Bab II selesai disusun). Hasil dari tahap ini digunakan sebagai dasar teori dalam merancang sistem sekaligus sebagai pembanding untuk mengidentifikasi celah penelitian yang akan diselesaikan.  
+
+3.2.3 Analisis Kebutuhan 
+
+Pada tahap ini, peneliti mengidentifikasi kebutuhan sistem secara menyeluruh berdasarkan hasil analisis permasalahan dan studi literatur yang telah dilakukan. Proses ini mencakup penentuan aktor sistem, kebutuhan fungsional, dan kebutuhan non-fungsional yang menjadi acuan dalam perancangan sistem. Apabila pada tahap selanjutnya ditemukan kebutuhan yang belum terakomodasi, tahap ini dapat ditinjau kembali sesuai karakteristik Modified Waterfall.  
+
+3.2.4 Desain Sistem 
+
+Tahap desain mencakup perancangan arsitektur sistem, alur proses, struktur basis data, dan tampilan antarmuka yang akan digunakan oleh pengguna. Rancangan ini disusun berdasarkan hasil analisis kebutuhan agar seluruh kebutuhan pengguna dapat terakomodasi dengan baik sebelum proses implementasi dimulai. Jika pada tahap implementasi ditemukan ketidaksesuaian, desain dapat disesuaikan kembali tanpa harus mengulang dari awal.  
+
+3.2.5 Implementasi 
+
+Tahap implementasi merupakan proses pembangunan sistem berdasarkan desain yang telah dibuat, mencakup pengembangan seluruh fitur seperti penginputan laporan, validasi berlapis, notifikasi otomatis, dasbor pemantauan, helpdesk, dan ekspor laporan. Proses ini dilakukan secara bertahap dan modular agar setiap komponen dapat diuji secara mandiri sebelum diintegrasikan. Apabila ditemukan kendala selama pengembangan, penyesuaian dapat dilakukan dengan kembali ke tahap desain.  
+
+3.2.6 Pengujian 
+
+Tahap pengujian dilakukan untuk memastikan sistem berjalan sesuai kebutuhan dan dapat diterima oleh pengguna. Pengujian dilakukan menggunakan blackbox testing untuk memverifikasi fungsionalitas sistem dan User Acceptance Testing (UAT) untuk mengukur tingkat keberterimaan sistem oleh pengguna di lingkungan PT KAI Divre I Sumatera Utara. Jika ditemukan kesalahan atau ketidaksesuaian, perbaikan dilakukan dengan kembali ke tahap implementasi.  
+
+3.2.7 Perilisan dan Pemeliharaan  
+
+Setelah sistem dinyatakan layak melalui pengujian, sistem mulai dioperasikan dan dipantau kinerjanya dalam lingkungan nyata. Tahap ini bertujuan untuk memastikan sistem dapat berjalan stabil dan berkelanjutan sesuai kebutuhan operasional. Apabila ditemukan kendala setelah perilisan, perbaikan dilakukan untuk menjaga kestabilan sistem.  
+
+3.2.8 Penulisan Laporan Akhir  
+
+Tahap terakhir adalah penyusunan laporan penelitian sebagai dokumentasi menyeluruh dari seluruh proses yang telah dilakukan, mulai dari analisis permasalahan hingga hasil pengujian sistem. Laporan disusun secara sistematis sesuai pedoman yang berlaku agar hasil penelitian dapat dipahami dan dimanfaatkan oleh pihak-pihak yang berkepentingan.  
+
+3.3 Alat dan Bahan Tugas Akhir  
+
+Pada penelitian ini, alat dan bahan yang digunakan berperan penting dalam mendukung proses perancangan, pengembangan, hingga pengujian sistem. Pemilihan alat dan bahan disesuaikan dengan kebutuhan penelitian agar hasil yang diperoleh optimal. Dengan penggunaan alat dan bahan yang tepat, proses penelitian dapat berjalan secara efektif dan terstruktur. 
+
+3.3.1 Alat 
+
+Alat yang digunakan dalam penelitian ini meliputi beberapa perangkat lunak pendukung, yaitu:  
+
+No 
+
+Alat 
+
+Fungsi 
+
+1 
+
+Visual 
+
+Studio 
+
+Code 
+
+Code editor untuk menulis dan mengelola kode program 
+
+2 
+
+Node.js 
+
+Runtime environment untuk menjalankan aplikasi pada sisi server 
+
+3 
+
+Express.js 
+
+Framework backend untuk membangun dan mengelola API sistem 
+
+4 
+
+React.js 
+
+Frontend library untuk membangun tampilan antarmuka berbasis web 
+
+5 
+
+MySQL 
+
+Sistem manajemen basis data untuk menyimpan data sistem 
+
+6 
+
+Prisma 
+
+ORM 
+
+Penghubung aplikasi dengan basis data secara terstruktur 
+
+7 
+
+Postman 
+
+Pengujian API yang telah dikembangkan 
+
+8 
+
+Baileys 
+
+Integrasi sistem dengan WhatsApp Gateway 
+
+9 
+
+Socket.io 
+
+Komunikasi data secara real-time 
+
+10 
+
+Figma 
+
+Perancangan tampilan antarmuka sebelum implementasi 
+
+11 
+
+Draw.io 
+
+Pembuatan diagram alur dan rancangan sistem 
+
+ 
+
+3.3.2 Bahan 
+
+Bahan yang digunakan dalam penelitian ini berupa data dan informasi yang mendukung proses analisis dan pengembangan sistem, yaitu: 
+
+No 
+
+Bahan 
+
+Jenis 
+
+Keterangan 
+
+1 
+
+Hasil wawancara dengan Manajer IT PT KAI Divre I 
+
+Sumatera Utara 
+
+Dataset pihak pertama 
+
+Diperoleh melalui wawancara langsung dengan Bapak Lexi 
+
+Alexander sebagai dasar analisis kebutuhan sistem 
+
+2 
+
+Format laporan harian unit KNA, 
+
+Angkutan 
+
+Penumpang, Angkutan Barang, dan Keuangan 
+
+Dataset pihak pertama 
+
+Diperoleh dari PT KAI Divre I Sumatera Utara sebagai acuan perancangan fitur penginputan dan 
+
+validasi laporan 
+
+3 
+
+Dokumen alur bisnis pelaporan kinerja 
+
+unit 
+
+Dataset pihak pertama 
+
+Diperoleh melalui observasi langsung sebagai referensi dalam memahami proses 
+
+pelaporan yang berjalan 
+
+4 
+
+Kuesioner User 
+
+Acceptance Testing 
+
+(UAT) 
+
+Dataset pihak pertama 
+
+Disusun sendiri dan diisi oleh pengguna sistem dari unit-unit terkait sebagai bahan pengujian 
+
+keberterimaan sistem 
+
+5 
+
+Jurnal dan referensi ilmiah 
+
+Dokumen panduan 
+
+Digunakan sebagai landasan teori dan pembanding dalam 
+
+pengembangan sistem 
+
+ 
+
+3.4  Metode Pengembangan 
+
+Subbab ini merupakan penjabaran lebih rinci dari setiap tahapan 
+
+Modified Waterfall yang telah digambarkan pada alur penelitian di subbab 
+
+3.2. Setiap tahapan diuraikan secara detail mulai dari analisis kebutuhan hingga perilisan sistem untuk memberikan gambaran yang jelas mengenai proses pengembangan yang dilakukan.  
+
+3.4.1 Analisis Kebutuhan 
+
+Tahap analisis kebutuhan bertujuan untuk mengidentifikasi kondisi sistem yang berjalan saat ini serta menentukan kebutuhan sistem yang akan dikembangkan secara menyeluruh. Pada tahap ini, kegiatan yang dilakukan meliputi identifikasi aktor sistem, pelaksanaan wawancara dengan pihak terkait, serta penyusunan kebutuhan fungsional dan non-fungsional sebagai acuan perancangan. Data dikumpulkan melalui observasi langsung dan wawancara dengan Manajer IT PT KAI Divre I Sumatera Utara untuk memperoleh gambaran nyata mengenai permasalahan dan kebutuhan yang ada. Seluruh hasil dari tahap ini kemudian didokumentasikan dan dijadikan dasar dalam tahap desain sistem. Dengan analisis yang tepat, sistem yang dikembangkan diharapkan dapat memberikan solusi yang optimal. 
+
+Identifikasi Aktor Sistem 
+
+Aktor sistem merupakan pihak yang berinteraksi langsung dengan sistem yang dikembangkan. Berdasarkan hasil analisis kebutuhan, terdapat tiga aktor dengan peran dan hak akses yang berbeda sebagaimana ditunjukkan pada tabel berikut : 
+
+No 
+
+Aktor 
+
+Peran dalam Sistem 
+
+1 
+
+User 
+
+Unit 
+
+Menginput laporan harian, melakukan validasi internal, memantau status dan riwayat laporan unit masing-masing 
+
+2 
+
+Admin 
+
+Global 
+
+Melakukan validasi eksternal, mengulas dan menyetujui atau merevisi laporan, serta memantau kinerja seluruh unit melalui dasbor 
+
+3 
+
+IT 
+
+Support 
+
+Mengelola kendala teknis, menangani reset akun, serta memantau keamanan dan stabilitas sistem 
+
+ 
+
+Pertanyaan Wawancara 
+
+Pengumpulan data kebutuhan sistem dilakukan melalui proses wawancara dengan Bapak Lexi Alexander selaku Manajer IT PT KAI Divre I Sumatera Utara. Perlu digarisbawahi bahwa dokumen hasil wawancara yang digunakan dalam penelitian ini bukan merupakan hasil satu sesi wawancara formal, melainkan merupakan kesimpulan yang disusun dari serangkaian diskusi dan komunikasi yang berlangsung secara bertahap dan tidak selalu dalam suasana formal, termasuk melalui percakapan langsung maupun daring [2]. Dokumen tersebut kemudian dirangkum secara sistematis untuk keperluan analisis kebutuhan sistem. Berikut merupakan daftar pertanyaan yang digunakan sebagai panduan dalam proses wawancara:  
+
+No 
+
+Aspek 
+
+Pertanyaan 
+
+1 
+
+Identitas 
+
+Narasumber 
+
+Siapa nama, jabatan, dan peran narasumber dalam proses pelaporan? 
+
+2 
+
+Proses 
+
+Pelaporan 
+
+Bagaimana proses pelaporan yang berjalan saat ini di unit kerja? 
+
+3 
+
+Proses 
+
+Pelaporan 
+
+Seberapa sering laporan dikirim oleh masing-masing unit? 
+
+4 
+
+Proses 
+
+Pelaporan 
+
+Bagaimana alur setelah laporan dikirim oleh unit? 
+
+5 
+
+Permasalahan 
+
+Apa kendala utama dalam proses pelaporan saat ini? 
+
+6 
+
+Permasalahan 
+
+Apakah terjadi keterlambatan dalam pengiriman laporan? 
+
+7 
+
+Dampak 
+
+Apa dampak dari keterlambatan tersebut terhadap operasional? 
+
+8 
+
+Permasalahan 
+
+Apakah ada kendala lain yang sering terjadi dalam proses pelaporan? 
+
+9 
+
+Alternatif 
+
+Sistem 
+
+Apakah penggunaan Excel atau Google Form sudah cukup memadai? 
+
+10 
+
+Alternatif 
+
+Sistem 
+
+Apa keterbatasan Excel atau Google Form dari sisi kontrol akses? 
+
+11 
+
+Alternatif 
+
+Sistem 
+
+Apakah Excel atau Google Form mendukung alur validasi laporan? 
+
+12 
+
+Alternatif 
+
+Sistem 
+
+Bagaimana dengan ketersediaan notifikasi dan pemantauan real-time? 
+
+13 
+
+Alternatif 
+
+Sistem 
+
+Apakah tersedia pencatatan aktivitas pengguna pada sistem yang ada? 
+
+14 
+
+Kebutuhan 
+
+Sistem 
+
+Apa yang paling dibutuhkan dari sistem yang akan dikembangkan? 
+
+15 
+
+Kebutuhan 
+
+Sistem 
+
+Apakah notifikasi otomatis diperlukan dalam sistem? 
+
+16 
+
+Validasi 
+
+Bagaimana proses validasi laporan yang berjalan saat ini? 
+
+17 
+
+Revisi 
+
+Bagaimana alur revisi laporan jika terdapat kesalahan? 
+
+18 
+
+Data 
+
+Laporan berasal dari berapa unit dan apakah semua wajib melapor harian? 
+
+19 
+
+Cakupan 
+
+Penelitian 
+
+Mengapa penelitian difokuskan hanya pada 4 unit? 
+
+20 
+
+Urgensi Sistem 
+
+Apakah sistem tetap diperlukan meskipun jumlah pengelola relatif sedikit? 
+
+ 
+
+Kebutuhan Fungsional Sistem 
+
+Kebutuhan fungsional disusun berdasarkan hasil analisis dokumen wawancara secara menyeluruh. Setiap fungsi yang dirancang bertujuan langsung untuk mengatasi permasalahan yang ditemukan di lapangan, sebagaimana ditunjukkan pada tabel berikut:  
+
+ID 
+
+Kebutuhan 
+
+Keterangan 
+
+F-01 
+
+Login sistem 
+
+Pengguna dapat masuk ke sistem menggunakan akun yang terdaftar dengan mekanisme keamanan pembatasan percobaan login 
+
+F-02 
+
+Input laporan harian 
+
+User Unit dapat menginput laporan kinerja harian sesuai format masing-masing unit 
+
+F-03 
+
+Validasi internal 
+
+User Unit dapat melakukan validasi laporan secara mandiri sebelum laporan dikirim ke 
+
+Admin Global 
+
+F-04 
+
+Submit laporan 
+
+Laporan hanya dapat dikirim ke Admin Global apabila telah melewati proses validasi internal 
+
+F-05 
+
+Validasi eksternal 
+
+Admin Global dapat meninjau laporan yang masuk dan memberikan keputusan 
+
+persetujuan atau revisi 
+
+F-06 
+
+Monitoring dasbor 
+
+Admin Global dan User Unit dapat memantau status dan kinerja laporan melalui dasbor yang menyajikan data secara real-time 
+
+F-07 
+
+Notifikasi otomatis 
+
+Sistem mengirimkan notifikasi melalui 
+
+WhatsApp dan Socket.io terkait status 
+
+laporan, pengingat deadline, dan informasi revisi 
+
+F-08 
+
+Helpdesk 
+
+User Unit dapat mengajukan permintaan bantuan terkait kendala teknis, reset akun, maupun permintaan revisi laporan 
+
+F-09 
+
+Manajemen 
+
+akun dan unit 
+
+Admin Global dapat mengelola data akun pengguna dan unit kerja dalam sistem 
+
+F-10 
+
+Reset password via token 
+
+IT Support dapat membangkitkan token one-time untuk keperluan reset password pengguna yang akunnya terkunci 
+
+F-11 
+
+Audit log 
+
+Sistem mencatat seluruh aktivitas pengguna sebagai jejak yang dapat ditelusuri 
+
+F-12 
+
+Input target 
+
+User Unit dapat menginput target per periode sebagai dasar perbandingan dengan realisasi 
+
+ 
+
+Kebutuhan Non-Fungsional Sistem 
+
+Kebutuhan non-fungsional berkaitan dengan kualitas dan standar sistem secara keseluruhan di luar fungsionalitas utamanya. Berikut merupakan kebutuhan non-fungsional yang ditetapkan berdasarkan hasil analisis:  
+
+ID 
+
+Kebutuhan 
+
+Keterangan 
+
+NF-01 
+
+Keamanan 
+
+Sistem menerapkan autentikasi berbasis JWT, pembatasan hak akses per peran, serta mekanisme penguncian akun setelah tiga kali percobaan login yang gagal 
+
+NF-02 
+
+Kinerja 
+
+Sistem mampu menampilkan dan memperbarui data secara cepat dan 
+
+real-time melalui Socket.io 
+
+NF-03 
+
+Kemudahan 
+
+Penggunaan 
+
+Sistem dirancang agar mudah digunakan oleh pengguna non-teknis sesuai dengan kebutuhan operasional harian 
+
+NF-04 
+
+Keandalan 
+
+Sistem dapat berjalan secara stabil tanpa gangguan yang menghambat proses pelaporan 
+
+NF-05 
+
+Kompatibilita
+
+s 
+
+Sistem dapat diakses melalui berbagai browser pada perangkat desktop maupun mobile 
+
+NF-06 
+
+Ketersediaan 
+
+Sistem dapat diakses kapan saja selama perangkat terhubung dengan jaringan internet 
+
+ 
+
+3.4.2 Desain Sistem 
+
+Tahap desain sistem merupakan kelanjutan dari tahap analisis yang telah menghasilkan gambaran kebutuhan secara menyeluruh. Pada tahap ini, kebutuhan-kebutuhan tersebut diterjemahkan ke dalam bentuk rancangan konkret yang dapat dijadikan acuan dalam proses implementasi. Desain sistem mencakup berbagai elemen visual dan struktural, mulai dari alur interaksi pengguna hingga rancangan antarmuka yang akan dibangun. Keseluruhan desain disusun secara bertahap dan saling berkaitan satu sama lain agar menghasilkan sistem yang kohesif dan mudah dipahami oleh seluruh pihak yang terlibat. 
+
+Adapun cakupan desain sistem pada penelitian ini meliputi enam komponen utama, yaitu use case diagram, activity diagram, sequence diagram, Entity Relationship Diagram (ERD), Data Flow Diagram (DFD), serta desain antarmuka low fidelity. Setiap komponen memiliki peran dan fungsi masing-masing dalam menggambarkan sistem dari sudut pandang yang berbeda. Pendekatan ini memastikan bahwa tidak ada aspek sistem yang terlewat dalam proses perancangan. Hasil dari tahap desain ini menjadi landasan utama bagi pengembang dalam memulai proses implementasi sistem. 
+
+a. Use Case Diagram  
+
+Use case diagram merupakan salah satu jenis diagram dalam pemodelan sistem yang digunakan untuk menggambarkan interaksi antara pengguna dengan sistem secara fungsional. Diagram ini menunjukkan siapa saja aktor yang terlibat dalam sistem beserta fungsi-fungsi apa saja yang dapat mereka lakukan sesuai dengan kewenangannya masing-masing. Dengan menggunakan use case diagram, kebutuhan fungsional sistem dapat divisualisasikan secara ringkas dan mudah dipahami oleh semua pihak, baik pengembang maupun pemangku kepentingan. Pada penelitian ini, use case diagram disusun secara terpisah untuk setiap aktor guna memperjelas batasan hak akses dan tanggung jawab masing-masing peran dalam sistem.  
+
+Use case diagram pertama menggambarkan interaksi User Unit dengan sistem yang mencakup fungsi Login, Reset Password via Token,
+
+Input Laporan Harian, Input Target/RKAP, Validasi Internal Laporan,
+
+Submit Laporan, Export Laporan PDF/Excel, Ajukan Helpdesk TOKEN, Ajukan Helpdesk ISSUE, dan Ajukan Helpdesk REVISION. Terdapat dua relasi tambahan pada diagram ini, yaitu fungsi Tambah Komoditi Barang yang bersifat «extend» terhadap Input Laporan Harian, artinya fitur ini hanya digunakan oleh User Unit Angkutan Barang saat diperlukan, serta fungsi Lihat Status Laporan yang bersifat «extend» terhadap Submit 
+
+Laporan. Selain itu, fungsi Validasi Internal Laporan memiliki relasi «include» terhadap Submit Laporan, yang berarti proses validasi internal wajib dilalui sebelum laporan dapat di-submit. Use case diagram aktor User Unit dapat dilihat pada Gambar 3.x berikut.  
+
+Use case diagram kedua menggambarkan interaksi Admin Global dengan sistem yang mencakup fungsi Login, Export Laporan 
+
+PDF/Excel, Review Laporan, Monitor Semua Unit, Kelola Akun User, Kelola Unit, dan Lihat Dashboard & Grafik. Fungsi Review Laporan memiliki dua relasi «include», yaitu ACC Laporan dan Set Status REVISI, yang berarti kedua fungsi tersebut selalu menjadi bagian dari proses review yang dilakukan Admin Global. Fungsi Handle Helpdesk REVISION memiliki relasi «extend» terhadap Set Status REVISI, artinya penetapan status REVISI juga dapat dipicu melalui jalur penanganan tiket helpdesk dari User Unit. Use case diagram aktor Admin Global dapat dilihat pada Gambar 3.x berikut.  
+
+Use case diagram ketiga menggambarkan interaksi IT Support dengan sistem yang mencakup fungsi Login, Monitor Semua Unit, 
+
+Handle Helpdesk TOKEN, dan Handle Helpdesk ISSUE. Fungsi Handle 
+
+Helpdesk TOKEN memiliki relasi «include» terhadap Generate Token Reset Password, yang berarti setiap kali IT Support menangani tiket TOKEN, pembangkitan token reset password selalu menjadi bagian dari proses penanganannya. Use case diagram aktor IT Support dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+ 
+
+  
+
+b. Activity Diagram 
+
+Activity diagram digunakan untuk menggambarkan alur kerja atau proses yang terjadi di dalam sistem secara lebih rinci dibandingkan use case diagram. Diagram ini menjelaskan urutan aktivitas yang dilakukan oleh setiap aktor beserta keputusan-keputusan yang terjadi di setiap titik alur. Pada sistem ini, terdapat enam activity diagram yang masing-masing merepresentasikan satu proses utama yang berjalan dalam sistem. Keenam diagram tersebut disusun secara berurutan untuk memberikan gambaran lengkap mengenai bagaimana sistem bekerja dari sisi fungsional.  
+
+Activity Diagram 1 — Login & Mekanisme Lock Akun  
+
+Proses autentikasi merupakan pintu masuk utama bagi seluruh pengguna sistem sebelum dapat mengakses fitur-fitur yang tersedia. Sistem dirancang dengan mekanisme keamanan berlapis di mana setiap percobaan login yang gagal akan dicatat dan diakumulasikan oleh sistem. Apabila pengguna gagal melakukan login sebanyak tiga kali secara berturut-turut, akun akan dikunci secara otomatis oleh sistem untuk mencegah akses yang tidak sah. Alur proses login beserta mekanisme penguncian akun ini dapat dilihat pada Gambar 3.x berikut.   
+
+ 
+
+Berdasarkan activity diagram pada Gambar 3.x, alur dimulai ketika pengguna memasukkan email dan kata sandi, kemudian sistem memeriksa apakah akun dalam kondisi terkunci. Jika terkunci, sistem langsung menampilkan pesan untuk menghubungi IT Support tanpa melanjutkan proses verifikasi. Jika tidak terkunci, sistem memvalidasi kredensial; apabila valid, JWT token dibangkitkan dan pengguna diarahkan ke dashboard, sedangkan apabila tidak valid, nilai loginAttempts bertambah satu. Apabila jumlah kegagalan telah mencapai tiga kali, sistem secara otomatis mengunci akun dan menampilkan pesan akun terkunci kepada pengguna.   
+
+Activity Diagram 2 — Reset Password via Token  
+
+Pengguna yang akunnya terkunci tidak dapat langsung memulihkan akses secara mandiri, melainkan harus melalui proses bantuan yang melibatkan IT Support. Proses ini dirancang untuk menjaga keamanan sistem sekaligus memastikan bahwa hanya pengguna yang sah yang dapat memulihkan akses akunnya. Mekanisme pemulihan menggunakan token satu kali pakai yang memiliki batas waktu kedaluwarsa selama satu jam.  
+
+Berdasarkan activity diagram pada Gambar 3.x, proses diawali dengan pengguna mengajukan helpdesk jenis TOKEN, lalu sistem mengirimkan notifikasi WhatsApp kepada IT Support untuk ditindaklanjuti. IT Support memverifikasi identitas pengguna dan membangkitkan token yang dikirimkan kembali kepada pengguna melalui WhatsApp. Pengguna kemudian membuka halaman reset password dan memasukkan token beserta kata sandi baru; sistem memvalidasi token tersebut dan apabila valid serta belum digunakan, sistem memperbarui kata sandi secara atomic sekaligus membuka kunci akun pengguna. Alur lengkap proses reset password melalui token ini dapat dilihat pada Gambar 3.x berikut.   
+
+ 
+
+ 
+
+Activity Diagram 3 — Input Laporan & Validasi Internal   
+
+Penginputan laporan harian merupakan fungsi inti yang dijalankan oleh User Unit setiap hari kerja sebagai bentuk pertanggungjawaban kinerja unit masing-masing. Sistem menerapkan batasan satu laporan per unit per hari untuk menjaga konsistensi dan integritas data pelaporan. Sebelum laporan dapat dikirimkan kepada Admin Global, laporan tersebut harus terlebih dahulu melewati proses validasi internal yang dilakukan oleh User Unit itu sendiri. Alur proses penginputan laporan dan validasi internal ini dapat dilihat pada Gambar 
+
+3.x berikut.   
+
+ 
+
+Berdasarkan activity diagram pada Gambar 3.x, sistem terlebih dahulu memeriksa apakah laporan untuk unit dan tanggal hari ini sudah ada; jika sudah, proses langsung berakhir dengan pesan informasi kepada pengguna. Apabila belum ada, pengguna mengisi data wajib dan secara opsional mengisi box detail, kemudian laporan disimpan dengan status 
+
+DRAFT. Sistem memeriksa kelengkapan data; jika belum lengkap, status diubah menjadi NEED_REVISION_INTERNAL dan pengguna diminta memperbaiki isian, sedangkan jika sudah valid, status diperbarui menjadi READY_TO_SUBMIT. Pada kondisi READY_TO_SUBMIT, pengguna dapat langsung melakukan submit sehingga status laporan berubah menjadi WAITING dan notifikasi dikirimkan kepada Admin Global.   
+
+Activity Diagram 4 — Admin Review Laporan (ACC / REVISI)  
+
+Setelah laporan berhasil di-submit oleh User Unit, proses selanjutnya berada di tangan Admin Global yang bertugas meninjau dan memberikan keputusan atas setiap laporan yang masuk. Admin Global dapat memberikan dua jenis keputusan, yaitu ACC apabila laporan sudah sesuai, atau REVISI apabila laporan perlu diperbaiki kembali oleh unit terkait. Setiap keputusan yang diambil akan dicatat dalam sistem melalui mekanisme audit log untuk keperluan keterlacakan.  
+
+Berdasarkan activity diagram pada Gambar 3.x, Admin Global membuka dashboard dan sistem menampilkan seluruh laporan berstatus WAITING untuk ditinjau. Admin Global membaca detail laporan lalu mengambil keputusan; apabila laporan sudah sesuai, Admin Global mengeklik ACC sehingga status laporan diperbarui dan notifikasi realtime dikirimkan kepada User Unit. Apabila laporan perlu diperbaiki, Admin Global mengisi catatan revisi dan mengeklik REVISI, sehingga sistem memperbarui status laporan dan mengirimkan notifikasi melalui WhatsApp sekaligus realtime kepada User Unit. Seluruh keputusan yang diambil, baik ACC maupun REVISI, dicatat secara otomatis ke dalam AuditLog oleh sistem. Alur proses review laporan oleh Admin Global ini dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+Activity Diagram 5 — Edit Laporan Setelah Submit (via Helpdesk REVISION)  
+
+Sistem memberlakukan aturan bahwa laporan yang telah di-submit tidak dapat diubah secara langsung oleh User Unit tanpa melalui mekanisme yang telah ditetapkan. Hal ini bertujuan untuk menjaga integritas dan akuntabilitas data laporan yang telah masuk ke dalam sistem. Apabila User Unit perlu melakukan perubahan terhadap laporan yang sudah berstatus WAITING atau ACC, maka harus mengajukan permintaan melalui sistem helpdesk jenis REVISION. Alur proses edit laporan setelah submit melalui helpdesk ini dapat dilihat pada Gambar 3.x berikut.  
+
+ Berdasarkan activity diagram pada Gambar 3.x, User Unit mengajukan helpdesk jenis REVISION dan sistem mengirimkan notifikasi WhatsApp kepada Admin Global untuk ditindaklanjuti. Admin Global mengevaluasi permintaan; apabila tidak disetujui, notifikasi penolakan dikirimkan kepada User Unit dan proses berakhir, sedangkan apabila disetujui, status laporan diubah menjadi REVISI dan User Unit menerima notifikasi realtime. User Unit kemudian melakukan perbaikan laporan hingga statusnya mencapai READY_TO_SUBMIT, lalu melakukan submit ulang sehingga status laporan kembali menjadi WAITING untuk ditinjau kembali oleh Admin Global.  
+
+Activity Diagram 6 — Sistem Helpdesk (TOKEN / ISSUE / REVISION)  
+
+Sistem helpdesk dirancang sebagai mekanisme terpusat untuk menangani berbagai kendala yang dialami pengguna selama menggunakan sistem, mulai dari masalah akses akun hingga permintaan perubahan data laporan. Setiap permintaan yang masuk diklasifikasikan ke dalam salah satu dari tiga jenis tiket dan secara otomatis diteruskan kepada pihak yang berwenang menanganinya. Dengan adanya sistem ini, pengguna tidak perlu melakukan komunikasi di luar sistem untuk melaporkan kendala yang dialami.  
+
+Berdasarkan activity diagram pada Gambar 3.x, pengguna mengajukan helpdesk dengan memilih jenis tiket dan mengisi deskripsi kendala, kemudian sistem menyimpan permintaan dan meneruskannya sesuai jenisnya. Tiket TOKEN diteruskan ke IT Support untuk proses verifikasi identitas dan pembangkitan token reset password yang dikirim melalui WhatsApp, sehingga pengguna dapat memulihkan akses akunnya. Tiket ISSUE diteruskan ke IT Support untuk investigasi teknis, dan setelah kendala diselesaikan, pengguna menerima notifikasi realtime bahwa masalahnya telah ditangani. Tiket REVISION diteruskan ke Admin Global yang kemudian mengubah status laporan terkait menjadi REVISI melalui dashboard, dan pengguna menerima notifikasi untuk segera melakukan perbaikan. Alur kerja lengkap sistem helpdesk untuk ketiga jenis tiket ini dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+ 
+
+c. Sequence Diagram 
+
+Sequence diagram digunakan untuk menggambarkan urutan pertukaran pesan antar komponen sistem dalam menjalankan suatu proses tertentu. Berbeda dengan activity diagram yang berfokus pada alur aktivitas, sequence diagram lebih menitikberatkan pada bagaimana setiap komponen — mulai dari frontend, backend, database, hingga layanan eksternal — saling berkomunikasi secara berurutan. Diagram ini sangat berguna untuk memvalidasi bahwa setiap proses yang dirancang sudah memiliki alur komunikasi yang logis dan tidak ada langkah yang terlewat. Pada sistem ini terdapat lima sequence diagram yang merepresentasikan proses-proses utama dalam sistem. 
+
+Sequence Diagram 1 — Login & Mekanisme Lock Akun  
+
+Proses login melibatkan komunikasi berurutan antara empat komponen utama, yaitu User, Frontend (React), Backend (Express), dan Database (MySQL). Setiap permintaan login yang masuk diproses secara bertahap mulai dari sisi klien hingga ke lapisan basis data sebelum respons dikembalikan. Alur komunikasi antar komponen dalam proses login dan mekanisme penguncian akun ini dapat dilihat pada Gambar 3.x berikut.  
+
+Berdasarkan sequence diagram pada Gambar 3.x, pengguna memasukkan email dan kata sandi pada frontend yang kemudian mengirimkan permintaan POST /api/auth/login ke backend. Backend mengambil data pengguna dari database dan memeriksa kondisi akun; apabila akun terkunci, backend langsung mengembalikan respons 403 dan frontend menampilkan pesan untuk menghubungi IT Support. Apabila kredensial salah, backend memperbarui nilai loginAttempts dan jika sudah mencapai tiga kali, status isLocked diubah menjadi true sehingga frontend menampilkan pesan akun terkunci. Apabila kredensial benar, backend mereset loginAttempts menjadi nol, membangkitkan JWT token, dan mengembalikan respons 200 sehingga frontend menyimpan token dan mengarahkan pengguna ke dashboard.  
+
+ 
+
+Sequence Diagram 2 — Reset Password via Token 
+
+Proses reset password melibatkan lima komponen yang saling berkomunikasi, yaitu User Unit, IT Support, Frontend, Backend, Database, dan layanan WhatsApp melalui Baileys. Kompleksitas proses ini mencerminkan pentingnya keamanan dalam pemulihan akses akun pengguna yang terkunci. Alur komunikasi antar komponen dalam proses reset password via token ini dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+Berdasarkan sequence diagram pada Gambar 3.x, pengguna mengajukan helpdesk jenis TOKEN melalui frontend yang mengirimkan POST /api/helpdesk ke backend, kemudian backend menyimpan SupportRequest ke database dan mengirimkan notifikasi WhatsApp kepada IT Support. IT Support membuka tiket lalu meminta sistem membangkitkan token melalui POST /api/token/generate, di mana backend menyimpan ResetToken ke database dan mengirimkan token tersebut ke nomor WhatsApp pengguna. Pengguna memasukkan token dan kata sandi baru melalui POST /api/auth/reset-password; apabila token tidak valid atau sudah kedaluwarsa, backend mengembalikan respons 400 dan frontend menampilkan pesan kesalahan. Apabila token valid, backend memperbarui kata sandi secara atomic, menandai token sebagai sudah dipakai, membuka kunci akun, dan mengembalikan respons 200 sehingga pengguna diarahkan kembali ke halaman login.   
+
+Sequence Diagram 3 — Submit Laporan  
+
+Proses submit laporan melibatkan komunikasi antara User Unit, Frontend, Backend, Database, dan Socket.io sebagai layanan notifikasi realtime. Proses ini mencakup tiga tahapan utama, yaitu pengecekan laporan harian, penginputan data, validasi internal, hingga pengiriman laporan. Alur komunikasi antar komponen dalam proses submit laporan ini dapat dilihat pada Gambar 3.x berikut.  
+
+Berdasarkan sequence diagram pada Gambar 3.x, frontend terlebih dahulu mengirimkan GET /api/report/today ke backend untuk memeriksa keberadaan laporan hari ini; apabila sudah ada, backend mengembalikan data laporan existing dan frontend menampilkan pesan bahwa laporan hari ini telah dibuat. Apabila belum ada, frontend menampilkan formulir kosong dan pengguna mengisi data laporan, kemudian mengirimkan POST /api/report sehingga backend menyimpan laporan beserta detail unitnya ke database dengan status DRAFT. Pengguna mengeklik tombol validasi internal yang mengirimkan PATCH 
+
+/api/report/:id/validate-internal dan backend memperbarui status menjadi READY_TO_SUBMIT. Pengguna kemudian mengeklik submit melalui PATCH /api/report/:id/submit dan backend memperbarui status menjadi WAITING sekaligus mengirimkan event new-report melalui Socket.io sehingga Admin Global menerima notifikasi realtime. 
+
+ 
+
+ 
+
+Sequence Diagram 4 — Admin Review Laporan (ACC / REVISI)  
+
+Proses review laporan oleh Admin Global melibatkan komunikasi antara Admin Global, User Unit, Frontend, Backend, Database, Socket.io, dan layanan WhatsApp melalui Baileys. Setiap keputusan yang diambil Admin Global menghasilkan respons yang berbeda baik di sisi sistem maupun di sisi penerima notifikasi. Alur komunikasi antar komponen dalam proses review laporan ini dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+Berdasarkan sequence diagram pada Gambar 3.x, Admin Global membuka daftar laporan melalui GET /api/report?status=WAITING dan backend mengambil seluruh laporan berstatus WAITING dari database untuk ditampilkan. Admin Global membuka detail laporan melalui GET /api/report/:id kemudian mengambil keputusan; apabila ACC, frontend mengirimkan PATCH /api/report/:id/review dengan status ACC, lalu backend memperbarui status laporan, mencatat ke AuditLog, dan mengirimkan event melalui Socket.io sehingga User Unit menerima notifikasi realtime. Apabila REVISI, Admin Global mengisi catatan revisi dan backend memperbarui status laporan menjadi REVISI, mencatat ke AuditLog, mengirimkan event Socket.io, sekaligus mengirimkan notifikasi WhatsApp kepada User Unit. User Unit pun menerima pemberitahuan melalui dua kanal sekaligus, yaitu notifikasi realtime di sistem dan pesan WhatsApp.  
+
+Sequence Diagram 5 — Helpdesk REVISION   
+
+Proses helpdesk jenis REVISION melibatkan komunikasi antara User Unit, Admin Global, Frontend, Backend, Database, Socket.io, dan layanan WhatsApp. Proses ini dirancang untuk memastikan bahwa perubahan terhadap laporan yang sudah di-submit tetap terkontrol dan melalui persetujuan pihak yang berwenang. Alur komunikasi antar komponen dalam proses helpdesk REVISION ini dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+Berdasarkan sequence diagram pada Gambar 3.x, User Unit mengajukan helpdesk REVISION melalui POST /api/helpdesk dan backend menyimpan SupportRequest ke database sekaligus mengirimkan notifikasi WhatsApp kepada Admin Global. Admin Global membuka detail tiket melalui GET /api/helpdesk/:id dan apabila menyetujui revisi, mengirimkan PATCH /api/report/:id/set-revisi sehingga backend memperbarui status laporan menjadi REVISI, mengubah status SupportRequest menjadi RESOLVED, dan mengirimkan event Socket.io agar User Unit menerima notifikasi realtime. User Unit kemudian mengedit laporan melalui PUT /api/report/:id dan melakukan validasi internal serta submit ulang melalui PATCH /api/report/:id/submit, sehingga backend memperbarui status laporan kembali menjadi WAITING dan mengirimkan event Socket.io kepada Admin Global bahwa laporan telah di-submit ulang.  
+
+d. Entity Relationship Diagram (ERD) 
+
+Entity Relationship Diagram (ERD) merupakan diagram yang digunakan untuk menggambarkan struktur basis data sistem secara visual, mencakup entitas-entitas yang terlibat beserta hubungan dan atribut masing-masing. Diagram ini menjadi acuan utama dalam proses perancangan dan pembangunan skema basis data agar setiap relasi antar tabel terdefinisi dengan jelas. Dengan memahami ERD, pengembang dapat memastikan bahwa struktur penyimpanan data sudah sesuai dengan kebutuhan fungsional sistem yang telah dirancang.  
+
+Sistem ini memiliki sebelas entitas utama yang saling berelasi satu sama lain. Entitas Pengguna merupakan entitas pusat yang berelasi dengan hampir seluruh entitas lain dalam sistem, memiliki atribut peran untuk membedakan tiga jenis pengguna dalam sistem, serta atribut percobaan_login dan terkunci untuk mendukung mekanisme keamanan akun. Entitas Unit menyimpan data unit kerja dengan atribut jenis_unit yang membedakan empat jenis unit, yaitu KNA, Penumpang, Barang, dan Keuangan, di mana satu Pengguna berelasi dengan satu Unit melalui hubungan memiliki. Entitas Token Reset berelasi dengan Pengguna melalui hubungan memiliki dan menyimpan atribut sudah_dipakai serta kedaluwarsa_pada untuk memastikan token hanya dapat digunakan satu kali dalam batas waktu yang ditentukan. ERD sistem monitoring dan pelaporan kinerja unit PT KAI Divre I Sumatera Utara ini dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+Berdasarkan ERD pada Gambar 3.x, entitas Laporan merupakan inti dari sistem pelaporan yang berelasi dengan Pengguna melalui hubungan membuat, dengan Unit melalui hubungan memiliki, serta memiliki atribut status_internal dan status untuk merepresentasikan dua tingkat validasi yang berlaku dalam sistem. Laporan berelasi dengan empat entitas detail sesuai jenis unitnya, yaitu Laporan KNA, Laporan Penumpang, Laporan Barang, dan Laporan Keuangan, masing-masing melalui hubungan relasi detail KNA, detail penumpang, detail barang, dan detail keuangan. Entitas Laporan Barang secara khusus berelasi dengan entitas Komoditi Barang melalui hubungan digunakan pada, di mana satu komoditi dapat digunakan pada banyak laporan barang sehingga mendukung pengelolaan komoditi yang bersifat dinamis. Entitas Target berelasi dengan Pengguna melalui hubungan menetapkan dan menyimpan data target kinerja per tahun dan per kategori sebagai acuan perbandingan terhadap data realisasi pada laporan. 
+
+Entitas Permintaan Bantuan berelasi dengan Pengguna melalui dua hubungan berbeda, yaitu mengajukan untuk pengguna yang mengajukan tiket dan menangani untuk pengguna yang menanganinya, serta memiliki atribut jenis yang membedakan tiga jenis tiket yaitu TOKEN, ISSUE, dan REVISION. Entitas ini juga berelasi dengan Laporan melalui hubungan terkait dengan kardinalitas 0..1 yang menunjukkan bahwa tidak semua permintaan bantuan selalu berkaitan dengan laporan tertentu. Entitas Log Audit berelasi dengan Pengguna melalui hubungan mencatat dan menyimpan seluruh rekam jejak aktivitas penting dalam sistem secara otomatis, mencakup atribut aksi dan detail untuk keperluan penelusuran riwayat. Keseluruhan sebelas entitas ini membentuk struktur basis data yang saling terhubung dan mendukung seluruh alur fungsional sistem secara menyeluruh. 
+
+e. Desain Low Fidelity  
+
+Desain low fidelity merupakan representasi awal antarmuka sistem dalam bentuk rancangan sederhana yang berfokus pada tata letak dan penempatan elemen utama tanpa memperhatikan detail visual seperti warna atau aset grafis final. Rancangan ini disusun sebelum proses implementasi dimulai sebagai panduan bagi pengembang dalam membangun tampilan antarmuka yang sesuai dengan kebutuhan pengguna. Pada penelitian ini, desain low fidelity mencakup seluruh halaman utama yang digunakan oleh ketiga aktor sistem dan disusun menggunakan perangkat Figma.  
+
+Halaman Login Sistem  
+
+Halaman login merupakan halaman pertama yang dihadapi seluruh pengguna saat mengakses sistem dan berfungsi sebagai gerbang autentikasi sebelum pengguna dapat masuk ke fitur-fitur yang tersedia. Halaman ini memuat formulir login dengan kolom email dan kata sandi, serta menampilkan umpan balik berupa pesan kesalahan dengan informasi sisa percobaan apabila kredensial tidak sesuai, dan pesan akun terkunci beserta tombol Ajukan Helpdesk apabila akun telah dikunci. 
+
+Rancangan halaman login sistem dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+Halaman Reset Password  
+
+Halaman reset password merupakan halaman yang diakses pengguna setelah menerima token pemulihan yang dikirimkan melalui 
+
+WhatsApp oleh IT Support. Halaman ini memuat kolom token, kolom kata sandi baru beserta indikator kekuatan kata sandi, dan kolom konfirmasi kata sandi, serta menampilkan pesan kesalahan apabila token tidak valid atau kedaluwarsa dan pesan keberhasilan apabila kata sandi berhasil diubah. Rancangan halaman reset password dapat dilihat pada Gambar 3.x berikut.   
+
+ 
+
+Halaman Dashboard Utama Admin Global  
+
+Halaman dashboard utama merupakan halaman pertama yang ditampilkan kepada Admin Global setelah masuk dan berfungsi sebagai pusat pemantauan kinerja seluruh unit secara menyeluruh. Halaman ini memuat kartu ringkasan kinerja per unit, grafik tren mingguan dan tahunan, filter data, serta tabel status pelaporan unit terakhir beserta tombol aksi untuk tindak lanjut langsung. Rancangan halaman dashboard utama Admin Global dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+Halaman History Laporan (Admin Global)  
+
+Halaman history laporan menyediakan rekam jejak seluruh laporan yang pernah diproses dalam sistem dan dapat diakses oleh Admin Global untuk keperluan penelusuran dan evaluasi data historis. Halaman ini memuat filter berdasarkan unit, bulan, tahun, dan status, serta tabel yang menampilkan seluruh laporan lengkap dengan informasi tanggal, unit, jenis, pengaju, status, reviewer, dan tombol aksi. Rancangan halaman history laporan Admin Global dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+Halaman Review Laporan  
+
+Halaman review laporan merupakan halaman yang digunakan Admin Global untuk meninjau isi laporan yang telah di-submit dan memberikan keputusan berupa ACC atau REVISI. Halaman ini menampilkan detail isi laporan dalam mode read-only di sisi kiri, serta panel tindakan review di sisi kanan yang memuat tombol ACC, kolom catatan revisi, dan tombol REVISI disertai jendela konfirmasi sebelum keputusan disimpan. Rancangan halaman review laporan dapat dilihat pada Gambar 3.x berikut.   
+
+ 
+
+Halaman Analitik & Grafik  
+
+Halaman analitik merupakan halaman yang menyajikan visualisasi data kinerja suatu unit secara lebih mendalam dan dapat diakses Admin Global melalui tombol Lihat Analitik pada dashboard. Halaman ini menampilkan grafik batang tren volume mingguan dan bulanan, serta bagian Target vs Realisasi yang memperlihatkan persentase pencapaian unit terhadap target yang telah ditetapkan. Rancangan halaman analitik dan grafik dapat dilihat pada Gambar 3.x berikut.   
+
+ 
+
+Halaman Manajemen Unit  
+
+Halaman manajemen unit merupakan halaman yang digunakan Admin Global untuk mengelola data seluruh unit kerja yang terdaftar dalam sistem, mencakup penambahan dan perubahan data unit. Halaman ini memuat tabel daftar unit beserta statusnya dan modal Tambah/Edit Unit yang berisi kolom nama unit, penanggung jawab, jenis laporan, dan status. Rancangan halaman manajemen unit dapat dilihat pada Gambar 
+
+3.x berikut.  
+
+ 
+
+Halaman Manajemen User  
+
+Halaman manajemen user merupakan halaman yang digunakan Admin Global untuk mengelola seluruh akun pengguna yang terdaftar, termasuk pembuatan akun baru, pengeditan data, dan pemantauan status akun. Halaman ini memuat tabel daftar pengguna beserta kondisi akunnya dan modal Tambah/Edit User yang berisi kolom nama, email, nomor WhatsApp, peran, unit, serta kata sandi yang dibangkitkan otomatis oleh sistem. Rancangan halaman manajemen user dapat dilihat pada Gambar
+
+3.x berikut.   
+
+ 
+
+Halaman Manajemen Notifikasi  
+
+Halaman manajemen notifikasi merupakan halaman yang digunakan Admin Global untuk memantau dan mengelola seluruh aktivitas pengiriman notifikasi WhatsApp yang berjalan di dalam sistem. Halaman ini memuat kartu ringkasan status pengiriman notifikasi, tabel template notifikasi WhatsApp yang aktif, serta tabel log pengiriman terbaru yang mencatat riwayat notifikasi secara kronologis. Rancangan halaman manajemen notifikasi dapat dilihat pada Gambar 3.x berikut.    
+
+ 
+
+Halaman Settings  
+
+Halaman settings merupakan halaman yang menyediakan pengaturan preferensi tampilan sistem dan dapat diakses oleh Admin Global, User Unit, dan IT melalui menu navigasi. Halaman ini memuat pengaturan bahasa antarmuka dan pilihan mode tampilan antara Terang dan Gelap, dilengkapi tombol Simpan dan Reset ke Default. Rancangan halaman settings dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+Halaman Dashboard User Unit  
+
+Halaman dashboard User Unit merupakan halaman utama yang ditampilkan kepada User Unit setelah masuk dan dirancang untuk memberikan gambaran cepat mengenai status pelaporan unitnya. Halaman ini memuat peringatan otomatis apabila laporan belum di-submit, kartu ringkasan status laporan, grafik tren mingguan, serta tabel history laporan terbaru. Rancangan halaman dashboard User Unit dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+Halaman Input Laporan Harian — Unit Angkutan Barang  
+
+Halaman input laporan harian unit Angkutan Barang merupakan halaman yang digunakan User Unit untuk menginput data operasional harian berupa data per komoditi, data kumulatif, dan perbandingan target serta realisasi. Halaman ini dilengkapi indikator status laporan di bagian atas, kolom box detail yang bersifat opsional, serta tiga tombol aksi yaitu Simpan Draft, Validasi Internal, dan Submit Laporan. Rancangan halaman input laporan harian unit Angkutan Barang dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+Halaman Input Laporan Harian — Unit KNA  
+
+Halaman input laporan harian unit KNA merupakan halaman yang digunakan User Unit KNA untuk menginput data kontrak harian yang terbagi ke dalam dua sub-bagian, yaitu data ROW dan Non-ROW, beserta perbandingan target RKAD dan realisasi. Halaman ini menggunakan label RKAD sebagai acuan target yang membedakannya dari unit lain, dilengkapi kolom box detail opsional dan tiga tombol aksi di bagian bawah. Rancangan halaman input laporan harian unit KNA dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+Halaman Input Laporan Harian — Unit Angkutan Penumpang  
+
+Halaman input laporan harian unit Angkutan Penumpang merupakan halaman yang digunakan User Unit untuk menginput data jumlah penumpang dan pendapatan per kereta api yang beroperasi pada hari tersebut. Halaman ini memuat tabel data harian per KA, bagian kumulatif tahun berjalan, perbandingan target dan realisasi penumpang, serta kolom box detail opsional dan tiga tombol aksi. Rancangan halaman input laporan harian unit Angkutan Penumpang dapat dilihat pada Gambar 3.x berikut. 
+
+   
+
+ 
+
+Halaman Input Laporan Harian — Unit Keuangan  
+
+Halaman input laporan harian unit Keuangan merupakan halaman yang digunakan User Unit untuk menginput data pendapatan dan pengeluaran harian, di mana nilai laba/rugi dihitung dan ditampilkan secara otomatis oleh sistem. Halaman ini memuat bagian data harian, kumulatif, target vs realisasi, serta kolom box detail opsional, dengan tiga tombol aksi Simpan Draft, Validasi Internal, dan Submit Laporan di bagian bawah. Rancangan halaman input laporan harian unit Keuangan dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+Halaman History Laporan User Unit  
+
+Halaman history laporan User Unit merupakan halaman yang menyediakan rekam jejak seluruh laporan yang pernah dikirimkan oleh unit yang bersangkutan beserta status terkininya. Halaman ini memuat kartu ringkasan jumlah laporan per status, filter berdasarkan bulan, tahun, dan status, serta tabel laporan yang menampilkan tanggal, jenis, status, catatan revisi, dan tombol aksi. Rancangan halaman history laporan User Unit dapat dilihat pada Gambar 3.x berikut.   
+
+ 
+
+Halaman Helpdesk & Bantuan 
+
+Halaman helpdesk & bantuan merupakan halaman yang digunakan User Unit dan Admin Global untuk mengajukan tiket permintaan bantuan kepada pihak yang berwenang tanpa perlu berkomunikasi di luar sistem. Halaman ini menyediakan tiga pilihan jenis tiket yaitu TOKEN, ISSUE, dan REVISION, dilengkapi kolom deskripsi wajib dan konfirmasi pengiriman setelah tiket berhasil dikirimkan. 
+
+Rancangan halaman helpdesk & bantuan User Unit dapat dilihat pada Gambar 3.x berikut.   
+
+ 
+
+Halaman Dashboard IT Support  
+
+Halaman dashboard IT Support merupakan halaman utama yang ditampilkan kepada IT Support setelah masuk dan dirancang untuk memberikan gambaran cepat mengenai kondisi tiket dan kesehatan sistem. Halaman ini memuat kartu ringkasan jumlah tiket TOKEN dan ISSUE yang pending, tabel tiket terbaru, serta panel Status Sistem yang menampilkan kondisi Backend, Database, dan WhatsApp Gateway secara realtime. Rancangan halaman dashboard IT Support dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+Halaman Manajemen Helpdesk — Daftar Tiket (IT Support)  
+
+Halaman manajemen helpdesk merupakan halaman kerja utama IT Support dalam mengelola seluruh tiket yang masuk, dengan sistem tab yang memisahkan tiket TOKEN, ISSUE, dan Semua. Halaman ini menampilkan tabel daftar tiket beserta status dan tombol Handle pada setiap baris untuk membuka panel penanganan tiket secara langsung. Rancangan halaman manajemen helpdesk daftar tiket IT Support dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+Halaman Manajemen Helpdesk — Panel Handle Tiket TOKEN  Halaman ini menampilkan panel Handle yang muncul setelah IT Support menekan tombol Handle pada tiket TOKEN, memuat informasi lengkap pengaju tiket dan tombol Generate Token sebagai tindakan utama yang perlu dilakukan. Panel ini memungkinkan IT Support memproses tiket tanpa berpindah halaman, dengan panduan langkah yang ditampilkan secara jelas di dalam panel. Rancangan panel handle tiket TOKEN sebelum token dibangkitkan dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+Halaman Manajemen Helpdesk — Token Dibangkitkan &
+
+Dikirim  
+
+Halaman ini menampilkan kondisi panel Handle setelah IT Support berhasil membangkitkan token, di mana token ditampilkan lengkap dengan masa berlakunya dan tombol Kirim via WhatsApp untuk mengirimkan token langsung ke pengguna. Setelah pengiriman berhasil, sistem menampilkan pesan konfirmasi dan IT Support dapat menutup tiket dengan menekan tombol Tandai Selesai & Tutup. Rancangan panel handle tiket TOKEN setelah token dibangkitkan dan dikirim dapat dilihat pada Gambar 3.x berikut.  
+
+ 
+
+3.4.3 Implementasi  
+
+Pada tahap ini, peneliti mengimplementasikan rancangan sistem yang telah disetujui sebelumnya ke dalam bentuk program aplikasi yang dapat dijalankan. Peneliti mentransformasikan desain antarmuka, alur logika, serta struktur basis data ke dalam kode pemrograman sesuai dengan spesifikasi teknis yang telah ditetapkan pada tahap desain. Proses implementasi dilakukan secara bertahap dan modular, di mana setiap modul dikembangkan dan diuji secara mandiri sebelum diintegrasikan dengan modul lainnya. Pendekatan ini dipilih untuk mempermudah proses penelusuran kesalahan dan memastikan setiap bagian sistem berfungsi sesuai dengan yang diharapkan. 
+
+Lingkungan pengembangan dibangun menggunakan sejumlah perangkat lunak yang telah ditetapkan pada Subbab 3.3.1. Sisi server dikembangkan menggunakan Node.js dengan framework Express.js untuk membangun dan mengelola Application Programming Interface (API) sistem, sementara pengelolaan basis data MySQL ditangani melalui Prisma ORM. Sisi frontend dibangun menggunakan React.js, komunikasi real-time ditangani oleh Socket.io, dan integrasi WhatsApp menggunakan Baileys. Urutan implementasi mengikuti alur modular yang dimulai dari pengaturan skema basis data, modul autentikasi dan token, manajemen pengguna dan unit, laporan per jenis unit, validasi berlapis, helpdesk, notifikasi, dasbor pemantauan, hingga ekspor laporan dalam format PDF dan Excel. 
+
+3.4.4 Pengujian 
+
+Tahap pengujian dilakukan untuk memastikan bahwa sistem yang telah dibangun berjalan sesuai dengan kebutuhan yang telah ditetapkan dan dapat diterima oleh pengguna akhir. Pengujian pada penelitian ini menggunakan dua metode, yaitu black box testing untuk memverifikasi fungsionalitas sistem dan User Acceptance Testing (UAT) untuk mengukur tingkat keberterimaan sistem oleh pengguna. Kedua metode ini dipilih karena mampu mencakup aspek fungsionalitas teknis sekaligus keberterimaan pengguna secara bersamaan. Hasil pengujian menjadi dasar evaluasi apakah sistem layak untuk dirilis dan digunakan dalam lingkungan operasional nyata.  
+
+Blackbox Testing  
+
+Black box testing merupakan metode pengujian perangkat lunak yang berfokus pada verifikasi keluaran sistem terhadap masukan yang diberikan, tanpa memperhatikan struktur kode internal yang menjalankannya . Metode ini digunakan untuk memastikan bahwa setiap fungsi yang telah diimplementasikan menghasilkan keluaran yang sesuai dengan kebutuhan fungsional yang telah ditetapkan sebelumnya. Pengujian dilakukan dengan mensimulasikan berbagai skenario penggunaan, baik skenario yang sesuai (positif) maupun skenario yang tidak sesuai (negatif), untuk memastikan sistem mampu menangani kedua kondisi tersebut dengan tepat. Detail skenario pengujian black box dapat dilihat pada Tabel 3.x di bawah ini, yang disusun berdasarkan kebutuhan fungsional yang telah dijabarkan dalam Subbab 3.4.1.  
+
+ 
+
+Kode Pengujia n 
+
+Skenario 
+
+Deskripsi 
+
+Pengujian 
+
+Hasil yang 
+
+Diharapkan 
+
+Aktor 
+
+F01-P1 
+
+Login dengan kredensial yang valid 
+
+Login dengan username dan password yang benar 
+
+Berhasil masuk dan menampilkan dashboard yang sesuai 
+
+User 
+
+Unit, 
+
+Admin 
+
+Global, 
+
+IT 
+
+Support 
+
+F01-N1 
+
+Login dengan username 
+
+Username 
+
+tidak 
+
+tersimpan di database 
+
+Pesan Error 
+
+akses ditolak 
+
+User 
+
+Unit, 
+
+Admin 
+
+Global, 
+
+tidak terdaftar 
+
+IT 
+
+Support 
+
+F01-N2 
+
+Login dengan password salah 
+
+Username benar, password salah 
+
+Pesan Error 
+
+akses ditolak 
+
+User 
+
+Unit, 
+
+Admin 
+
+Global, 
+
+IT 
+
+Support 
+
+F01-N3 
+
+Akun 
+
+terkunci ketika gagal login 
+
+Salah 
+
+Password sebanyak 3 kali ketika mencoba login ke sistem 
+
+Akun akan 
+
+dikunci 
+
+User 
+
+Unit, 
+
+Admin 
+
+Global, 
+
+IT 
+
+Support 
+
+F02-P1 
+
+Input laporan harian berhasil 
+
+User Unit 
+
+mengisi seluruh data wajib laporan harian sesuai format unitnya 
+
+Laporan tersimpan ke dalam basis data dengan status DRAFT 
+
+User Unit 
+
+F02-P2 
+
+Input laporan dengan box detail 
+
+User Unit mengisi data wajib dan turut mengisi kolom box 
+
+Laporan tersimpan beserta data box detail dengan status DRAFT 
+
+User Unit 
+
+opsional diisi 
+
+detail 
+
+tambahan 
+
+F02-N1 
+
+Input laporan dengan data wajib tidak lengkap 
+
+User Unit 
+
+mencoba menyimpan laporan tanpa mengisi salah satu atau lebih kolom wajib 
+
+Sistem menampilkan pesan kesalahan dan laporan 
+
+tidak tersimpan 
+
+User Unit 
+
+F02-N2 
+
+Input laporan kedua dalam satu hari 
+
+User Unit 
+
+mencoba membuat laporan baru pada hari yang sama saat laporan sudah tersedia 
+
+Sistem menampilkan pesan bahwa laporan hari ini telah dibuat dan menghentikan proses 
+
+User Unit 
+
+F03-P1 
+
+Validasi internal berhasil 
+
+User Unit 
+
+melakukan validasi pada laporan yang telah terisi lengkap dan benar 
+
+Status laporan berubah dari DRAFT menjadi 
+
+READY_TO_S
+
+UBMIT 
+
+User Unit 
+
+F03-N1 
+
+Validasi internal pada laporan tidak lengkap 
+
+User Unit 
+
+mencoba melakukan validasi pada laporan yang masih memiliki kekurangan data 
+
+Status laporan berubah menjadi 
+
+NEED_REVISI ON_INTERNAL dan sistem 
+
+meminta perbaikan 
+
+User Unit 
+
+F03-N2 
+
+Validasi internal pada laporan yang bukan milik unit sendiri 
+
+User Unit 
+
+mencoba mengakses dan memvalidasi laporan milik unit lain 
+
+Sistem menolak akses dan 
+
+menampilkan pesan bahwa laporan tidak dapat diakses 
+
+User Unit 
+
+F04-P1 
+
+Submit laporan berhasil 
+
+User Unit 
+
+menekan tombol submit pada laporan yang berstatus 
+
+READY_TO_S
+
+UBMIT 
+
+Status laporan berubah menjadi 
+
+WAITING dan notifikasi realtime dikirimkan ke Admin Global 
+
+User Unit 
+
+F04-N1 
+
+Submit laporan dengan status bukan 
+
+READY_T
+
+O_SUBMI
+
+T 
+
+User Unit 
+
+mencoba menekan tombol submit pada laporan yang masih berstatus 
+
+DRAFT 
+
+Sistem menolak proses submit dan menampilkan pesan bahwa laporan belum siap dikirim 
+
+User Unit 
+
+F04-N2 
+
+Submit laporan yang telah berstatus 
+
+WAITING 
+
+User Unit 
+
+mencoba kembali menekan submit pada laporan yang sudah terkirim 
+
+Sistem menolak aksi tersebut karena laporan sudah dalam 
+
+antrean peninjauan 
+
+Admin Global 
+
+User Unit 
+
+F05-P1 
+
+Validasi eksternal 
+
+— ACC 
+
+laporan 
+
+Admin Global menekan tombol ACC pada laporan yang berstatus 
+
+WAITING 
+
+Status laporan berubah 
+
+menjadi ACC dan notifikasi realtime dikirimkan ke 
+
+User Unit 
+
+Admin 
+
+Global 
+
+F05-P2 
+
+Validasi eksternal 
+
+— 
+
+Admin Global mengisi catatan revisi 
+
+Status laporan berubah menjadi 
+
+Admin 
+
+Global 
+
+REVISI laporan 
+
+dan menekan tombol 
+
+REVISI pada laporan 
+
+WAITING 
+
+REVISI, notifikasi 
+
+realtime dan WhatsApp dikirim ke User 
+
+Unit 
+
+F05-N1 
+
+Validasi eksternal pada laporan berstatus selain 
+
+WAITING 
+
+Admin Global mencoba melakukan 
+
+ACC atau 
+
+REVISI pada laporan yang tidak berstatus 
+
+WAITING 
+
+Sistem menolak aksi tersebut karena laporan tidak dalam kondisi siap 
+
+untuk ditinjau 
+
+Admin 
+
+Global 
+
+F06-P1 
+
+Dashboar d 
+
+menampil kan data 
+
+seluruh unit 
+
+Admin Global membuka halaman dashboard pemantauan 
+
+Dashboard menampilkan data kinerja dan status laporan semua unit 
+
+secara real-time 
+
+Admin 
+
+Global 
+
+F06-P2 
+
+Dashboar d 
+
+menampil kan data 
+
+User Unit membuka halaman dashboard 
+
+Dashboard menampilkan status laporan dan data kinerja unit milik 
+
+User Unit 
+
+unit sendiri 
+
+pengguna yang sedang login 
+
+F06-N1 
+
+User Unit mengakse
+
+s data unit lain melalui dashboard 
+
+User Unit 
+
+mencoba mengakses 
+
+data atau laporan unit yang berbeda dari unitnya 
+
+Sistem menolak akses dan hanya menampilkan data milik unit pengguna yang bersangkutan 
+
+User Unit 
+
+F07-P1 
+
+Notifikasi realtime laporan di-REVISI 
+
+Admin Global menetapkan status REVISI pada laporan 
+
+User Unit 
+
+menerima 
+
+notifikasi 
+
+realtime di dalam sistem 
+
+secara langsung 
+
+User Unit 
+
+F07-P2 
+
+Notifikasi WhatsApp laporan di-REVISI 
+
+Admin Global menetapkan status REVISI pada laporan 
+
+Pesan notifikasi terkirim ke nomor 
+
+WhatsApp User Unit terkait 
+
+melalui Baileys 
+
+User Unit 
+
+F07-P3 
+
+Notifikasi WhatsApp helpdesk 
+
+User Unit 
+
+mengajukan tiket helpdesk 
+
+Admin Global menerima 
+
+notifikasi 
+
+WhatsApp 
+
+Admin 
+
+Global 
+
+REVISIO
+
+N masuk 
+
+jenis 
+
+REVISION 
+
+bahwa terdapat permintaan revisi laporan yang masuk 
+
+F08-P1 
+
+Pengajuan helpdesk 
+
+TOKEN 
+
+berhasil 
+
+User Unit 
+
+mengajukan tiket helpdesk jenis TOKEN dengan mengisi deskripsi kendala 
+
+Tiket tersimpan dan notifikasi WhatsApp dikirimkan ke IT Support 
+
+untuk ditindaklanjuti 
+
+User Unit 
+
+F08-P2 
+
+Pengajuan helpdesk ISSUE 
+
+berhasil 
+
+User Unit 
+
+mengajukan tiket helpdesk jenis ISSUE dengan mengisi deskripsi kendala 
+
+Tiket tersimpan dan notifikasi WhatsApp dikirimkan ke IT Support 
+
+untuk ditindaklanjuti 
+
+User Unit 
+
+F08-P3 
+
+Pengajuan helpdesk 
+
+REVISIO
+
+N berhasil 
+
+User Unit 
+
+mengajukan tiket helpdesk jenis 
+
+REVISION 
+
+Tiket tersimpan dan notifikasi WhatsApp dikirimkan ke Admin Global 
+
+User Unit 
+
+terkait laporan yang ingin 
+
+diubah 
+
+untuk ditindaklanjuti 
+
+F08-N1 
+
+Pengajuan helpdesk tanpa deskripsi 
+
+User Unit 
+
+mencoba mengirimkan tiket helpdesk dengan kolom deskripsi yang masih kosong 
+
+Sistem menampilkan pesan kesalahan dan tiket tidak tersimpan 
+
+User Unit 
+
+F09-P1 
+
+Admin membuat akun pengguna baru 
+
+Admin Global mengisi formulir pembuatan akun dengan data yang lengkap dan 
+
+valid 
+
+Akun pengguna baru berhasil tersimpan dan dapat digunakan untuk login ke dalam sistem 
+
+Admin 
+
+Global 
+
+F09-P2 
+
+Admin mengedit akun pengguna 
+
+Admin Global mengubah data pada 
+
+akun pengguna yang sudah 
+
+ada 
+
+Perubahan data berhasil 
+
+tersimpan dan data lama 
+
+digantikan 
+
+dengan data 
+
+yang baru 
+
+Admin 
+
+Global 
+
+F09-P3 
+
+Admin menonakti fkan akun pengguna 
+
+Admin Global menonaktifka n akun User Unit yang 
+
+tidak lagi aktif 
+
+Akun pengguna berubah menjadi tidak aktif dan tidak dapat digunakan untuk login 
+
+Admin 
+
+Global 
+
+F09-P4 
+
+Admin mengelola data unit 
+
+Admin Global menambahkan 
+
+atau 
+
+mengubah 
+
+data unit kerja 
+
+Perubahan data unit berhasil tersimpan di dalam basis 
+
+data 
+
+Admin 
+
+Global 
+
+F09-N1 
+
+Admin membuat akun dengan email yang sudah terdaftar 
+
+Admin Global mencoba membuat akun baru menggunakan email yang 
+
+telah digunakan akun lain 
+
+Sistem menampilkan pesan kesalahan 
+
+dan proses 
+
+pembuatan akun dihentikan 
+
+Admin 
+
+Global 
+
+F10-P1 
+
+IT Support membang
+
+kitkan 
+
+IT Support memilih pengguna yang terkunci 
+
+Token berhasil dibangkitkan, 
+
+disimpan ke basis data, dan 
+
+IT 
+
+Support 
+
+token reset password 
+
+dan meminta 
+
+sistem membangkitk an token 
+
+dikirimkan ke WhatsApp pengguna 
+
+F10-P2 
+
+Pengguna berhasil reset password mengguna kan token valid 
+
+Pengguna membuka halaman reset password dan memasukkan token yang benar beserta kata sandi 
+
+baru 
+
+Kata sandi 
+
+diperbarui secara atomic, token dinonaktifkan, akun terbuka, dan pengguna diarahkan ke halaman login 
+
+User Unit 
+
+F10-N1 
+
+Reset password dengan token yang sudah digunakan 
+
+Pengguna mencoba menggunakan token yang 
+
+telah terpakai sebelumnya 
+
+Sistem menolak permintaan dan menampilkan pesan bahwa token sudah 
+
+tidak valid 
+
+User Unit 
+
+F10-N2 
+
+Reset password dengan token yang sudah 
+
+Pengguna mencoba menggunakan token setelah melewati 
+
+Sistem menolak permintaan dan menampilkan pesan bahwa token telah 
+
+kedaluwarsa 
+
+User Unit 
+
+kedaluwar
+
+sa 
+
+batas waktu 
+
+satu jam 
+
+F10-N3 
+
+Reset password dengan token yang salah 
+
+Pengguna memasukkan rangkaian karakter token yang tidak sesuai dengan yang dikirimkan 
+
+Sistem permintaan menampilkan pesan token valid 
+
+menolak  dan 
+
+ 
+
+bahwa tidak 
+
+User Unit 
+
+F11-P1 
+
+Audit log 
+
+tercatat saat laporan di-ACC 
+
+Admin Global menetapkan status ACC 
+
+pada laporan 
+
+Sistem otomatis mencatat aktivitas tersebut dalam AuditLog beserta pelakunya
+
+secara ke tabel 
+
+identitas 
+
+ 
+
+Sistem 
+
+F11-P2 
+
+Audit log 
+
+tercatat saat laporan di-REVISI 
+
+Admin Global menetapkan status REVISI pada laporan 
+
+Sistem secara otomatis mencatat aktivitas 
+
+tersebut ke dalam tabel 
+
+Sistem 
+
+AuditLog beserta catatan revisi yang diisi 
+
+F11-P3 
+
+Audit log tercatat saat reset password 
+
+IT Support membangkitk an token dan pengguna melakukan 
+
+reset password 
+
+Sistem mencatat seluruh rangkaian aktivitas terkait pemulihan akun ke dalam tabel 
+
+AuditLog 
+
+Sistem 
+
+F12-P1 
+
+Input target per periode berhasil 
+
+User Unit mengisi data target kinerja untuk periode yang belum 
+
+memiliki target 
+
+Target 
+
+tersimpan ke dalam basis data dan dapat digunakan sebagai pembanding 
+
+data realisasi 
+
+User Unit 
+
+F12-P2 
+
+Persentase pencapaia n tampil 
+
+sesuai target 
+
+User Unit membuka laporan yang memiliki data target dan 
+
+realisasi 
+
+Sistem menampilkan persentase pencapaian secara otomatis berdasarkan 
+
+User Unit 
+
+perbandingan keduanya 
+
+F12-N1 
+
+Input target dengan data tidak lengkap 
+
+User Unit 
+
+mencoba menyimpan data target dengan kolom wajib yang masih kosong 
+
+Sistem menampilkan pesan kesalahan dan data target tidak tersimpan 
+
+User Unit 
+
+F12-N2 
+
+User Unit mengakse s input 
+
+target milik unit 
+
+lain 
+
+User Unit 
+
+mencoba mengisi atau mengubah target kinerja unit yang berbeda dari unitnya 
+
+Sistem menolak akses dan 
+
+menampilkan pesan bahwa data tersebut bukan milik 
+
+unit pengguna 
+
+User Unit 
+
+ 
+
+User Acceptance Testing (UAT)  
+
+Berbeda dengan black box testing yang berfokus pada aspek teknis fungsionalitas, User Acceptance Testing (UAT) berfokus pada penilaian subjektif pengguna terhadap kualitas sistem secara menyeluruh berdasarkan pengalaman langsung mereka saat mengoperasikan sistem. Pengujian ini melibatkan ketiga aktor sistem, yaitu User Unit, Admin Global, dan IT Support, yang masing-masing memiliki perspektif dan pengalaman berbeda dalam menggunakan sistem sesuai peran mereka. 
+
+ 
+
+Hasil UAT menjadi tolok ukur utama untuk menentukan apakah sistem telah memenuhi kebutuhan operasional nyata sebelum resmi dirilis. Penilaian pada UAT mengacu pada enam karakteristik kualitas perangkat lunak yang ditetapkan dalam standar ISO/IEC 25010. Setiap karakteristik dijabarkan ke dalam sejumlah pernyataan yang dinilai menggunakan skala Likert 1 hingga 5, dengan keterangan: 1 = Sangat Tidak Setuju, 2 = Tidak Setuju, 3 = Cukup Setuju, 4 = Setuju, dan 5 = Sangat Setuju. Daftar pernyataan UAT disusun agar dapat dipahami oleh pengguna dari semua latar belakang teknis, sehingga setiap responden dapat memberikan penilaian yang jujur dan representatif. 
+
+ 
+
+No 
+
+Karakteristik 
+
+ISO/IEC 25010 
+
+Pernyataan 
+
+Responden 
+
+1 
+
+Keamanan 
+
+Sistem hanya dapat diakses oleh pengguna yang telah memiliki akun terdaftar 
+
+User Unit / Admin Global 
+
+/ IT Support 
+
+2 
+
+Saya tidak dapat mengakses fitur atau data yang bukan menjadi wewenang peran saya 
+
+User Unit / Admin Global 
+
+/ IT Support 
+
+3 
+
+Sistem mengunci akun secara otomatis setelah tiga kali percobaan login yang gagal 
+
+User Unit / Admin Global 
+
+/ IT Support 
+
+4 
+
+Proses pemulihan akun melalui token yang dikirimkan via WhatsApp terasa aman dan terkontrol 
+
+User Unit / IT Support 
+
+5 
+
+Saya merasa data laporan yang saya input terlindungi dan tidak dapat diubah oleh pihak lain tanpa izin 
+
+User Unit / Admin Global 
+
+6 
+
+Kinerja 
+
+Sistem menampilkan data dan halaman dengan cepat tanpa penundaan yang mengganggu 
+
+User Unit / Admin Global 
+
+/ IT Support 
+
+7 
+
+Notifikasi realtime terkait perubahan status laporan diterima tanpa jeda waktu yang lama 
+
+User Unit / Admin Global 
+
+8 
+
+Sistem tetap berjalan dengan baik meskipun digunakan secara bersamaan oleh beberapa pengguna 
+
+User Unit / Admin Global 
+
+/ IT Support 
+
+9 
+
+Proses submit laporan dan pembaruan status berlangsung dengan cepat setelah tombol ditekan 
+
+User Unit / Admin Global 
+
+10 
+
+Kemudahan Penggunaan 
+
+Tampilan antarmuka sistem mudah dipahami tanpa memerlukan pelatihan khusus sebelumnya 
+
+User Unit / Admin Global 
+
+/ IT Support 
+
+11 
+
+Saya dapat menemukan fitur yang saya butuhkan dengan mudah di dalam sistem 
+
+User Unit / Admin Global 
+
+/ IT Support 
+
+12 
+
+Proses penginputan laporan harian dapat dilakukan dengan mudah dan tidak membingungkan 
+
+User Unit 
+
+13 
+
+Alur pengajuan helpdesk mudah diikuti dan tidak memerlukan langkah yang berlebihan 
+
+User Unit 
+
+14 
+
+Proses peninjauan dan pemberian keputusan laporan (ACC/REVISI) dapat dilakukan dengan mudah melalui dashboard 
+
+Admin Global 
+
+15 
+
+Proses penanganan tiket helpdesk dan pembangkitan token reset password mudah dilakukan di dalam sistem 
+
+IT Support 
+
+16 
+
+Keandalan 
+
+Sistem berjalan stabil dan tidak mengalami gangguan saat saya menggunakannya 
+
+User Unit / Admin Global 
+
+/ IT Support 
+
+17 
+
+Data laporan yang telah saya simpan tidak hilang atau berubah tanpa alasan yang jelas 
+
+User Unit / Admin Global 
+
+18 
+
+Sistem mampu menangani kesalahan input dengan baik dan menampilkan pesan yang informatif 
+
+User Unit / Admin Global 
+
+/ IT Support 
+
+19 
+
+Notifikasi WhatsApp terkait status laporan dan helpdesk selalu terkirim dengan benar 
+
+User Unit / Admin Global 
+
+/ IT Support 
+
+20 
+
+Kompatibilitas 
+
+Sistem dapat diakses dan digunakan dengan baik melalui browser yang biasa saya gunakan 
+
+User Unit / Admin Global 
+
+/ IT Support 
+
+21 
+
+Tampilan sistem tetap dapat dibaca dan digunakan dengan baik di perangkat yang saya miliki 
+
+User Unit / Admin Global 
+
+/ IT Support 
+
+22 
+
+Tidak ada fitur sistem yang gagal berfungsi akibat perbedaan perangkat atau browser yang digunakan 
+
+User Unit / Admin Global 
+
+/ IT Support 
+
+23 
+
+Ketersediaan 
+
+Sistem dapat diakses kapan saja selama perangkat saya terhubung dengan jaringan internet 
+
+User Unit / Admin Global 
+
+/ IT Support 
+
+ 
+
+24 
+
+Saya tidak pernah mengalami kondisi sistem tidak dapat diakses sama sekali saat saya membutuhkannya 
+
+User Unit / Admin Global 
+
+/ IT Support 
+
+25 
+
+Sistem tersedia dan siap digunakan pada jam kerja operasional tanpa hambatan 
+
+User Unit / Admin Global 
+
+/ IT Support 
+
+ 
+
+ 
+
+126 
+
+ 
+
+ 
+
+ 
+
+3.4.5 Perilisan dan Pemeliharaan  
+
+Tahap perilisan merupakan tahap di mana sistem yang telah dinyatakan layak melalui proses pengujian mulai dioperasikan secara resmi dalam lingkungan kerja nyata di PT KAI Divre I Sumatera Utara. Sebelum sistem dioperasikan sepenuhnya, dilakukan serangkaian persiapan akhir yang mencakup konfigurasi server, pengaturan akun pengguna awal, serta pengecekan ulang seluruh koneksi layanan eksternal seperti WhatsApp gateway melalui Baileys dan komunikasi realtime melalui Socket.io. Proses peralihan dari sistem lama yang berbasis grup WhatsApp ke sistem baru dilakukan secara terencana agar tidak mengganggu kelangsungan proses pelaporan harian yang sudah berjalan. Dengan demikian, seluruh unit dapat mulai menggunakan sistem baru tanpa mengalami hambatan operasional yang berarti. 
+
+Setelah sistem resmi dirilis, tahap pemeliharaan dimulai sebagai upaya untuk menjaga kestabilan dan keandalan sistem dalam jangka panjang. Pemeliharaan dilakukan secara berkala oleh IT Support yang bertugas memantau kondisi sistem, menangani kendala teknis yang muncul, serta memastikan seluruh layanan berjalan sesuai yang diharapkan. Apabila ditemukan kesalahan atau ketidaksesuaian fungsi setelah sistem dioperasikan, perbaikan dilakukan dengan merujuk kembali pada rancangan yang telah dibuat tanpa harus mengulang keseluruhan proses pengembangan dari awal. Pendekatan ini selaras dengan karakteristik metode Modified Waterfall yang memungkinkan adanya penyesuaian pada tahap tertentu tanpa mengganggu tahapan lain yang telah selesai. 
+
+Pemeliharaan sistem juga mencakup pembaruan data dan konfigurasi yang diperlukan seiring berkembangnya kebutuhan 127 
+
+ 
+
+ 
+
+operasional PT KAI Divre I Sumatera Utara di masa mendatang. Karena sistem dirancang dengan pendekatan modular, setiap komponen dapat diperbarui atau diperluas secara mandiri tanpa memengaruhi komponen lain yang sedang berjalan. Hal ini memberikan fleksibilitas bagi tim IT untuk mengembangkan sistem lebih lanjut, misalnya dengan 
+
+menambahkan unit pelaporan baru atau memperluas fitur notifikasi sesuai kebutuhan bisnis yang terus berkembang. Dengan demikian, sistem tidak hanya mampu memenuhi kebutuhan saat ini, tetapi juga dirancang untuk tetap relevan dan dapat dikembangkan dalam jangka panjang. 
+
+ 
+
+ 
+
+ 

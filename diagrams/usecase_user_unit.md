@@ -1,4 +1,4 @@
-# USE CASE DIAGRAM
+# USE CASE DIAGRAM — USER UNIT
 # Sistem Monitoring & Pelaporan PT KAI Divre I Sumut
 
 ```mermaid
@@ -21,37 +21,19 @@ flowchart LR
             UC8["Lihat Status Laporan"]
             UC9["Export Laporan PDF / Excel"]
         end
-        subgraph Rev["Review & Monitoring"]
-            UC10["Review Laporan"]
-            UC11["ACC Laporan"]
-            UC12["Set Status REVISI"]
-            UC13["Monitor Semua Unit"]
-            UC14["Kelola Akun User"]
-            UC15["Kelola Unit"]
-            UC16["Lihat Dashboard & Grafik"]
-        end
         subgraph Help["Helpdesk"]
             UC17["Ajukan Helpdesk TOKEN"]
             UC18["Ajukan Helpdesk ISSUE"]
             UC19["Ajukan Helpdesk REVISION"]
-            UC20["Handle Helpdesk TOKEN"]
-            UC21["Handle Helpdesk ISSUE"]
-            UC22["Handle Helpdesk REVISION"]
-            UC23["Generate Token Reset Password"]
         end
     end
 
-    AG@{ shape: person, label: "Admin Global" }
-    IT@{ shape: person, label: "IT Support" }
-
-    %% User Unit (KIRI) --- Use Cases
     UU --- UC1 & UC2
     UU --- UC3 & UC4 & UC5 & UC6 & UC7 & UC8 & UC9
     UU --- UC17 & UC18 & UC19
 
-    %% Use Cases --- Admin Global (KANAN)
-    UC1 & UC9 & UC10 & UC11 & UC12 & UC13 & UC14 & UC15 & UC16 & UC22 --- AG
-
-    %% Use Cases --- IT Support (KANAN)
-    UC1 & UC13 & UC20 & UC21 & UC23 --- IT
+    UC7 -. "«include»" .-> UC6
+    UC4 -. "«extend»" .-> UC3
+    UC2 -. "«include»" .-> UC17
+    UC8 -. "«extend»" .-> UC7
 ```
