@@ -351,7 +351,10 @@ Sebelum membaca diagram-diagram berikut, perlu ditegaskan bahwa seluruh proses p
     \label{fig:3.usecase-user-unit}
 \end{figure}
 
-Gambar \ref{fig:3.usecase-user-unit} menunjukkan \textit{use case diagram} untuk aktor User Unit. Pada diagram ini, User Unit dapat berinteraksi dengan sistem melalui fungsi \textit{Login, Reset Password via Token, Input Laporan Harian, Input Target/RKAP, Validasi Internal Laporan, Submit Laporan, Export Laporan PDF/Excel}, serta pengajuan layanan \textit{helpdesk} (\textit{TOKEN, ISSUE}, dan \textit{REVISION}). Diagram ini juga memuat dua relasi \texttt{«extend»}, yaitu fungsi Tambah Komoditi Barang terhadap Input Laporan Harian dan fungsi Lihat Status Laporan terhadap Submit Laporan. Selain itu, terdapat relasi \texttt{«include»} pada fungsi Submit Laporan terhadap Validasi Internal Laporan, yang menegaskan bahwa proses validasi internal wajib dilalui sebelum laporan dapat dikirimkan kepada Admin Global. \par
+Use case diagram pertama menggambarkan interaksi User Unit dengan sistem yang mencakup fungsi Login, Reset Password via Token,
+Input Laporan Harian, Input Target/RKAP, Validasi Internal Laporan,
+Submit Laporan, Export Laporan PDF/Excel, Ajukan Helpdesk TOKEN, Ajukan Helpdesk ISSUE, dan Ajukan Helpdesk REVISION. Terdapat dua relasi tambahan pada diagram ini, yaitu fungsi Tambah Komoditi Barang yang bersifat «extend» terhadap Input Laporan Harian, artinya fitur ini hanya digunakan oleh User Unit Angkutan Barang saat diperlukan, serta fungsi Lihat Status Laporan yang bersifat «extend» terhadap Submit 
+Laporan. Selain itu, fungsi Validasi Internal Laporan memiliki relasi «include» terhadap Submit Laporan, yang berarti proses validasi internal wajib dilalui sebelum laporan dapat di-submit. Use case diagram aktor User Unit dapat dilihat pada Gambar \ref{fig:3.usecase-user-unit} berikut.  
 
 \begin{figure}[H]
     \centering
@@ -359,9 +362,12 @@ Gambar \ref{fig:3.usecase-user-unit} menunjukkan \textit{use case diagram} untuk
     \caption{\textit{Use Case Diagram} Aktor Admin Global}
     \label{fig:3.usecase-admin-global}
 \end{figure}
-Gambar \ref{fig:3.usecase-admin-global} menunjukkan \textit{use case diagram} untuk aktor Admin Global. Aktor ini memiliki kewenangan untuk mengakses fungsi \textit{Login, Export Laporan PDF/Excel, Review Laporan, Monitor Semua Unit, Kelola Akun User, Kelola Unit}, serta \textit{Lihat Dashboard \& Grafik}. Pada fungsi Review Laporan, terdapat relasi \texttt{«extend»} dari fungsi ACC Laporan dan Set Status REVISI, yang merupakan opsi tindak lanjut setelah proses peninjauan dilakukan. Selain itu, fungsi Handle Helpdesk REVISION memiliki relasi \texttt{«extend»} terhadap Set Status REVISI, yang menandakan bahwa status revisi juga dapat dipicu melalui penanganan tiket bantuan dari User Unit. \par
+Use case diagram kedua menggambarkan interaksi Admin Global dengan sistem yang mencakup fungsi Login, Export Laporan 
+PDF/Excel, Review Laporan, Monitor Semua Unit, Kelola Akun User, Kelola Unit, dan Lihat Dashboard \& Grafik. Fungsi Review Laporan memiliki dua relasi «include», yaitu ACC Laporan dan Set Status REVISI, yang berarti kedua fungsi tersebut selalu menjadi bagian dari proses review yang dilakukan Admin Global. Fungsi Handle Helpdesk REVISION memiliki relasi «extend» terhadap Set Status REVISI, artinya penetapan status REVISI juga dapat dipicu melalui jalur penanganan tiket helpdesk dari User Unit. Use case diagram aktor Admin Global dapat dilihat pada Gambar \ref{fig:3.usecase-admin-global} berikut.  
 
-Gambar \ref{fig:3.usecase-it-support} menunjukkan \textit{use case diagram} untuk aktor IT Support. Interaksi yang dapat dilakukan oleh aktor ini mencakup fungsi \textit{Login, Monitor Semua Unit, Handle Helpdesk TOKEN}, dan \textit{Handle Helpdesk ISSUE}. Pada penanganan tiket terkait akses akun, fungsi Handle Helpdesk TOKEN memiliki relasi \texttt{«include»} terhadap Generate Token Reset Password. Hal ini berarti bahwa setiap kali IT Support menangani tiket \textit{TOKEN}, proses pembangkitan token untuk pemulihan kata sandi selalu dieksekusi sebagai bagian dari penanganan tersebut. \par
+Use case diagram ketiga menggambarkan interaksi IT Support dengan sistem yang mencakup fungsi Login, Monitor Semua Unit, 
+Handle Helpdesk TOKEN, dan Handle Helpdesk ISSUE. Fungsi Handle 
+Helpdesk TOKEN memiliki relasi «include» terhadap Generate Token Reset Password, yang berarti setiap kali IT Support menangani tiket TOKEN, pembangkitan token reset password selalu menjadi bagian dari proses penanganannya. Use case diagram aktor IT Support dapat dilihat pada Gambar \ref{fig:3.usecase-it-support} berikut.  
 
 \begin{figure}[H]
     \centering
@@ -375,18 +381,18 @@ Gambar \ref{fig:3.usecase-it-support} menunjukkan \textit{use case diagram} untu
 \textbf{Activity Diagram 1: Login \& Mekanisme Lock Akun.}\par
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.85\textwidth]{figure/activity_png/activity_1_login.drawio.png}
+    \includegraphics[width=0.70\textwidth]{figure/activity_png/activity_1_login.drawio.png}
     \caption{\textit{Activity Diagram} 1: Login \& Mekanisme Lock Akun}
     \label{fig:3.ad-login}
 \end{figure}
 
-Alur proses login beserta mekanisme penguncian akun ini dapat dilihat pada Gambar \ref{fig:3.ad-login} diatas .Proses autentikasi merupakan pintu masuk utama bagi seluruh pengguna sistem sebelum dapat mengakses fitur-fitur yang tersedia. Sistem dirancang dengan mekanisme keamanan berlapis di mana setiap percobaan login yang gagal akan dicatat dan diakumulasikan oleh sistem. Apabila pengguna gagal melakukan login sebanyak tiga kali secara berturut-turut, akun akan dikunci secara otomatis oleh sistem untuk mencegah akses yang tidak sah. \par
+Alur proses login beserta mekanisme penguncian akun ini dapat dilihat pada Gambar \ref{fig:3.ad-login} berikut.   
 
 Berdasarkan \textit{activity diagram} pada Gambar \ref{fig:3.ad-login}, alur dimulai ketika pengguna memasukkan email dan kata sandi, kemudian sistem memeriksa apakah akun dalam kondisi terkunci. Jika terkunci, sistem langsung menampilkan pesan untuk menghubungi IT Support tanpa melanjutkan proses verifikasi. Jika tidak terkunci, sistem memvalidasi kredensial; apabila valid, JWT token dibangkitkan dan pengguna diarahkan ke \textit{dashboard}, sedangkan apabila tidak valid, nilai \texttt{loginAttempts} bertambah satu. Apabila jumlah kegagalan telah mencapai tiga kali, sistem secara otomatis mengunci akun dan menampilkan pesan akun terkunci kepada pengguna. \par
 
 \textbf{Activity Diagram 2: Reset Password via Token.} \par
 
-Pengguna yang akunnya terkunci tidak dapat langsung memulihkan akses secara mandiri, melainkan harus melalui proses bantuan yang melibatkan IT Support. Proses ini dirancang untuk menjaga keamanan sistem sekaligus memastikan bahwa hanya pengguna yang sah yang dapat memulihkan akses akunnya. Mekanisme pemulihan menggunakan token satu kali pakai yang memiliki batas waktu kedaluwarsa selama satu jam. Alur proses reset password via token ini dapat dilihat pada Gambar \ref{fig:3.ad-reset} berikut. \par
+Alur lengkap proses reset password melalui token ini dapat dilihat pada Gambar \ref{fig:3.ad-reset} berikut. \par
 
 \begin{figure}[H]
     \centering
@@ -492,7 +498,7 @@ Berdasarkan \textit{sequence diagram} pada Gambar \ref{fig:3.seq-submit}, \texti
 \textbf{Sequence Diagram 4: Admin Review Laporan (ACC / REVISI).}\par
 Proses review laporan oleh Admin Global melibatkan komunikasi antara Admin Global, User Unit, Frontend, Backend, Database, Socket.io, dan layanan WhatsApp melalui Baileys. Setiap keputusan yang diambil Admin Global menghasilkan respons yang berbeda baik di sisi sistem maupun di sisi penerima notifikasi. Alur komunikasi antar komponen dalam proses review laporan ini dapat dilihat pada Gambar \ref{fig:3.seq-review}. \par
 
-Berdasarkan \textit{sequence diagram} pada Gambar \ref{fig:3.seq-review}, Admin Global membuka daftar laporan melalui \texttt{GET /api/report?status=WAITING} dan \textit{backend} mengambil seluruh laporan berstatus WAITING dari \textit{database} untuk ditampilkan. Admin Global membuka detail laporan melalui \texttt{GET /api/report/:id} kemudian mengambil keputusan; apabila ACC, \textit{frontend} mengirimkan \texttt{PATCH /api/report/:id/review} dengan status ACC, lalu \textit{backend} memperbarui status laporan, mencatat ke AuditLog, dan mengirimkan \textit{event} melalui Socket.io sehingga User Unit menerima notifikasi \textit{real-time}. Apabila REVISI, Admin Global mengisi catatan revisi dan \textit{backend} memperbarui status laporan menjadi REVISI, mencatat ke AuditLog, mengirimkan \textit{event} Socket.io, sekaligus mengirimkan notifikasi WhatsApp kepada User Unit. User Unit pun menerima pemberitahuan melalui dua kanal sekaligus, yaitu notifikasi \textit{real-time} di sistem dan pesan WhatsApp. \par
+Berdasarkan \textit{sequence diagram} pada Gambar \ref{fig:3.seq-helpdesk}, User Unit mengajukan \textit{helpdesk} REVISION melalui \texttt{POST /api/helpdesk} dan \textit{backend} menyimpan SupportRequest ke \textit{database} sekaligus mengirimkan notifikasi WhatsApp kepada Admin Global. Admin Global membuka detail tiket melalui \texttt{GET /api/helpdesk/:id} dan apabila menyetujui revisi, mengirimkan \texttt{PATCH /api/report/:id/set-revisi} sehingga \textit{backend} memperbarui status laporan menjadi REVISI, mengubah status SupportRequest menjadi RESOLVED, dan mengirimkan \textit{event} Socket.io agar User Unit menerima notifikasi \textit{real-time}. User Unit kemudian mengedit laporan melalui \texttt{PUT /api/report/:id} dan melakukan validasi internal serta \textit{submit} ulang melalui \texttt{PATCH /api/report/:id/submit}, sehingga \textit{backend} memperbarui status laporan kembali menjadi WAITING dan mengirimkan \textit{event} Socket.io kepada Admin Global bahwa laporan telah di-\textit{submit} ulang. \par
 
 \begin{figure}[H]
     \centering
@@ -510,7 +516,7 @@ Proses \textit{helpdesk} jenis REVISION melibatkan komunikasi antara User Unit, 
     \label{fig:3.seq-helpdesk}
 \end{figure}
 
-Berdasarkan \textit{sequence diagram} pada Gambar \ref{fig:3.seq-helpdesk}, User Unit mengajukan \textit{helpdesk} REVISION melalui \texttt{POST /api/helpdesk} dan \textit{backend} menyimpan SupportRequest ke \textit{database} sekaligus mengirimkan notifikasi WhatsApp kepada Admin Global. Admin Global membuka detail tiket melalui \texttt{GET /api/helpdesk/:id} dan apabila menyetujui revisi, mengirimkan \texttt{PATCH /api/report/:id/set-revisi} sehingga \textit{backend} memperbarui status laporan menjadi REVISI, mengubah status SupportRequest menjadi RESOLVED, dan mengirimkan \textit{event} Socket.io agar User Unit menerima notifikasi \textit{real-time}. User Unit kemudian mengedit laporan melalui \texttt{PUT /api/report/:id} dan melakukan validasi internal serta \textit{submit} ulang melalui \texttt{PATCH /api/report/:id/submit}, sehingga \textit{backend} memperbarui status laporan kembali menjadi WAITING dan mengirimkan \textit{event} Socket.io kepada Admin Global bahwa laporan telah di-\textit{submit} ulang. \par
+Berdasarkan \textit{sequence diagram} pada Gambar \ref{fig:3.seq-submit}, \textit{frontend} terlebih dahulu mengirimkan \texttt{GET /api/report/today} ke \textit{backend} untuk memeriksa keberadaan laporan hari ini; apabila sudah ada, \textit{backend} mengembalikan data laporan \textit{existing} dan \textit{frontend} menampilkan pesan bahwa laporan hari ini telah dibuat. Apabila belum ada, \textit{frontend} menampilkan formulir kosong dan pengguna mengisi data laporan, kemudian mengirimkan \texttt{POST /api/report} sehingga \textit{backend} menyimpan laporan beserta detail unitnya ke \textit{database} dengan status DRAFT. Pengguna mengeklik tombol validasi internal yang mengirimkan \texttt{PATCH /api/report/:id/validate-internal} dan \textit{backend} memperbarui status menjadi \texttt{READY\allowbreak\_TO\allowbreak\_SUBMIT}. Pengguna kemudian mengeklik \textit{submit} melalui \texttt{PATCH /api/report/:id/submit} dan \textit{backend} memperbarui status menjadi WAITING sekaligus mengirimkan \textit{event} \texttt{new-report} melalui Socket.io sehingga Admin Global menerima notifikasi \textit{real-time}. \par
 
 
 \FloatBarrier
@@ -870,7 +876,11 @@ Tahap pengujian dilakukan untuk memastikan bahwa sistem yang telah dibangun berj
 \end{longtable}
 
 \subsubsection*{B. User Acceptance Testing (UAT)}
-\textit{User Acceptance Testing} (UAT) dilakukan untuk mengukur tingkat keberterimaan sistem oleh pengguna akhir berdasarkan standar ISO/IEC 25010 \cite{lamada2024iso}. Pengujian ini melibatkan pengguna langsung dari unit-unit terkait di PT KAI Divre I Sumatera Utara. Aspek-aspek yang diuji mencakup enam karakteristik kualitas ISO/IEC 25010, yaitu Keamanan (\textit{Security}), Kinerja (\textit{Performance Efficiency}), Kemudahan Penggunaan (\textit{Usability}), Keandalan (\textit{Reliability}), Kompatibilitas (\textit{Compatibility}), dan Ketersediaan (\textit{Availability}) \cite{lamada2024iso}. Instrumen kuesioner menggunakan skala Likert 1–5 dengan kriteria penilaian sebagai berikut: (1) Sangat Tidak Setuju, (2) Tidak Setuju, (3) Netral, (4) Setuju, dan (5) Sangat Setuju. Hasil rata-rata skor per aspek kemudian dikonversi menjadi persentase untuk menentukan tingkat keberterimaan sistem. Rancangan kuesioner UAT berdasarkan standar ISO/IEC 25010 dapat dilihat pada Tabel \ref{table:3.uat} berikut: \par
+\textit{User Acceptance Testing} (UAT) dilakukan untuk mengukur tingkat keberterimaan sistem oleh pengguna akhir berdasarkan standar ISO/IEC 25010 \cite{lamada2024iso}. Pengujian ini melibatkan responden yang dipilih menggunakan teknik \textit{purposive sampling} \cite{sugiyono2019} berdasarkan kriteria keterlibatan langsung pengguna dalam proses operasional sistem pelaporan kinerja harian, dengan total responden berkisar antara 16 hingga 20 orang yang terbagi ke dalam tiga kelompok peran, yaitu User Unit, Admin Global, dan IT Support di lingkungan PT KAI Divre I Sumatera Utara. \par
+
+Aspek-aspek yang diuji mencakup enam karakteristik kualitas ISO/IEC 25010, yaitu Keamanan (\textit{Security}), Efisiensi Kinerja (\textit{Performance Efficiency}), Kemudahan Penggunaan (\textit{Usability}), Keandalan (\textit{Reliability}), Kompatibilitas (\textit{Compatibility}), dan Ketersediaan (\textit{Availability}) \cite{lamada2024iso}. Instrumen pengujian menggunakan kuesioner dengan skala Likert 1--5 dengan kriteria penilaian sebagai berikut: (1) Sangat Tidak Setuju, (2) Tidak Setuju, (3) Netral, (4) Setuju, dan (5) Sangat Setuju. \par
+
+Sistem dinyatakan diterima (\textit{accepted}) apabila hasil persentase keberterimaan secara keseluruhan mencapai nilai minimal 61\% atau berada pada kategori Layak hingga Sangat Layak. Rancangan kuesioner UAT berdasarkan standar ISO/IEC 25010 dapat dilihat pada Tabel \ref{table:3.uat} berikut: \par
 
 \begin{longtable}{|p{0.05\textwidth}|p{0.18\textwidth}|p{0.47\textwidth}|p{0.18\textwidth}|}
     \caption{Rancangan Kuesioner UAT Berdasarkan ISO/IEC 25010}
